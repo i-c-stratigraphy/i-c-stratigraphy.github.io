@@ -20,7 +20,7 @@ The awards are made at two levels:
 ### 2019
 
 <div class="person">
-    <img src="images/person-gibbard.2.gif" alt="Gibbard" />
+    <img src="/images/person-gibbard.2.gif" alt="Gibbard" />
     <h4>
         Digby McLaren Medal<br />
         Phil Gibbard
@@ -32,7 +32,7 @@ The awards are made at two levels:
 </div>
 
 <div class="person">
-    <img src="images/person-shen.2.gif" alt="shen" />
+    <img src="/images/person-shen.2.gif" alt="shen" />
     <h4>
         ICS Medal<br />
         Shuzhong Shen
@@ -48,7 +48,7 @@ The awards are made at two levels:
 ### 2015
 
 <div class="person">
-    <img src="images/person-miall.gif" alt="Miall" />
+    <img src="/images/person-miall.gif" alt="Miall" />
     <h4>
         Digby McLaren Medal<br />
         Andrew Miall
@@ -60,7 +60,7 @@ The awards are made at two levels:
 </div>
 
 <div class="person">
-    <img src="images/person-payros.gif" alt="Payros" />
+    <img src="/images/person-payros.gif" alt="Payros" />
     <h4>
         ICS Medal<br />
         Aitor Payros
@@ -76,7 +76,7 @@ The awards are made at two levels:
 ### 2012
 
 <div class="person">
-    <img src="images/person-bergstrom.gif" alt="Bergström" />
+    <img src="/images/person-bergstrom.gif" alt="Bergström" />
     <h4>
         Digby McLaren Medal<br />
         Stig Bergström
@@ -88,7 +88,7 @@ The awards are made at two levels:
 </div>
 
 <div class="person">
-    <img src="images/person-salder.gif" alt="Salder" />
+    <img src="/images/person-salder.gif" alt="Salder" />
     <h4>
         ICS Medal<br />
         Peter Salder
@@ -104,7 +104,7 @@ The awards are made at two levels:
 ### 2008
 
 <div class="person">
-    <img src="images/person-brett.gif" alt="Brett" />
+    <img src="/images/person-brett.gif" alt="Brett" />
     <h4>
         Digby McLaren Medal<br />
         Carlton Brett
@@ -116,7 +116,7 @@ The awards are made at two levels:
 </div>
 
 <div class="person">
-    <img src="images/person-palfy.gif" alt="Pálfy" />
+    <img src="/images/person-palfy.gif" alt="Pálfy" />
     <h4>
         ICS Medal<br />
         József Pálfy
@@ -132,7 +132,7 @@ The awards are made at two levels:
 ### 2004
 
 <div class="person">
-    <img src="images/person-hardenbol.gif" alt="Hardenbol" />
+    <img src="/images/person-hardenbol.gif" alt="Hardenbol" />
     <h4>
         Digby McLaren Medal<br />
         Jan Hardenbol
@@ -144,7 +144,7 @@ The awards are made at two levels:
 </div>
 
 <div class="person">
-    <img src="images/person-hesselbo.gif" alt="Hesselbo" />
+    <img src="/images/person-hesselbo.gif" alt="Hesselbo" />
     <h4>
         ICS Medal<br />
         Stephen Hesselbo

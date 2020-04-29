@@ -5,9 +5,9 @@ permalink: /statutes
 ---
 ## Statues & Guidelines
 
-[Cowie et al. 1986](http://stratigraphy.org/upload/Cowie1986.pdf) -  Guidelines and Statutes of the International Commission on Stratigraphy (ICS)
+[Cowie et al. 1986](/files/Cowie1986.pdf) -  Guidelines and Statutes of the International Commission on Stratigraphy (ICS)
  
-[Remane et al. 1996](http://stratigraphy.org/upload/Remane1996.pdf) -  Revised guidelines for the establishment of global chronostratigraphic standards by the International Commission on Stratigraphy (ICS)
+[Remane et al. 1996](/files/Remane1996.pdf) -  Revised guidelines for the establishment of global chronostratigraphic standards by the International Commission on Stratigraphy (ICS)
 
 ![](images/logo-ics.gif)  
 
