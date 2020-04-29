@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>International Commission on Stratigraphy</title>
+    <style>
+        body {
+            text-align: center;
+            line-height: 1.5em;
+            background-size: 100%;
+            background-color: #e0dedf;
+            padding: 0;
+            margin: 0;
+            font-family: arial, helvetica, sans-serif;
+        }
+
+        #widther {
+            margin: 0 auto;
+            max-width: 1000px;
+            text-align: left;
+            box-shadow: 0pt 0pt 3px rgb(136, 136, 136);
+            background-color: white;
+        }
+
+        h2, h3, h4 {
+            color: #555555;
+            font-family: Arial, sans-serif;
+        }
+
+        h2 > a {
+            font-weight: normal;
+        }
+
+        h2 > sup {
+            float: right;
+        }
+
+        #title {
+            font-size: 32px; 
+            font-weight: bold; 
+            color: #333333; 
+            font-family: arial black, avant garde;
+        }
+
+        h1 {
+            color: #333333;
+            font-family: arial black, avant garde;
+        }
+
+        h4 {
+            font-weight: bold;
+        }
+
+        p, li, td, th, a, .caption {
+            font-family: arial, helvetica, sans-serif;
+            color: #333333;
+        }
+
+        a {
+            text-decoration: none;
+            text-align: center;
+            color: #095197;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul {
+            line-height: 2em;
+        }
+
+        li > ul > li {
+            font-size: smaller;
+        }
+
+        #header {
+            display: grid;
+            grid-template-columns: 150px 1fr;
+            height: 100px;
+        }
+
+        #innerheader {
+            display: grid;
+            grid-template-rows: 50px 100px;
+        }
+
+        #banner {
+            background: url(images/banner-01.png) no-repeat;
+            display: block;
+            height:270px;
+            background-size: contain;
+            margin-bottom: 30px;
+        }
+
+        #body-grid {
+            display : grid;
+            grid-template-columns: 200px 1fr;
+        }
+
+        #container-content {
+            padding: 0 20px 0 20px;
+            overflow: hidden;    
+        }
+
+        footer {
+            font-size: small;
+            background: #333333;
+            color:white;
+            text-align: center;
+            padding: 25px;
+        }
+
+        .person {
+            font-size: smaller;
+            text-align: center;
+            height: 380px;
+            width: 250px;
+            margin: 50px;
+            float:left;
+        }
+
+        .person > h4 {
+            margin: 0;
+            line-height: 1.5em;   
+        }
+
+        .person > p {
+            margin: 0;
+            line-height: 1.5em;   
+        }        
+    </style>
+</head>
+<body>
+    <div id="widther">
+        <div id="header">
+            <div style="text-align:right;">
+                <a href="http://www.sandswim.com.au"><img src="images/logo-ics.gif" alt="ICS logo" style="width:100px" /></a>
+            </div>
+            <div id="innerheader">
+                <div id="headertxt" style="padding: 50px 20px;">
+                    <div id="title">International Commission on Stratigraphy</div>
+                </div>
+            </div>
+        </div>
+        <div id="banner"></div>
+        <div id="body-grid">
+            <div id="sidebar" style="grid-column: 1;">
+                {% include menu.html %}
+            </div>
+            <div id="container-content" style="grid-column: 2;">
+                {{ content }}
+            </div>            
+        </div>
+        <footer>
+            &copy; 2013-2020 International Commission on Stratigraphy, all rights reserved
+        </footer>
+    </div>
+</body>
+</html>

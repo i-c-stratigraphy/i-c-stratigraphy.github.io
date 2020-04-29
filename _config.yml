@@ -1,0 +1,12 @@
+title: stratigraphy.org
+email: nicholas.car@surroundaustralia.com
+description: 
+  The International Commission on Stratigraphy's website.
+baseurl: "/"
+url: "http://stratigraphy.org"
+github_username:  nicholascar
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

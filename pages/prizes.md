@@ -1,0 +1,156 @@
+---
+layout: page
+title: "Home"
+permalink: /prizes
+---
+## Prizes
+
+The International Commission on Stratigraphy (ICS) is a leading entity of the International Union of Geological Sciences (IUGS) with responsibility for establishing international standards in stratigraphy, such as the Geological Time Scale and the International Chronostratigraphical Scale, defined by boundary stratotypes (GSSPs).
+
+Stratigraphy is the core discipline of the geological sciences, concerned with the relationships in time and space of rocks (not just sedimentary, but also igneous and metamorphic rocks) and the varied processes that have formed and affected them. Results and interpretations deriving from other disciplines can only be integrated into a coherent all-embracing geological history if they are based on sound stratigraphy.
+
+To emphasize this key role of stratigraphy, the International Commission on Stratigraphy awards two ICS Prizes to outstanding geoscientists every four years. The first awards were made at the 32nd IGC in Florence, 2004; the second and third at the 33rd and 34th IGC in Oslo, 2008 and in Brisbane, 2012. Beginning in 2015, the awards will be made at the International Congress on Stratigraphy.
+
+The awards are made at two levels:
+
+1. The **Digby McLaren Medal** is awarded to honor a significant body of internationally important contributions to stratigraphy sustained over a number of years. The contributions can be in research (through publication of papers, monographs or books) or in education (through development of influential educational material or resources). It is expected that a major proportion of this work will have been published in an international language. The medal is named in honor of the Canadian geologist Digby McLaren who was so influential in developing the key "golden spike" concept of a Global Stratotype Section and Point (GSSP) with reference to the Silurian - Devonian boundary, and a major force behind the International Geological Correlation Program (IGCP) of UNESCO.
+
+2. The **ICS Medal** is awarded to honor high-quality research in stratigraphy by recognizing a single major achievement in advancing stratigraphical knowledge. The research can be either in the development of new methods of analysis or in the presentation of new data and/or interpretation of the geological history of a particular area or time interval. There are no limitations to the size or scale of the subject matter. The geographical scope of the work need not be international, but the work should be of an international scientific caliber. The language of publication of the work is not a criterion, and it may comprise a single paper of distinction or a series of papers over a short period of time that have similar impact.
+
+### 2019
+
+<div class="person">
+    <img src="images/person-gibbard.2.gif" alt="Gibbard" />
+    <h4>
+        Digby McLaren Medal<br />
+        Phil Gibbard
+    </h4>
+    <p>
+        Cambridge, UK<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="images/person-shen.2.gif" alt="shen" />
+    <h4>
+        ICS Medal<br />
+        Shuzhong Shen
+    </h4>
+    <p>
+        Nanjing, China<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+### 2015
+
+<div class="person">
+    <img src="images/person-miall.gif" alt="Miall" />
+    <h4>
+        Digby McLaren Medal<br />
+        Andrew Miall
+    </h4>
+    <p>
+        Toronto, Canada<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="images/person-payros.gif" alt="Payros" />
+    <h4>
+        ICS Medal<br />
+        Aitor Payros
+    </h4>
+    <p>
+        Bilbao, Spain<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+### 2012
+
+<div class="person">
+    <img src="images/person-bergstrom.gif" alt="Bergström" />
+    <h4>
+        Digby McLaren Medal<br />
+        Stig Bergström
+    </h4>
+    <p>
+        Columbus, Ohio, USA<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="images/person-salder.gif" alt="Salder" />
+    <h4>
+        ICS Medal<br />
+        Peter Salder
+    </h4>
+    <p>
+        Riverside, California, USA<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+### 2008
+
+<div class="person">
+    <img src="images/person-brett.gif" alt="Brett" />
+    <h4>
+        Digby McLaren Medal<br />
+        Carlton Brett
+    </h4>
+    <p>
+        Cincinnati, Ohio, USA<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="images/person-palfy.gif" alt="Pálfy" />
+    <h4>
+        ICS Medal<br />
+        József Pálfy
+    </h4>
+    <p>
+        Budapest, Hungary<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+### 2004
+
+<div class="person">
+    <img src="images/person-hardenbol.gif" alt="Hardenbol" />
+    <h4>
+        Digby McLaren Medal<br />
+        Jan Hardenbol
+    </h4>
+    <p>
+        Houston, Texas, USA<br />
+        <a href="">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="images/person-hesselbo.gif" alt="Hesselbo" />
+    <h4>
+        ICS Medal<br />
+        Stephen Hesselbo
+    </h4>
+    <p>
+        Oxford, United Kingdom<br />
+        <a href="">See details</a>
+    </p>
+</div>
