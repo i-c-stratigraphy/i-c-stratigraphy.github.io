@@ -6,7 +6,7 @@ permalink: /executive
 ## ICS Executive
 
 <div class="person">
-    <img src="images/person-harper.gif" alt="" />
+    <img src="/images/person-harper.gif" alt="" />
     <h4>Chair: David A. T. Harper</h4>
     <p>
         Professor, Earth Sciences and Principal<br />
@@ -18,7 +18,7 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="images/person-huber.gif" alt="" />
+    <img src="/images/person-huber.gif" alt="" />
     <h4>Vice Chair: Brian T. Huber</h4>
     <p>
         Chairman, Department of Paleobiology<br />
@@ -30,7 +30,7 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="images/person-gibbard.gif" alt="" />
+    <img src="/images/person-gibbard.gif" alt="" />
     <h4>Secretary-General: Philip Gibbard</h4>
     <p>
         Professor, Scott Polar Research Institute<br />
@@ -46,7 +46,7 @@ permalink: /executive
 ## Non-voting members
 
 <div class="person">
-    <img src="images/person-fan.gif" alt="" />
+    <img src="/images/person-fan.gif" alt="" />
     <h4>Informatics Officer: Junxuan Fan</h4>
     <p>
         School of Earth Sciences and Engineering<br />
@@ -59,7 +59,7 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="images/person-cohen.gif" alt="" />
+    <img src="/images/person-cohen.gif" alt="" />
     <h4>Graphics Officer: Kim Cohen</h4>
     <p>
         Dept. Physical Geography<br />
