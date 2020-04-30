@@ -40,12 +40,12 @@
             font-size: 32px; 
             font-weight: bold; 
             color: #333333; 
-            font-family: arial black, avant garde;
+            font-family: arial black, avant garde, sans-serif;
         }
 
         h1 {
             color: #333333;
-            font-family: arial black, avant garde;
+            font-family: arial black, avant garde, sans-serif;
         }
 
         h4 {
@@ -135,6 +135,24 @@
             font-size: small;
         }
     </style>
+    <script>
+        const imagesArray = [
+            "/images/banner-01.png",
+            "/images/banner-02.png",
+            "/images/banner-03.png",
+            "/images/banner-04.png",
+            "/images/banner-05.png",
+            "/images/banner-06.png",
+            "/images/banner-07.png",
+            "/images/banner-08.png"
+        ];
+
+        function displayImage(){
+          const num = Math.floor(Math.random() * 5); // 0...6
+          document.getElementById('banner').style.backgroundImage = "url('" + imagesArray[num] + "')";
+        }
+        setInterval(displayImage, 7000);
+  </script>
 </head>
 <body>
     <div id="widther">
