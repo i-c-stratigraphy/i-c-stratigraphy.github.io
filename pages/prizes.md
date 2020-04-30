@@ -27,7 +27,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Cambridge, UK<br />
-        <a href="">See details</a>
+        <a href="/news/127">See details</a>
     </p>
 </div>
 
@@ -39,7 +39,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Nanjing, China<br />
-        <a href="">See details</a>
+        <a href="/news/128">See details</a>
     </p>
 </div>
 
@@ -55,7 +55,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Toronto, Canada<br />
-        <a href="">See details</a>
+        <a href="/news/110">See details</a>
     </p>
 </div>
 
@@ -67,7 +67,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Bilbao, Spain<br />
-        <a href="">See details</a>
+        <a href="/news/111">See details</a>
     </p>
 </div>
 
@@ -83,19 +83,19 @@ The awards are made at two levels:
     </h4>
     <p>
         Columbus, Ohio, USA<br />
-        <a href="">See details</a>
+        <a href="/news/105">See details</a>
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-salder.gif" alt="Salder" />
+    <img src="/images/person-sadler.gif" alt="Sadler" />
     <h4>
         ICS Medal<br />
-        Peter Salder
+        Peter Sadler
     </h4>
     <p>
         Riverside, California, USA<br />
-        <a href="">See details</a>
+        <a href="/news/102">See details</a>
     </p>
 </div>
 
@@ -111,7 +111,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Cincinnati, Ohio, USA<br />
-        <a href="">See details</a>
+        <a href="/news/106">See details</a>
     </p>
 </div>
 
@@ -123,7 +123,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Budapest, Hungary<br />
-        <a href="">See details</a>
+        <a href="/news/103">See details</a>
     </p>
 </div>
 
@@ -139,7 +139,7 @@ The awards are made at two levels:
     </h4>
     <p>
         Houston, Texas, USA<br />
-        <a href="">See details</a>
+        <a href="/news/107">See details</a>
     </p>
 </div>
 
@@ -151,6 +151,6 @@ The awards are made at two levels:
     </h4>
     <p>
         Oxford, United Kingdom<br />
-        <a href="">See details</a>
+        <a href="/news/104">See details</a>
     </p>
 </div>
