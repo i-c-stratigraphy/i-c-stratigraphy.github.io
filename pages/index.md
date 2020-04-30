@@ -13,6 +13,7 @@ permalink: /
 <hr />
 
 ## News & Meetings
+* [New Interactive Chart](/news/130) [2020-04-30]
 * [ICS Medals awarded to Phil Gibbard (Cambridge, UK) and Shuzhong Shen (Nanjing, China) at STRATI 2019](/news/129) [2019-08-15]
 * [Formal subdivision of the Holocene Series/Epoch](/news/125) [2018-09-24]
 * [IGC 2020 at Delhi, India, 2-8 March 2020](/news/123) [2018-08-08]
