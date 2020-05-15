@@ -46,15 +46,15 @@ permalink: /executive
 ## Non-voting members
 
 <div class="person">
-    <img src="/images/person-fan.gif" alt="" />
-    <h4>Informatics Officer: Junxuan Fan</h4>
+    <img src="/images/person-car.jpg" alt="" style="width:225px;" />
+    <h4>Webmaster: Nicholas Car</h4>
     <p>
-        School of Earth Sciences and Engineering<br />
-        Nanjing University<br />
-        163# Xianlin Avenue, Nanjing 210023<br />
-        P.R. China<br />
-        Tel: +44-1913347143<br />
-        E-mail:  <a href="fanjunxuan@gmail.com">fanjunxuan@gmail.com</a><br />
+        Data Systems Architect<br />
+        SURROUND Australia pty Ltd<br />
+        20 Oxford Pl, Shorncliffe<br />
+        Brisbane, Qld, 4017, Australia<br />
+        Tel: +614 77 560 177<br />
+        E-mail: <a href="nicholas.car@surroundaustralia.com">nicholas.car@surroundaustralia.com</a><br />
     </p>
 </div>
 
