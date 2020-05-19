@@ -5,11 +5,18 @@ permalink: /chart
 ---
 ## Chart
 
-<div style="text-align:center;">
-    <a href="/timescale/">
-        <img src="/images/interactive-chart-small.png" alt="interactive chart" /><br />
-        Interactive Chart (2020-01)
-    </a>
+<div style="display:grid; grid-template-columns:60% 40%; width:100%;">
+    <div style="text-align:center;">
+        <h4>Interactive Chart online</h4>
+        <a href="/timescale/">
+            <img src="/images/interactive-chart-long.png" alt="interactive chart" style="width:350px;" /><br />
+        </a>
+    </div>
+    <div style="text-align:center;">
+        <h4>iPhone Timescale app</h4>
+        <img src="/images/mobile-app-small.jpg" alt="mobile app" /><br />
+        <em>Search Apple App Store for "isc timescale"</em>
+    </div>
 </div>
 
 
