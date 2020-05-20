@@ -15,7 +15,7 @@ permalink: /chart
     <div style="text-align:center;">
         <h4>iPhone Timescale app</h4>
         <img src="/images/mobile-app-small.jpg" alt="mobile app" /><br />
-        <em>Search Apple App Store for "isc timescale"</em>
+        <em>Search Apple App Store for "ics timescale"</em>
     </div>
 </div>
 
