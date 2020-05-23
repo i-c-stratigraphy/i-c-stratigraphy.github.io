@@ -13,6 +13,8 @@ permalink: /
 <hr />
 
 ## News & Meetings
+* [New ICS Subcommission announced](/news/131) [2019-09-05]
+    * [International Subcommission on Timescale Calibration](/news/131) 
 * [New Interactive Chart](/news/130) [2020-04-30]
 * [ICS Medals awarded to Phil Gibbard (Cambridge, UK) and Shuzhong Shen (Nanjing, China) at STRATI 2019](/news/129) [2019-08-15]
 * [Formal subdivision of the Holocene Series/Epoch](/news/125) [2018-09-24]
