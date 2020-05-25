@@ -7,3 +7,6 @@ vendor
 
 # JetBrains tools
 .idea/
+
+# Mac indexes
+.DS_Store
