@@ -108,39 +108,41 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="ediacaran"></a>Subcommission on Ediacaran Stratigraphy
 [Homepage](http://ediacaran.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-xiao.gif" alt="" />
-    <h4>Chair: Shuhai Xiao</h4>
-    <p>
-        Professor, Department of Geological Sciences<br />
-        Virginia Polytechnical Institute and University<br />
-        4044 Derring Hall, Blacksburg, VA 24061-0420, USA<br />
-        Tel: +1-540-231-1336<br />
-        E-mail: <a href="mailto:xiao@vt.edu">xiao@vt.edu</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-grazhdankin.gif" alt="" />
-    <h4>Vice-Chair: Dmitriy Grazhdankin</h4>
-    <p>
-        Inst of Petroleum Geology &amp; Geophysics<br />
-        Siberian Branch of Russian Academy of Sciences<br />
-        Koptyug Avenue 3, Novosibirsk 630090 Russia<br />
-        E-mail: <a href="mailto:f6oeoua@mac.com ">f6oeoua@mac.com </a>  
-    </p>
-</div>
-
-<div class="person">
     <img src="/images/person-laflamme.gif" alt="" />
-    <h4>Secretary: Marc Laflamme</h4>
+    <h4>Chair: Marc Laflamme</h4>
     <p>
         Assistant Professor<br />
         Dept of Chemical and Physical Sciences<br />
-        University of Toronto Mississauga<br />
+        Research Associate in Palaeobiology<br />
+        Royal Ontario Museum<br />
+        University of Toronto Mississauga<br />        
         3359 Mississauga Road N.<br />
-        Mississauga, ON L5L 1C6<br />
-        Canada<br />
+        Mississauga, ON L5L 1C6, Canada<br />
+        Phone: +1 905-828-5228 / +1 647-999-3589<br />
         E-mail: <a href="mailto:marc.laflamme@utoronto.ca">marc.laflamme@utoronto.ca</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-schiffbauer.jpg" alt="" />
+    <h4>Vice-Chair: James Schiffbauer</h4>
+    <p>
+        Associate Professor – Department of Geological Sciences<br />
+        Director – X-ray Microanalysis Core Facility<br />
+        University of Missouri<br />
+        E-mail: <a href="mailto:schiffbauerj@missouri.edu">schiffbauerj@missouri.edu</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-warren.jpg" alt="" />
+    <h4>Vice-Chair: Lucas Warren</h4>
+    <p>
+        Sedimentology and Biostratigraphy<br />
+        Institute of Geosciences and Exact Sciences<br />
+        Department of Applied Geology<br />
+        São Paulo State University (UNESP), SP, Brazil<br />
+        E-mail: <a href="mailto:lucas.warren@unesp.br">lucas.warren@unesp.br</a>
     </p>
 </div>
 
@@ -508,7 +510,7 @@ The sixteen subcommissions of ICS are listed as follows.
         4 Rakowiecka St.<br />
         00-975 Warszawa, Poland<br />
         Tel.: +48 22 45 92 256<br />
-        E-mail: <a href="mailto:gpie@pgi.gov.pl ">gpie@pgi.gov.pl </a>  
+        E-mail: <a href="mailto:gpie@pgi.gov.pl">gpie@pgi.gov.pl</a>  
     </p>
 </div>
 
@@ -550,7 +552,7 @@ The sixteen subcommissions of ICS are listed as follows.
         Althanstrasse 14<br />
         Vienna, A-1090, Austria<br />
         Tel: +43-1-4277-53465<br />
-        E-mail: <a href="mailto:michael.wagreich@univie.ac.at ">michael.wagreich@univie.ac.at </a>  
+        E-mail: <a href="mailto:michael.wagreich@univie.ac.at">michael.wagreich@univie.ac.at</a>  
     </p>
 </div>
 
