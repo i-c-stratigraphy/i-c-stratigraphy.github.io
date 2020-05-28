@@ -187,42 +187,65 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
 [Homepage](http://ordovician.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-dronov.gif" alt="" />
-    <h4>Chair: Andre Dronov</h4>
+    <img src="/images/person-servais2.jpg" alt="" />
+    <h4>Chair: Thomas Servais</h4>
     <p>
-        Professor, Geological Institute, Russian Academy of Sciences,<br />
-        Pyzhevsky per.7, 119017 Moscow, Russia<br />
-        Tel: +495-230-81-17<br />
-        E-mail: <a href="mailto:dronov@ginras.ru">dronov@ginras.ru</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-servais.gif" alt="" />
-    <h4>Vice-Chair: Thomas Servais</h4>
-    <p>
-        UMR 8198 Evo-Eco-Paleo,<br />
-        CNRS-University of Lille, France<br />
+        UMR 8198 EVO ECO PALEO – Evolution, Ecologie et Paléontologie,<br />
+        CNRS - Université de Lille – Sciences et Technologies<br />
+        Bâtiment SN5,  59655 Villeneuve d’Ascq Cedex, FRANCE<br />
         Tel: +33 (0)3 20 33 72 20<br />
-        E-mail: <a href="mailto:thomas.servais@univ-lille1.fr ">thomas.servais@univ-lille1.fr </a>  
+        E-mail: <a href="mailto:Thomas.Servais@univ-lille.fr">Thomas.Servais@univ-lille.fr</a>  
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-percival.gif" alt="" />
-    <h4>Secretary: Ian Percival</h4>
+    <img src="/images/person-zhan.gif" alt="" />
+    <h4>Vice-Chair: Zhan Renbin</h4>
     <p>
-        Principal Research Scientist (Palaeontologist)<br />
-        Geological Survey of NSW,<br />
-        W.B. Clarke Geoscience Centre
-        947-953 Londonderry Rd, Londonderry 2753<br />
-        New South Wales. Australia<br />
-        Tel: +61-2-4777-0315<br />
-        E-mail: <a href="mailto:ian.percival@industry.nsw.gov.au">ian.percival@industry.nsw.gov.au</a>  
+        State Key Laboratory of Paleobiology and Stratigraphy,<br />
+        Nanjing Institute of Geology and Palaeontology (NIGP)<br />
+        Chinese Academy of Sciences (CAS)<br />
+        39 East Beijing Road, Nanjing, 210008, CHINA<br />
+        Tel: +86 25 83282132<br />
+        E-mail: <a href="mailto:rbzhan@nigpas.ac.cn">rbzhan@nigpas.ac.cn</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-lefebvre.jpg" alt="" />
+    <h4>Secretary: Bertrand Lefebvre</h4>
+    <p>
+        UMR 5276 LGL -TPE<br />
+        CNRS - Université de Lyon 1<br />
+        Bâtiment GEODE,  69622 Villeurbanne Cedex, FRANCE<br />
+        Tel: +33 (0)4 72 43 28 34<br />
+        E-mail: <a href="mailto:Bertrand.Lefebvre@univ-lyon1.fr">Bertrand.Lefebvre@univ-lyon1.fr</a>  
     </p>
 </div>
 
 <div style="clear:both;"></div>
+
+#### Subcommission voting members
+1. Thomas Servais (Belgium) - chair
+2. Zhan Renbin (China) – vice-chair
+3. Sachiko Agematsu-Watanabe (Japan)
+4. Matilde Beresi (Argentina)
+5. André Desrochers (Canada)
+6. Mansoureh Ghobadi Pour (Iran)
+7. Daniel Goldman (USA)
+8. Lars Holmer (Sweden)
+9. Petr Kraft (Czech Republic)
+10. Bertrand Lefebvre (France) - secretary
+11. Patrick I McLaughlin (USA)
+12. Tonu Meidla (Estonia)
+13. Leon Normore (Australia)
+14. Elena Raevskaya (Russia)
+15. Tatiana Tolmacheva (Russia)
+16. Alycia Stigall (USA)
+17. Wang Wenhui (China)
+18. Charles Wellman (UK)
+19. Seth Young (USA), isotopes
+20. Yong Yi Zhen (Australia), conodonts
 
 ### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
 [Homepage](http://silurian.stratigraphy.org/)
