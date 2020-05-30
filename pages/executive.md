@@ -19,7 +19,7 @@ permalink: /executive
 
 <div class="person">
     <img src="/images/person-shen.gif" alt="" />
-    <h4>Chair: Shuzhong Shen</h4>
+    <h4>Vice-Chair: Shuzhong Shen</h4>
     <p>
         Professor, Nanjing Institute of Geology & Paleontology<br />
         39 East Beijing Rd., Nanjing 210008, China<br />
