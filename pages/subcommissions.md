@@ -277,7 +277,7 @@ The sixteen subcommissions of ICS are listed as follows.
 
 <div class="person">
     <img src="/images/person-zhan.gif" alt="" />
-    <h4>Secretary: Renbin Zhan</h4>
+    <h4>Vice-Chair: Renbin Zhan</h4>
     <p>
         Professor,<br />
         Nanjing Institute of Geology and Paleontology<br />
@@ -288,36 +288,15 @@ The sixteen subcommissions of ICS are listed as follows.
     </p>
 </div>
 
+<div class="person">
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Webmaster: Huang Bin</h4>
+</div>
+
 <div style="clear:both;"></div>
 
 ### <a id="devonian"></a>Subcommission on Devonian Stratigraphy
 [Homepage](http://devonian.stratigraphy.org/)
-<div class="person">
-    <img src="/images/person-marshall.gif" alt="" />
-    <h4>Chair: John E. A. Marshall</h4>
-    <p>
-        Professor, School of Ocean and Earth Science<br />
-        University of Southampton<br />
-        National Oceanography Centre<br />
-        European Way<br />
-        Southampton, SO14 3 ZH, UK<br />
-        Tel: +44 2380592015<br />
-        E-mail: <a href="mailto:jeam@noc.soton.ac.uk">jeam@noc.soton.ac.uk</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-brett.gif" alt="" />
-    <h4>Vice-Chair: Carlton E. Brett</h4>
-    <p>
-        Professor, Department of Geology<br />
-        University of Cincinnati<br />
-        345 Clifton Court, Cincinnati, Ohio 45221, USA<br />
-        Tel: +1 513-566-4556<br />
-        E-mail: <a href="mailto:carlton.brett@uc.edu">carlton.brett@uc.edu</a>  
-    </p>
-</div>
-
 <div class="person">
     <img src="/images/person-slavik.gif" alt="" />
     <h4>Secretary: Ladislav Słavik</h4>
@@ -332,6 +311,31 @@ The sixteen subcommissions of ICS are listed as follows.
 </div>
 
 <div class="person">
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Vice-Chair: José Ignacio Valenzuela Ríos</h4>
+    <p>
+        Department De Geología<br />
+        Universitat de València<br />
+        C/. Dr. Moliner 50, E-46100, Burjassot, Spain<br />
+        Tel: +34 96 3543412<br />
+        E-mail: <a href="mailto:Jose.I.Valenzuela@uv.es">Jose.I.Valenzuela@uv.es</a>  
+    </p>
+</div>
+
+<div class="person">
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Secretary: Ulrich Jansen</h4>
+    <p>
+        Palaeozoology III, Senckenberg Gesellschaft<br />
+        für Naturforschung Rechtsfähiger<br />
+        Verein gemäß § 22 BGB, Senckenberganlage 25,<br />
+        60325 Frankfurt, Germany<br />
+        Tel: +49-69-97075 1146<br />
+        E-mail: <a href="mailto:jansen@senckenberg.de">jansen@senckenberg.de</a>  
+    </p>
+</div>
+
+<div class="person">
     <img src="/images/person-becker.gif" alt="" />
     <h4>Newsletter editor: R. Thomas Becker</h4>
     <p>
@@ -340,6 +344,18 @@ The sixteen subcommissions of ICS are listed as follows.
         D-48149, Münster<br />
         Tel: +49-251-83 339 51<br />
         E-mail: <a href="mailto:rbecker@uni-muenster.de">rbecker@uni-muenster.de</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-corradini.gif" alt="" />
+    <h4>Webmaster: Carlo Corradini</h4>
+    <p>
+        Dipartimento di Matematica e Geoscienze,<br />
+        Università di Trieste,<br />
+        via Weiss 2 - 34128 Trieste, Italy<br />
+        Tel: +39 040 558-2033<br />
+        E-mail: <a href="mailto:ccorradin@units.it">ccorradin@units.it</a>  
     </p>
 </div>
 
@@ -479,14 +495,15 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="jurassic"></a>Subcommission on Jurassic Stratigraphy
 [Homepage](http://jurassic.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-hesselbo.gif" alt="" />
-    <h4>Chair: Stephen P. Hesselbo</h4>
+    <img src="/images/person-coe.png" alt="" />
+    <h4>Chair: Angela L. Coe</h4>
     <p>
-        Professor, Department of Earth Sciences<br />
-        University of Oxford,<br />
-        Oxford OX1 3PR, UK<br />
-        Tel: +<br />
-        E-mail: <a href="mailto:Stephen.Hesselbo@earth.ox.ac.uk">Stephen.Hesselbo@earth.ox.ac.uk</a>  
+        Professor, School of Environment,<br />
+        Earth and Ecosystem Sciences,<br />
+        The Open University,<br />
+        Walton Hall, Milton Keynes, MK7 6AA, UK<br />
+        Tel: +44 1098 652161<br />
+        E-mail: <a href="mailto:Angela.Coe@open.ac.uk">Angela.Coe@open.ac.uk</a>  
   </p>
 </div>
 
@@ -503,8 +520,8 @@ The sixteen subcommissions of ICS are listed as follows.
 </div>
 
 <div class="person">
-    <img src="/images/person-pienkowski.gif" alt="" />
-    <h4>Secretary: Grzegorz Pienkowski</h4>
+    <img src="/images/person-pienkowski.png" alt="" />
+    <h4>Vice-Chair: Grzegorz Pienkowski</h4>
     <p>
         Polish Geological Institute - National Research Institute<br />
         4 Rakowiecka St.<br />
@@ -574,20 +591,8 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
 [Homepage](http://paleogene.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-monechi.gif" alt="" />
-    <h4>Chair: Simonetta Monechi</h4>
-    <p>
-        Professor, Dipartimento di Scienze della Terra<br />
-        Universitá di Firenze<br />
-        4, Via la Pira, I-50121, Italy<br />
-        Tel: +390552757597<br />
-        E-mail: <a href="mailto:Simonetta.monechi@unifi.it">Simonetta.monechi@unifi.it</a>  
-    </p>
-</div>
-
-<div class="person">
     <img src="/images/person-alegret.gif" alt="" />
-    <h4>Vice-Chair: Laia Alegret</h4>
+    <h4>Chair: Laia Alegret</h4>
     <p>
         Dept. Ciencias de la Tierra<br />
         Universidad de Zaragoza<br />
@@ -599,13 +604,26 @@ The sixteen subcommissions of ICS are listed as follows.
 
 <div class="person">
     <img src="/images/person-payros.gif" alt="" />
-    <h4>Secretary: Aitor Payros</h4>
+    <h4>Vice-Chair: Aitor Payros</h4>
     <p>
         Department of Stratigraphy and Paleontology<br />
         University of the Basque Country  (UPV/EHU)<br />
         Ap. 644, E48080 Bilbao, Spain<br />
         Tel: +34 946015427<br />
         E-mail: <a href="mailto:a.payros@ehu.eus">a.payros@ehu.eus</a>  
+    </p>
+</div>
+
+<div class="person">
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Secretary: Claudia Agnini</h4>
+    <p>
+        Dipartimento di Geoscienze<br />
+        Universita' degli Studi di Padova<br />
+        Via Giovanni Gradenigo,<br />
+        6 - I-35131 - Padova – Italy<br />
+        Tel: +390498279187<br />
+        E-mail: <a href="mailto:claudia.agnini@unipd.it">claudia.agnini@unipd.it</a>  
     </p>
 </div>
 

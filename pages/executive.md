@@ -18,14 +18,13 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="/images/person-huber.gif" alt="" />
-    <h4>Vice Chair: Brian T. Huber</h4>
+    <img src="/images/person-shen.gif" alt="" />
+    <h4>Chair: Shuzhong Shen</h4>
     <p>
-        Chairman, Department of Paleobiology<br />
-        Smithsonian Institution<br />
-        Washington, DC 20013-7012, USA<br />
-        Tel. +1-202-633-1328<br />
-        E-mail:  <a href="huberb@si.edu">huberb@si.edu</a><br />
+        Professor, Nanjing Institute of Geology & Paleontology<br />
+        39 East Beijing Rd., Nanjing 210008, China<br />
+        Tel: +86-25-83282131<br />
+        E-mail: <a href="mailto:szshen@nigpas.ac.cn">szshen@nigpas.ac.cn</a>  
     </p>
 </div>
 
