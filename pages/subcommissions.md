@@ -673,8 +673,19 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
 [Homepage](http://quaternary.stratigraphy.org/)
 <div class="person">
+    <img src="/images/person-zalasiewicz.gif" alt="" />
+    <h4>Chair: Jan Zalasiewicz</h4>
+    <p>
+        Professor, Department of Geology, University of Leicester,<br />
+        Leicester, LE1 7RH, UK<br />
+        Tel: +44 (0)116 252 3928<br />
+        E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
+    </p>
+</div>
+
+<div class="person">
     <img src="/images/person-head.gif" alt="" />
-    <h4>Chair: Martin J. Head</h4>
+    <h4>Vice-Chair: Martin J. Head</h4>
     <p>
         Professor, Department of Earth Sciences<br />
         Brock University<br />
@@ -686,25 +697,28 @@ The sixteen subcommissions of ICS are listed as follows.
 </div>
 
 <div class="person">
-    <img src="/images/person-pillans.gif" alt="" />
-    <h4>Vice-Chair: Brad Pillans</h4>
+    <img src="/images/person-zhou2.jpg" alt="" />
+    <h4>Vice-Chair: Liping Zhou</h4>
     <p>
-        Professor, Research School of Earth Sciences<br />
-        The Australian National University,<br />
-        Canberra, Act, 0200, Australia<br />
-        Tel: +61-2-6125 9644 (Office), +61-2-6249 1507 (Lab),<br />+61-2-6232 4687 (Home)
-        E-mail: <a href="mailto:brad.pillans@anu.edu.au">brad.pillans@anu.edu.au</a>  
+        Department of Geography<br />
+        Peking University<br />
+        Beijing 100871, China<br />
+        Tel: +86 10 62756052<br />
+        E-mail: <a href="mailto:lpzhou@pku.edu.cn">lpzhou@pku.edu.cn</a>  
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-zalasiewicz.gif" alt="" />
-    <h4>Secretary: Jan Zalasiewicz</h4>
+    <img src="/images/person-bertini.jpg" alt="" />
+    <h4>Secretary: Adele Bertini</h4>
     <p>
-        Professor, Department of Geology, University of Leicester,<br />
-        Leicester, LE1 7RH, UK<br />
-        Tel: +44 (0)116 252 3928<br />
-        E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
+        Professor, Dipartimento di Scienze della Terra<br />
+        University of Firenze,<br />
+        Via G. La Pira 4<br />
+        50121 Firenze, Italy<br />
+        Tel:  +39 348 8715460,<br />
+        E-mail: <a href="mailto:adele.bertini@unifi.it">adele.bertini@unifi.it</a><br />  
+        Skype: Artemisiablu
     </p>
 </div>
 
