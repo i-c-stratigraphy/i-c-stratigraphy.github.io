@@ -382,37 +382,41 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="permian"></a>Subcommission on Permian Stratigraphy
 [Homepage](http://permian.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-shen.gif" alt="" />
-    <h4>Chair: Shuzhong Shen</h4>
+    <img src="/images/person-angiolini.jpg" alt="" />
+    <h4>Chair: Lucia Angiolini</h4>
     <p>
-        Professor, Nanjing Institute of Geology & Paleontology<br />
-        39 East Beijing Rd., Nanjing 210008, China<br />
-        Tel: +86-25-83282131<br />
-        E-mail: <a href="mailto:szshen@nigpas.ac.cn">szshen@nigpas.ac.cn</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-schneider.gif" alt="" />
-    <h4>Vice-Chair: Jörg W. Schneider</h4>
-    <p>
-        Professor, TU Bergakademie Freiberg<br />
-        Geologisches Institut<br />
-        Bereich Paläontologie/Stratigraphie<br />
-        Bernhard-von-Cotta-Strasse 2<br />
-        09599 Freiberg, Germany<br />
-        Tel: +49 (0)3731-39-2856<br />
-        E-mail: <a href="mailto:Joerg.Schneider@geo.tu-freiberg.de">Joerg.Schneider@geo.tu-freiberg.de</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-angiolini.gif" alt="" />
-    <h4>Secretary: Lucia Angiolini</h4>
-    <p>
+        Presidente della Società Paleontologica Italiana<br />
+        Coordinatore del Collegio Didattico interdipartimentale di Scienze Naturali<br />
+        Professore di Paleontologia GEO/01<br />
+        Università degli Studi di Milano<br />
         Dipartimento di Scienze della Terra "A. Desio"<br />
-        Via Mangiagalli 34, 20133 Milano, Italy<br />
+        Via Mangiagalli 34, 20133 Milano Italy
+        Tel: +39 0250315513<br />
         E-mail: <a href="mailto:lucia.angiolini@unimi.it">lucia.angiolini@unimi.it</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-stephenson.jpg" alt="" />
+    <h4>Vice-Chair: Mike Stephenson</h4>
+    <p>
+        Professor, British Geological Survey<br />
+        Keyworth Nottingham, NG12 5GG, UK<br />
+        Tel: +44 07971 330738<br />
+        E-mail: <a href="mailto:mhste@bgs.ac.uk">mhste@bgs.ac.uk</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-zhang2.jpg" alt="" />
+    <h4>Secretary: Yichun Zhang</h4>
+    <p>
+        Nanjing Institute of Geology and Palaeontology,<br />
+        Chinese Academy of Sciences<br />
+        39 East Beijing Road, Nanjing 210008,<br />
+        Jiangsu, P.R.China<br />
+        Tel: +86-25-83282137<br />
+        E-mail: <a href="mailto:yczhang@nigpas.ac.cn">yczhang@nigpas.ac.cn</a>  
     </p>
 </div>
 
