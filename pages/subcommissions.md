@@ -648,7 +648,8 @@ The sixteen subcommissions of ICS are listed as follows.
     <img src="/images/person-zalasiewicz.gif" alt="" />
     <h4>Chair: Jan Zalasiewicz</h4>
     <p>
-        Professor, Department of Geology, University of Leicester,<br />
+        Emeritus Professor of Palaeobiology,<br />
+        University of Leicester,<br />
         Leicester, LE1 7RH, UK<br />
         Tel: +44 (0)116 252 3928<br />
         E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
