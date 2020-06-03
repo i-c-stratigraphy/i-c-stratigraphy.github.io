@@ -227,28 +227,6 @@ The sixteen subcommissions of ICS are listed as follows.
 
 <div style="clear:both;"></div>
 
-#### Subcommission voting members
-1. Thomas Servais (Belgium) - chair
-2. Zhan Renbin (China) – vice-chair
-3. Sachiko Agematsu-Watanabe (Japan)
-4. Matilde Beresi (Argentina)
-5. André Desrochers (Canada)
-6. Mansoureh Ghobadi Pour (Iran)
-7. Daniel Goldman (USA)
-8. Lars Holmer (Sweden)
-9. Petr Kraft (Czech Republic)
-10. Bertrand Lefebvre (France) - secretary
-11. Patrick I McLaughlin (USA)
-12. Tonu Meidla (Estonia)
-13. Leon Normore (Australia)
-14. Elena Raevskaya (Russia)
-15. Tatiana Tolmacheva (Russia)
-16. Alycia Stigall (USA)
-17. Wang Wenhui (China)
-18. Charles Wellman (UK)
-19. Seth Young (USA), isotopes
-20. Yong Yi Zhen (Australia), conodonts
-
 ### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
 [Homepage](http://silurian.stratigraphy.org/)
 <div class="person">
