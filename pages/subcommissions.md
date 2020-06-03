@@ -513,11 +513,11 @@ The sixteen subcommissions of ICS are listed as follows.
     <img src="/images/person-pienkowski.png" alt="" />
     <h4>Vice-Chair: Grzegorz Pienkowski</h4>
     <p>
-        Polish Geological Institute - National Research Institute<br />
+        Professor, Polish Geological Institute - National Research Institute<br />
         4 Rakowiecka St.<br />
         00-975 Warszawa, Poland<br />
         Tel.: +48 22 45 92 256<br />
-        E-mail: <a href="mailto:gpie@pgi.gov.pl">gpie@pgi.gov.pl</a>  
+        E-mail: <a href="mailto:grzegorz.pienkowski@pgi.gov.pl ">grzegorz.pienkowski@pgi.gov.pl </a>  
     </p>
 </div>
 
