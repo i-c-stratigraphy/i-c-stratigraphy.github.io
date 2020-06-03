@@ -443,50 +443,40 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
 [Homepage](http://triassic.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-hounslow.gif" alt="" />
-    <h4>Chair: Mark Hounslow</h4>
+    <!--<img src="/images/person-chen.gif" alt="" />-->
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Chair: Zhong-Qiang Chen</h4>
     <p>
-        Professor,<br />
-        Centre for Environ. Magnetism &amp; Palaeomagnetism<br />
-        Geography Dept, Lancaster University<br />
-        Farrer Avenue, Lancaster, LA1 4YQ, UK<br />
-        E-mail: <a href="mailto:m.hounslow@lancaster.ac.uk">m.hounslow@lancaster.ac.uk</a>
+        State Key Laboratory of Biogeology & Environmental Geology,<br />
+        China University of Geosciences (Wuhan),<br />
+        Wuhan 430074, China<br />
+        Tel: +86-27-67883068<br />
+        E-mail: <a href="mailto:zhong.qiang.chen@cug.edu.cn">zhong.qiang.chen@cug.edu.cn</a>
     </p>
 </div>
 
 <div class="person">
     <img src="/images/person-kuerschner.gif" alt="" />
-    <h4>Vice-Chair: Wolfram M. Kuerschner</h4>
+    <h4>Vice-Chair: Wolfram M. Kürschner</h4>
     <p>
         Professor, Department of Geosciences<br />
         University of Oslo<br />
         P.O. Box 1047 Blindern, N-0316 Oslo, Norway<br />
-        Tel: +<br />
-        E-mail: <a href="mailto:"></a>
+        Tel: +47 22856672<br />
+        E-mail: <a href="mailto:w.m.kurschner@geo.uio.no">w.m.kurschner@geo.uio.no</a>
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-mcroberts.gif" alt="" />
-    <h4>Secretary: Christopher A. McRoberts</h4>
+    <!--<img src="/images/person-sun.gif" alt="" />-->
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Secretary: Yadong Sun</h4>
     <p>
-        Professor, Department of Geology<br />
-        State University of New York at Cortland<br />
-        P.O. Box 2000, Cortland, New York 13045, USA<br />
-        Tel: +<br />
-        E-mail: <a href="mailto:Christopher.McRoberts@cortland.edu">Christopher.McRoberts@cortland.edu</a>
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-kuerschner.gif" alt="" />
-    <h4>Albertiana Editor/Webmaster: Wolfram M. Kuerschner</h4>
-    <p>
-        Professor, Department of Geosciences<br />
-        University of Oslo<br />
-        P.O. Box 1047 Blindern, N-0316 Oslo, Norway<br />
-        Tel: +<br />
-        E-mail: <a href="mailto:"></a>
+        GeoZentrum Nordbayern,<br />
+        University of Erlangen-Nuremberg,<br />
+        Schlossgarten 5, 91054 Erlangen, Germany<br />
+        Tel: +49 09131 85 23422<br />
+        E-mail: <a href="mailto:yadong.sun@fau.de">yadong.sun@fau.de</a>
     </p>
 </div>
 
