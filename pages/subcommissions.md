@@ -497,7 +497,19 @@ The sixteen subcommissions of ICS are listed as follows.
         4 Rakowiecka St.<br />
         00-975 Warszawa, Poland<br />
         Tel.: +48 22 45 92 256<br />
-        E-mail: <a href="mailto:grzegorz.pienkowski@pgi.gov.pl ">grzegorz.pienkowski@pgi.gov.pl </a>  
+        E-mail: <a href="mailto:grzegorz.pienkowski@pgi.gov.pl">grzegorz.pienkowski@pgi.gov.pl</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-kemp.jpg" alt="" />
+    <h4>Secretary: David B. Kemp</h4>
+    <p>
+        Professor, School of Earth Sciences<br />
+        China University of Geosciences (Wuhan)<br />
+        388 Lumo Road<br />
+        Wuhan 430074, P.R. China<br />
+        E-mail: <a href="mailto:davidkemp@cug.edu.cn">davidkemp@cug.edu.cn</a>  
     </p>
 </div>
 
