@@ -425,8 +425,7 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
 [Homepage](http://triassic.stratigraphy.org/)
 <div class="person">
-    <!--<img src="/images/person-chen.gif" alt="" />-->
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-chen.jpg" alt="" />
     <h4>Chair: Zhong-Qiang Chen</h4>
     <p>
         State Key Laboratory of Biogeology & Environmental Geology,<br />
@@ -450,8 +449,7 @@ The sixteen subcommissions of ICS are listed as follows.
 </div>
 
 <div class="person">
-    <!--<img src="/images/person-sun.gif" alt="" />-->
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-sun.jpg" alt="" />
     <h4>Secretary: Yadong Sun</h4>
     <p>
         GeoZentrum Nordbayern,<br />
