@@ -614,7 +614,7 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="neogene"></a>Subcommission on Neogene Stratigraphy
 [Homepage](http://neogene.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-miller.gif" alt="" />
+    <img src="/images/person-miller2.jpg" alt="" />
     <h4>Chair: Kenneth G. Miller</h4>
     <p>
         Professor, Department of Earth &amp; Planetary Sciences<br />
