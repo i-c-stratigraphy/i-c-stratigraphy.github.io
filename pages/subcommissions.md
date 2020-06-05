@@ -650,6 +650,19 @@ The sixteen subcommissions of ICS are listed as follows.
     </p>
 </div>
 
+<div class="person">
+    <img src="/images/person-aubry.jpg" alt="" />
+    <h4>Secretary: Marie-Pierre Aubry</h4>
+    <p>
+        Department of Earth and Planetary Sciences &<br />
+        Institute of Earth, Oceans, and Atmospheric Sciences<br />
+        Rutgers, The State University of New Jersey<br />
+        610 Taylor Rd., Piscataway, NJ 08854-80664<br />
+        Tel: +1 848 445 0822<br />
+        E-mail: <a href="mailto:aubry@eps.rutgers.edu">aubry@eps.rutgers.edu</a>  
+    </p>
+</div>
+
 <div style="clear:both;"></div>
 
 ### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
