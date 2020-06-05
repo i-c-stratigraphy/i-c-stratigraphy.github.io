@@ -614,21 +614,8 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="neogene"></a>Subcommission on Neogene Stratigraphy
 [Homepage](http://neogene.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-raffi.gif" alt="" />
-    <h4>Chair: Isabella Raffi</h4>
-    <p>
-        Professor, Dipartimento di Ingegneria e Geologia<br />
-        Università degli Studi "G. d'Annunzio" di Chieti-Pescara<br />
-        Campus Universitario, Via dei Vestini 31<br />
-        66013 Chieti Scalo, Italy<br />
-        Tel: +39 08713556421<br />
-        E-mail: <a href="mailto:raffi@unich.it">raffi@unich.it</a>  
-    </p>
-</div>
-
-<div class="person">
     <img src="/images/person-miller.gif" alt="" />
-    <h4>Vice-Chair: Kenneth G. Miller</h4>
+    <h4>Chair: Kenneth G. Miller</h4>
     <p>
         Professor, Department of Earth &amp; Planetary Sciences<br />
         State University of New Jersey<br />
@@ -640,7 +627,7 @@ The sixteen subcommissions of ICS are listed as follows.
 
 <div class="person">
     <img src="/images/person-turco.gif" alt="" />
-    <h4>Secretary: Elena Turco</h4>
+    <h4>Vice-Chair: Elena Turco</h4>
     <p>
         Professor, Dipartimento di Scienze Chimiche, della Vita e della Sostenibilità Ambientale<br />
         Università degli Studi di Parma<br />
