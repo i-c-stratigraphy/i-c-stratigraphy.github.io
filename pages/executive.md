@@ -13,7 +13,7 @@ permalink: /executive
         Van Mildert College, Durham University<br />
         Durham DH1 3LE, UK<br />
         Tel: +44-1913347143<br />
-        E-mail:  <a href="david.harper@durham.ac.uk">david.harper@durham.ac.uk</a><br />
+        E-mail:  <a href="mailto:david.harper@durham.ac.uk">david.harper@durham.ac.uk</a><br />
     </p>
 </div>
 
@@ -36,7 +36,7 @@ permalink: /executive
         University of Cambridge<br />
         Lensfield Road, Cambridge CB2 1ER, England<br />
         Tel: +44 (0)1223 336540<br />
-        E-mail:  <a href="plg1@cam.ac.uk">plg1@cam.ac.uk</a><br />
+        E-mail:  <a href="mailto:plg1@cam.ac.uk">plg1@cam.ac.uk</a><br />
     </p>
 </div>
 
@@ -53,7 +53,7 @@ permalink: /executive
         20 Oxford Pl, Shorncliffe<br />
         Brisbane, Qld, 4017, Australia<br />
         Tel: +614 77 560 177<br />
-        E-mail: <a href="nicholas.car@surroundaustralia.com">nicholas.car@surroundaustralia.com</a><br />
+        E-mail: <a href="mailto:nicholas.car@surroundaustralia.com">nicholas.car@surroundaustralia.com</a><br />
     </p>
 </div>
 
@@ -66,6 +66,6 @@ permalink: /executive
         POBOX 80.115, 3508 TC Utrecht<br />
         The Netherlands<br />
         Tel. +31 30 253 5774<br />
-        E-mail:  <a href="k.m.cohen@uu.nl">k.m.cohen@uu.nl</a><br />
+        E-mail:  <a href="mailto:k.m.cohen@uu.nl">k.m.cohen@uu.nl</a><br />
     </p>
 </div>
