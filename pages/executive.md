@@ -24,7 +24,7 @@ permalink: /executive
         Professor, Nanjing Institute of Geology & Paleontology<br />
         39 East Beijing Rd., Nanjing 210008, China<br />
         Tel: +86-25-83282131<br />
-        E-mail: <a href="mailto:szshen@nigpas.ac.cn">szshen@nigpas.ac.cn</a>  
+        E-mail: <a href="mailto:szshen@nju.edu.cn">szshen@nju.edu.cn</a>  
     </p>
 </div>
 
