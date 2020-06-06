@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-permalink: /gssps
+permalink: /gssps-old
 ---
 ## GSSPS
 Click the figure below or [HERE](/gssp/) to view the HTML full version and click [HERE](/gssp/GSSPTable2015-01.pdf) to download the pdf version. 
