@@ -23,6 +23,7 @@ The sixteen subcommissions of ICS are listed as follows.
 14. [Neogene Stratigraphy](#neogene)
 15. [Quaternary Stratigraphy](#quaternary)
 16. [Stratigraphic Classification](#classification)
+17. [Timescale Calibration](#timescale)
 
 ### Subcommission on Precambrian Stratigraphy
 [Homepage](http://precambrian.stratigraphy.org/)
@@ -758,5 +759,43 @@ The sixteen subcommissions of ICS are listed as follows.
         30655 Hannover, Germany<br />
         Tel: +49-511-643-2795<br />
         E-mail: <a href="mailto:Jochen.Erbacher@bgr.de">Jochen.Erbacher@bgr.de</a>  
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+### <a id="timescale"></a>Subcommission on Timescale Calibration
+
+<div class="person">
+    <img src="/images/person-cramer.jpg" alt="" />
+    <h4>Chair: Bradley D. Cramer</h4>
+    <p>
+        Associate Professor, Department of Earth &amp; Environmental Sciences <br />
+        University of Iowa<br />
+        Iowa City, Iowa 52242, USA<br />
+        E-mail: <a href="mailto:bradley-cramer@uiowa.edu">bradley-cramer@uiowa.edu</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-schmitz.jpg" alt="" />
+    <h4>Vice-Chair: Mark D. Schmitz</h4>
+    <p>
+        Professor, Department of Geosciences<br />
+        Boise State University,<br />
+        Boise, Idaho, 83725, USA<br />
+        E-mail: <a href="mailto:markschmitz@boisestate.edu">markschmitz@boisestate.edu</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-dasilva.jpg" alt="" />
+    <h4>Secretary: Anne-Christine DaSilva</h4>
+    <p>
+        Lecturer, Invited Professor<br />
+        Department of Geology<br />
+        Université de Liège<br />
+        B-4000 Liège, Belgium<br />
+        E-mail: <a href="mailto:ac.dasilva@uliege.be">ac.dasilva@uliege.be</a>  
     </p>
 </div>
