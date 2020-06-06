@@ -13,6 +13,7 @@ permalink: /
 <hr />
 
 ## News & Meetings
+* [Website Rejuvenation](/news/132) [2020-05-06]
 * [New Interactive Chart](/news/130) [2020-04-30]
 * [New ICS Subcommission announced](/news/131) [2019-09-05]
     * [International Subcommission on Timescale Calibration](/news/131) 
