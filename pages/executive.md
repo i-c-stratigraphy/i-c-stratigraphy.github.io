@@ -24,7 +24,7 @@ permalink: /executive
         Professor and Academician,<br /> 
         School of Earth Sciences and Engineering<br /> 
         Nanjing University, 163 Xianlin Avenue<br /> 
-        Nanjing 210023 China<br />
+        Nanjing 210023, China<br />
         E-mail: <a href="mailto:szshen@nju.edu.cn">szshen@nju.edu.cn</a>  
     </p>
 </div>
