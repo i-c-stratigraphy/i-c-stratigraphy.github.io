@@ -21,7 +21,7 @@ permalink: /executive
     <img src="/images/person-shen.gif" alt="" />
     <h4>Vice-Chair: Shuzhong Shen</h4>
     <p>
-        Professor and Academician,<br /> 
+        Professor and Academician<br /> 
         School of Earth Sciences and Engineering<br /> 
         Nanjing University, 163 Xianlin Avenue<br /> 
         Nanjing 210023, China<br />
