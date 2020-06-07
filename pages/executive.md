@@ -21,10 +21,11 @@ permalink: /executive
     <img src="/images/person-shen.gif" alt="" />
     <h4>Vice-Chair: Shuzhong Shen</h4>
     <p>
-        Professor, Nanjing Institute of Geology & Paleontology<br />
-        39 East Beijing Rd., Nanjing 210008, China<br />
-        Tel: +86-25-83282131<br />
-        E-mail: <a href="mailto:szshen@nigpas.ac.cn">szshen@nigpas.ac.cn</a>  
+        Professor and Academician<br /> 
+        School of Earth Sciences and Engineering<br /> 
+        Nanjing University, 163 Xianlin Avenue<br /> 
+        Nanjing 210023, China<br />
+        E-mail: <a href="mailto:szshen@nju.edu.cn">szshen@nju.edu.cn</a>  
     </p>
 </div>
 
