@@ -5,7 +5,7 @@ permalink: /links
 ---
 ## Links
 
-* [IUGS](http://www.iugs.org/)
+* [IUGS](https://www.iugs.org/)
 * [Subcommissions of ICS](/subcommissions)
 * [Geobiodiversity Database](http://www.geobiodiversity.com/) - formal database of ICS, which aims to produce comprehensive and authoritative web-based stratigraphic information service for global geoscientists, educators and the public
 * [UNESCO-natural sciences division](http://www.unesco.org/new/en/natural-sciences/)
@@ -15,7 +15,6 @@ permalink: /links
 * [Stratigraphic Chart of Austria 2004](http://palstrat.uni-graz.at/Stratigraphische_Tabelle_von_Oesterreich_2004.pdf)
 * [New Zealand Geological Timescale](http://www.gns.cri.nz/what/earthhist/dating/index.html)
 * [CHRONOS](http://www.chronos.org/) - Interactive Chronostratigraphy and Stratigraphic Databases
-* [GEOWHEN](http://stratigraphy.org/bak/geowhen/index.html) - Database aims to reconcile the international stratigraphic standards with many of the regional and archaic naming schemes that appear in the literature
 * [Micropaleontology Project](http://micropress.org/history.html) - at American Museum of Natural History, New York
 * [Geological Time Systems](https://www.seegrid.csiro.au/twiki/bin/view/CGIModel/GeologicTime)
 * [Cretaceous Tethyan Stratigraphy](http://brcgranier.pagesperso-orange.fr/cts/index.html) - Building up a detailed knowledge of the Cretaceous stratigraphy in the Tethyan realm

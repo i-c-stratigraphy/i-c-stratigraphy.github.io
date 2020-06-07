@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 <div style="float:right; margin-left:30px; margin-top:20px;">
-  <a href="http://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
+  <a href="https://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
   <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
 </div>
 
