@@ -13,6 +13,8 @@ permalink: /
 <hr />
 
 ## News & Meetings
+
+* [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-president Brian Huber (Smithsonian Museum](/news/133) [2020-06-10]
 * [Website Rejuvenation](/news/132) [2020-05-06]
 * [New Interactive Chart](/news/130) [2020-04-30]
 * [New ICS Subcommission announced](/news/131) [2019-09-05]
