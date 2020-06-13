@@ -5,7 +5,7 @@ permalink: /subcommissions
 ---
 ## Subcommissions
 
-The sixteen subcommissions of ICS are listed as follows.
+The seventeen subject subcommissions of ICS are:
 
 1. [Precambrian Stratigraphy](#precambrian)
 2. [Cryogenian Stratigraphy](#cryogenian)
