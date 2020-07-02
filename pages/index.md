@@ -8,17 +8,18 @@ permalink: /
   <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
 </div>
 
-#### The International Commission on Stratigraphy is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to precisely define global units (systems, series, and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs, and age) of the International Geologic Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth.
+#### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to define precisely global units (systems, series and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs and age) of the International Geological Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen and co-ordinated by an executive of five officers.
 
 <hr />
 
 ## News & Meetings
-* [Website Rejuvenation](/news/132) [2020-05-06]
-* [New Interactive Chart](/news/130) [2020-04-30]
-* [New ICS Subcommission announced](/news/131) [2019-09-05]
+
+* [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-chair Brian Huber (Smithsonian Museum)](/news/133) [10-06-2020]
+* [Website Rejuvenation](/news/132) [06-05-2020]
+* [New Interactive Chart](/news/130) [30-04-2020]
+* [New ICS Subcommission announced](/news/131) [05-09-2019]
     * [International Subcommission on Timescale Calibration](/news/131) 
-* [Formal subdivision of the Holocene Series/Epoch](/news/125) [2018-09-24]
-* [ICS Medals awarded to Phil Gibbard (Cambridge, UK) and Shuzhong Shen (Nanjing, China) at STRATI 2019](/news/129) [2019-08-15]
-* [Congratulation from the INQUA president](/news/121) [2018-07-23]
-* [ICS chart containing the Quaternary and Cambrian GSSPs and new stages (v 2018/07) is now released!](/news/120) [2018-07-13]
-* [Revised ICS Statutes ratified by IUGS EC](/news/114) [2017-05-15]
+* [Formal subdivision of the Holocene Series/Epoch](/news/125) [24-09-2018]
+* [ICS Medals awarded to Phil Gibbard (Cambridge, UK) and Shuzhong Shen (Nanjing, China) at STRATI 2019](/news/129) [15-08-2019]
+* [Congratulation from the INQUA president](/news/121) [23-07-2018]
+* [ICS chart containing the Quaternary and Cambrian GSSPs and new stages (v 2018/07) is now released!](/news/120) [13-07-2018]

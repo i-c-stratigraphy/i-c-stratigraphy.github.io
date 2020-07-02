@@ -5,7 +5,7 @@ permalink: /subcommissions
 ---
 ## Subcommissions
 
-The sixteen subcommissions of ICS are listed as follows.
+The seventeen subject subcommissions of ICS are:
 
 1. [Precambrian Stratigraphy](#precambrian)
 2. [Cryogenian Stratigraphy](#cryogenian)
@@ -279,7 +279,7 @@ The sixteen subcommissions of ICS are listed as follows.
 [Homepage](https://devonian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-slavik.gif" alt="" />
-    <h4>Secretary: Ladislav Słavik</h4>
+    <h4>Chair: Ladislav Słavik</h4>
     <p>
         Department of Paleobiology and Paleoecology<br />
         Institute of Geology AS CR, v.v.i.<br />
@@ -546,7 +546,7 @@ The sixteen subcommissions of ICS are listed as follows.
 
 <div class="person">
     <img src="/images/person-wagreich.gif" alt="" />
-    <h4>Secretary: Michael Wagreich</h4>
+    <h4>Vice-chair: Michael Wagreich</h4>
     <p>
         Professor, Depart. of Geodynamics and Sedimentology<br />
         University of Vienna<br />
