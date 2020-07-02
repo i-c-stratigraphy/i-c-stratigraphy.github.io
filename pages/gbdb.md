@@ -25,7 +25,7 @@ Since 2019, the GBDB, supported by technician Mr. Chen Yan-Sen, surveyed the usa
 10.	The old version of the GBDB is retained and is linked on the homepage.
 
 
-Xu Hong-He, Ph.D  
+**Xu Hong-He**, Ph.D  
 Nanjing Institute of Geology and Palaeontology, CAS  
 E-mail (Skype account): <hhxu@nigpas.ac.cn>  
 <http://www.geobiodiversity.com/>  
