@@ -7,7 +7,7 @@ permalink: /subcommissions
 
 The seventeen subject subcommissions of ICS are:
 
-1. [Precambrian Stratigraphy](#precambrian)
+1. [Precryogenian Stratigraphy](#precryogenian)
 2. [Cryogenian Stratigraphy](#cryogenian)
 3. [Ediacaran Stratigraphy](#ediacaran)
 4. [Cambrian Stratigraphy](#cambrian)
@@ -25,18 +25,21 @@ The seventeen subject subcommissions of ICS are:
 16. [Stratigraphic Classification](#classification)
 17. [Timescale Calibration](#timescale)
 
-### Subcommission on Precambrian Stratigraphy
+### <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
 [Homepage](https://precambrian.stratigraphy.org/)
+
+*This Subcommission was known formerly as the **Subcommission on Precambrian Stratigraphy***
+
 <div class="person">
-    <img src="/images/person-noffke.gif" alt="" />
-    <h4>Chair: Nora Noffke</h4>
+    <img src="/images/person-whitehouse.jpg" alt="" />
+    <h4>Chair: Martin J. Whitehouse</h4>
     <p>
-        Department of Ocean, Earth & Atmospheric Sciences<br />
-        Old Dominion University<br />
-        4600 Elkhorn Avenue<br />
-        Norfolk, Virginia, USA<br />
-        Tel: +1 757 749 7090<br />
-        E-mail: <a href="mailto:nnoffke@odu.edu">nnoffke@odu.edu</a>  
+        Professor, Director NordSIMS facility<br />
+        Department of Geosciences<br />
+        Swedish Museum of Natural History<br />
+        Box 50007, SE-104 05 Stockholm, Sweden<br />
+        Tel: +46 8 519 551 69(office)/67(lab)<br />
+        E-mail: <a href="mailto:martin.whitehouse@nrm.se">martin.whitehouse@nrm.se</a>  
     </p>
 </div>
 
