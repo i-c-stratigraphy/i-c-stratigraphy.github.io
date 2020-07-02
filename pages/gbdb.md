@@ -7,6 +7,7 @@ permalink: /gbdb
 
 <div style="text-align:center;">
 <a href="http://geobiodiversity.com"><img src="images/GBDBlinkright.png" alt="Geobiodiversity Database logo"></a>
+<a href="http://geobiodiversity.com"><img src="images/logo-gbdb.png" alt="Geobiodiversity Database logo"></a>
 </div>
 
 The Geobiodiversity Database (GBDB) is the formal database of the International Commission on Stratigraphy (ICS).  First established in In 2012, it is based at the Chinese Academy of Sciences’ Nanjing Institute of Geology and Palaeontology (NIGP).  The project and its website are directed by Dr Hong-He Xu.  The new website of GBDB was launched on 27.5.20 at <http://geobiodiversity.com/>.
