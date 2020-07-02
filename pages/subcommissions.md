@@ -152,30 +152,8 @@ The sixteen subcommissions of ICS are listed as follows.
 ### <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
 [Homepage](https://cambrian.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-babcock.gif" alt="" />
-    <h4>Chair: Loren Babcock</h4>
-    <p>
-        Professor, Department of Geological Sciences<br />
-        Ohio State University<br />
-        125 South Oval Mall, Columbus, OH 43210, USA<br />
-        E-mail: <a href="mailto:babcock.5@osu.edu">babcock.5@osu.edu</a>, 
-        <a href="mailto:loren.babcock@geol.lu.se">loren.babcock@geol.lu.se</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-zhang.gif" alt="" />
-    <h4>Vice-Chair: Xingliang Zhang</h4>
-    <p>
-        Professor, Department of Geology, Northwest University<br />
-        229 Taibailu Street, Xi’an 710069, China<br />
-        E-mail: <a href="mailto:xzhang69@nwu.edu.cn">xzhang69@nwu.edu.cn</a>  
-    </p>
-</div>
-
-<div class="person">
     <img src="/images/person-ahlberg.gif" alt="" />
-    <h4>Secretary: Per Ahlberg</h4>
+    <h4>Chair: Per Ahlberg</h4>
     <p>
         Professor, Department of Geology<br />
         Lund University<br />
@@ -183,6 +161,29 @@ The sixteen subcommissions of ICS are listed as follows.
         Tel: +46 46 222 78 70<br />
         E-mail: <a href="mailto:per.ahlberg@geol.lu.se">per.ahlberg@geol.lu.se</a>  
     </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-maoyan.gif" alt="" />
+    <h4>Vice-Chair: Zhu Maoyan</h4>
+    <p>
+        State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
+        Nanjing Institute of Geology and Palaeontology<br />
+        Chinese Academy of Sciences<br />
+        Nanjing 210008, China
+        E-mail: <a href="mailto:myzhu@nigpas.ac.cn">myzhu@nigpas.ac.cn</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-zylinska.gif" alt="" />
+    <h4>Secretary: Anna Zylinska</h4>
+    <p>
+        Department of Historical and Regional Geology,<br />
+        Institute of Basic Geology, Faculty of Geology,<br />
+        University of Warsaw,<br />
+        Zwirki i Wigury 93, PL-02-089, Poland<br />
+        E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
 </div>
 
 <div style="clear:both;"></div>
