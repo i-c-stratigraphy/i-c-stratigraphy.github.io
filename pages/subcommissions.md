@@ -167,7 +167,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-maoyan.gif" alt="" />
+    <img src="/images/person-zhu.jpg" alt="" />
     <h4>Vice-Chair: Zhu Maoyan</h4>
     <p>
         State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
