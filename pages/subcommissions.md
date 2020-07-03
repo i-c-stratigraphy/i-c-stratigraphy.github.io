@@ -187,6 +187,7 @@ The seventeen subject subcommissions of ICS are:
         University of Warsaw,<br />
         Zwirki i Wigury 93, PL-02-089, Poland<br />
         E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
+    </p>
 </div>
 
 <div style="clear:both;"></div>
