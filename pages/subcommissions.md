@@ -179,7 +179,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-zylinska.gif" alt="" />
+    <img src="/images/person-zylinska.jpg" alt="" />
     <h4>Secretary: Anna Zylinska</h4>
     <p>
         Department of Historical and Regional Geology,<br />
