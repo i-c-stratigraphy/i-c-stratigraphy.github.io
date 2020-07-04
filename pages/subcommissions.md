@@ -391,11 +391,11 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-angiolini.jpg" alt="" />
     <h4>Chair: Lucia Angiolini</h4>
     <p>
-        Presidente della Società Paleontologica Italiana<br />
+        Pres. della Società Paleontologica Italiana<br />
         Coordinatore del Collegio Didattico interdipartimentale di Scienze Naturali<br />
         Professore di Paleontologia GEO/01<br />
         Università degli Studi di Milano<br />
-        Dipartimento di Scienze della Terra "A. Desio"<br />
+        Dip. di Scienze della Terra "A. Desio"<br />
         Via Mangiagalli 34, 20133 Milano Italy
         Tel: +39 0250315513<br />
         E-mail: <a href="mailto:lucia.angiolini@unimi.it">lucia.angiolini@unimi.it</a>  
