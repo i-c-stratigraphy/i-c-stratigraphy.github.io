@@ -72,38 +72,38 @@ The seventeen subject subcommissions of ICS are:
 ### <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
 [Homepage](http://www.episodes.org/index.php/epi/article/view/89231)
 <div class="person">
-    <img src="/images/person-zhou.gif" alt="" />
-    <h4>Chair: Graham Shields-Zhou</h4>
+    <img src="/images/person-zhu.jpg" alt="" />
+    <h4>Chair: Maoyan Zhu</h4>
     <p>
-        Professor, Department of Geological Sciences<br />
+        State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
+        Nanjing Institute of Geology and Palaeontology<br />
+        Chinese Academy of Sciences<br />
+        39 East Beijing Road, Nanjing 210008, China
+        E-mail: <a href="mailto:myzhu@nigpas.ac.cn">myzhu@nigpas.ac.cn</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-dehler.jpg" alt="" />
+    <h4>Vice-Chair: Carol Dehler</h4>
+    <p>
+        Professor, Department of Geology<br />
+        Utah State University<br />
+        4505 Old Main Hill, Logan, Utah  84333<br />
+        United States<br />
+        E-mail: <a href="mailto:Carol.Dehler@usu.edu">Carol.Dehler@usu.edu</a>  
+    </p>
+</div>
+
+<div class="person">
+    <div style="height:240px; background-color: grey;"></div>
+    <h4>Secretary: Ying Zhou</h4>
+    <p>
+        Department of Earth Sciences<br />
         University College London<br />
-        Gower Street, London WC1E 6BT<br />
-        United Kingdom<br />
-        Tel: +44 207 6797821<br />
-        E-mail: <a href="mailto:g.shields@ucl.ac.uk">g.shields@ucl.ac.uk</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-halverson.gif" alt="" />
-    <h4>Vice-Chair: Galen P. Halverson</h4>
-    <p>
-        Dept. of Earth & Planetary Sciences<br />
-        McGill University<br />
-        3450 University Street, Montreal, Quebec<br />
+        Gower Place, London, WC1E 6BT, UK<br />
         H3A 2A7 Canada<br />
-        E-mail: <a href="mailto:galen.halverson@mcgill.ca">galen.halverson@mcgill.ca</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-porter.gif" alt="" />
-    <h4>Secretary: Susannah M. Porter</h4>
-    <p>
-        Department of Earth Science<br />
-        University of California at Santa Barbara<br />
-        Santa Barbara, CA 93106<br />
-        E-mail: <a href="mailto:porter@geol.ucsb.edu">porter@geol.ucsb.edu</a>  
+        E-mail: <a href="mailto:y-zhou@ucl.ac.uk">y-zhou@ucl.ac.uk</a>  
     </p>
 </div>
 
@@ -168,12 +168,12 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-zhu.jpg" alt="" />
-    <h4>Vice-Chair: Zhu Maoyan</h4>
+    <h4>Vice-Chair: Maoyan Zhu</h4>
     <p>
         State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
         Nanjing Institute of Geology and Palaeontology<br />
         Chinese Academy of Sciences<br />
-        Nanjing 210008, China
+        39 East Beijing Road, Nanjing 210008, China
         E-mail: <a href="mailto:myzhu@nigpas.ac.cn">myzhu@nigpas.ac.cn</a>  
     </p>
 </div>
