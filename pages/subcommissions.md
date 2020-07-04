@@ -307,7 +307,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-jansen.jpg" alt="" />
     <h4>Secretary: Ulrich Jansen</h4>
     <p>
         Palaeozoology III, Senckenberg Gesellschaft<br />
@@ -315,7 +315,7 @@ The seventeen subject subcommissions of ICS are:
         Verein gemäß § 22 BGB, Senckenberganlage 25,<br />
         60325 Frankfurt, Germany<br />
         Tel: +49-69-97075 1146<br />
-        E-mail: <a href="mailto:jansen@senckenberg.de">jansen@senckenberg.de</a>  
+        E-mail: <a href="mailto:ulrich.jansen@senckenberg.de">ulrich.jansen@senckenberg.de</a>  
     </p>
 </div>
 
