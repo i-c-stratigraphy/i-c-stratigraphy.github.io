@@ -96,7 +96,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-shields-zhou.jpg" alt="" />
     <h4>Secretary: Ying Zhou</h4>
     <p>
         Department of Earth Sciences<br />
