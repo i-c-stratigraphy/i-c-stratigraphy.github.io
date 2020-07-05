@@ -603,7 +603,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-agnini.jpg" alt="" />
     <h4>Secretary: Claudia Agnini</h4>
     <p>
         Dipartimento di Geoscienze<br />
