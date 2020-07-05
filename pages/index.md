@@ -15,7 +15,7 @@ permalink: /
 ## News & Meetings
 
 * [New Geobiodiversity DB Website launched](/gbdb) [03-07-2020]
-* [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-chair Brian Huber (Smithsonian Museum)](/news/133) [10-06-2020]
+* [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-chair Brian Huber (Smithsonian Museum)](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2020/06/08/get-know-scientist-reconstructing-past-ocean-temperatures/) [10-06-2020]
 * [Website Rejuvenation](/news/132) [06-05-2020]
 * [New Interactive Chart](/news/130) [30-04-2020]
 * [New ICS Subcommission announced](/news/131) [05-09-2019]
