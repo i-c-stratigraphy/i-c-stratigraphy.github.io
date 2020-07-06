@@ -102,7 +102,6 @@ The seventeen subject subcommissions of ICS are:
         Department of Earth Sciences<br />
         University College London<br />
         Gower Place, London, WC1E 6BT, UK<br />
-        H3A 2A7 Canada<br />
         E-mail: <a href="mailto:y-zhou@ucl.ac.uk">y-zhou@ucl.ac.uk</a>  
     </p>
 </div>
