@@ -182,9 +182,10 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zylinska.jpg" alt="" />
     <h4>Secretary: Anna Zylinska</h4>
     <p>
-        Department of Historical and Regional Geology,<br />
-        Institute of Basic Geology, Faculty of Geology,<br />
-        University of Warsaw,<br />
+        Dept. of Historical and Regional Geology<br />
+        Institute of Basic Geology<br />
+        Faculty of Geology<br />
+        University of Warsaw<br />
         Zwirki i Wigury 93, PL-02-089, Poland<br />
         E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
     </p>
@@ -198,7 +199,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-servais2.jpg" alt="" />
     <h4>Chair: Thomas Servais</h4>
     <p>
-        UMR 8198 EVO ECO PALEO – Evolution, Ecologie et Paléontologie,<br />
+        UMR 8198 EVO ECO PALEO – Evolution, Ecologie et Paléontologie<br />
         CNRS - Université de Lille – Sciences et Technologies<br />
         Bâtiment SN5,  59655 Villeneuve d’Ascq Cedex, FRANCE<br />
         Tel: +33 (0)3 20 33 72 20<br />
@@ -210,7 +211,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zhan.gif" alt="" />
     <h4>Vice-Chair: Zhan Renbin</h4>
     <p>
-        State Key Laboratory of Paleobiology and Stratigraphy,<br />
+        State Key Laboratory of Paleobiology and Stratigraphy<br />
         Nanjing Institute of Geology and Palaeontology (NIGP)<br />
         Chinese Academy of Sciences (CAS)<br />
         39 East Beijing Road, Nanjing, 210008, CHINA<br />
@@ -239,7 +240,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-storch.gif" alt="" />
     <h4>Chair: Petr Štorch</h4>
     <p>
-        Principal Research Scientist,<br />
+        Principal Research Scientist<br />
         Institute of Geology CAS<br />
         Rozvojová 269<br />
         Praha 6, CZ 165 00, Czech Republic<br />
@@ -263,7 +264,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zhan.gif" alt="" />
     <h4>Vice-Chair: Renbin Zhan</h4>
     <p>
-        Professor,<br />
+        Professor<br />
         Nanjing Institute of Geology and Paleontology<br />
         Chinese Academy of Sciences<br />
         No. 39 East Beijing Road, Nanjing 210008, China<br />
@@ -312,7 +313,7 @@ The seventeen subject subcommissions of ICS are:
     <p>
         Palaeozoology III, Senckenberg Gesellschaft<br />
         für Naturforschung Rechtsfähiger<br />
-        Verein gemäß § 22 BGB, Senckenberganlage 25,<br />
+        Verein gemäß § 22 BGB, Senckenberganlage 25<br />
         60325 Frankfurt, Germany<br />
         Tel: +49-69-97075 1146<br />
         E-mail: <a href="mailto:ulrich.jansen@senckenberg.de">ulrich.jansen@senckenberg.de</a>  
@@ -335,8 +336,8 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-corradini.gif" alt="" />
     <h4>Webmaster: Carlo Corradini</h4>
     <p>
-        Dipartimento di Matematica e Geoscienze,<br />
-        Università di Trieste,<br />
+        Dipartimento di Matematica e Geoscienze<br />
+        Università di Trieste<br />
         via Weiss 2 - 34128 Trieste, Italy<br />
         Tel: +39 040 558-2033<br />
         E-mail: <a href="mailto:ccorradin@units.it">ccorradin@units.it</a>  
@@ -376,7 +377,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-qie.gif" alt="" />
     <h4>Secretary: Wenkun Qie</h4>
     <p>
-        Key Laboratory of Economic Stratigraphy and Palaeogeography,<br />
+        Key Laboratory of Economic Stratigraphy and Palaeogeography<br />
         Nanjing Institute of Geology and Palaeontology, CAS<br />
         39 East Beijing Rd. Nanjing, Jiangsu 210008, China<br />
         E-mail: <a href="mailto:wkqie@nigpas.ac.cn">wkqie@nigpas.ac.cn</a>  
@@ -417,9 +418,9 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zhang2.jpg" alt="" />
     <h4>Secretary: Yichun Zhang</h4>
     <p>
-        Nanjing Institute of Geology and Palaeontology,<br />
+        Nanjing Institute of Geology and Palaeontology<br />
         Chinese Academy of Sciences<br />
-        39 East Beijing Road, Nanjing 210008,<br />
+        39 East Beijing Road, Nanjing 210008<br />
         Jiangsu, P.R.China<br />
         Tel: +86-25-83282137<br />
         E-mail: <a href="mailto:yczhang@nigpas.ac.cn">yczhang@nigpas.ac.cn</a>  
@@ -434,8 +435,8 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-chen.jpg" alt="" />
     <h4>Chair: Zhong-Qiang Chen</h4>
     <p>
-        State Key Laboratory of Biogeology & Environmental Geology,<br />
-        China University of Geosciences (Wuhan),<br />
+        State Key Laboratory of Biogeology & Environmental Geology<br />
+        China University of Geosciences (Wuhan)<br />
         Wuhan 430074, China<br />
         Tel: +86-27-67883068<br />
         E-mail: <a href="mailto:zhong.qiang.chen@cug.edu.cn">zhong.qiang.chen@cug.edu.cn</a>
@@ -458,8 +459,8 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-sun.jpg" alt="" />
     <h4>Secretary: Yadong Sun</h4>
     <p>
-        GeoZentrum Nordbayern,<br />
-        University of Erlangen-Nuremberg,<br />
+        GeoZentrum Nordbayern<br />
+        University of Erlangen-Nuremberg<br />
         Schlossgarten 5, 91054 Erlangen, Germany<br />
         Tel: +49 09131 85 23422<br />
         E-mail: <a href="mailto:yadong.sun@fau.de">yadong.sun@fau.de</a>
@@ -474,9 +475,9 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-coe.png" alt="" />
     <h4>Chair: Angela L. Coe</h4>
     <p>
-        Professor, School of Environment,<br />
-        Earth and Ecosystem Sciences,<br />
-        The Open University,<br />
+        Professor, School of Environment<br />
+        Earth and Ecosystem Sciences<br />
+        The Open University<br />
         Walton Hall, Milton Keynes, MK7 6AA, UK<br />
         Tel: +44 1098 652161<br />
         E-mail: <a href="mailto:Angela.Coe@open.ac.uk">Angela.Coe@open.ac.uk</a>  
@@ -540,8 +541,8 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-haggart.gif" alt="" />
     <h4>Vice-Chair: James Haggart</h4>
     <p>
-        Research Scientist, Geological Survey of Canada,<br />
-        1500-605 Robson Street,<br />
+        Research Scientist, Geological Survey of Canada<br />
+        1500-605 Robson Street<br />
         Vancouver, British Columbia V6B 5J3, Canada<br />
         Tel: +1-604-666-8460<br />
         E-mail: <a href="mailto:jhaggart@nrcan.gc.ca">jhaggart@nrcan.gc.ca</a>  
@@ -608,7 +609,7 @@ The seventeen subject subcommissions of ICS are:
     <p>
         Dipartimento di Geoscienze<br />
         Universita' degli Studi di Padova<br />
-        Via Giovanni Gradenigo,<br />
+        Via Giovanni Gradenigo<br />
         6 - I-35131 - Padova – Italy<br />
         Tel: +390498279187<br />
         E-mail: <a href="mailto:claudia.agnini@unipd.it">claudia.agnini@unipd.it</a>  
@@ -647,7 +648,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-aubry.jpg" alt="" />
     <h4>Secretary: Marie-Pierre Aubry</h4>
     <p>
-        Dept of Earth & Planetary Sciences,<br />
+        Dept of Earth & Planetary Sciences<br />
         Institute of Earth, Oceans, and Atmospheric Sciences<br />
         Rutgers, State University of New Jersey<br />
         610 Taylor Rd., Piscataway, NJ 08854-80664<br />
@@ -664,8 +665,8 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zalasiewicz.gif" alt="" />
     <h4>Chair: Jan Zalasiewicz</h4>
     <p>
-        Emeritus Professor of Palaeobiology,<br />
-        University of Leicester,<br />
+        Emeritus Professor of Palaeobiology<br />
+        University of Leicester<br />
         Leicester, LE1 7RH, UK<br />
         Tel: +44 (0)116 252 3928<br />
         E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
@@ -678,7 +679,7 @@ The seventeen subject subcommissions of ICS are:
     <p>
         Professor, Department of Earth Sciences<br />
         Brock University<br />
-        1812 Sir Isaac Brock Way,<br />
+        1812 Sir Isaac Brock Way<br />
         St. Catharines, Ontario L2S 3A1, Canada<br />
         Tel: +1 905-688-5550 ext. 5216<br />
         E-mail: <a href="mailto:mjhead@brocku.ca">mjhead@brocku.ca</a>  
@@ -702,10 +703,10 @@ The seventeen subject subcommissions of ICS are:
     <h4>Secretary: Adele Bertini</h4>
     <p>
         Professor, Dipartimento di Scienze della Terra<br />
-        University of Firenze,<br />
+        University of Firenze<br />
         Via G. La Pira 4<br />
         50121 Firenze, Italy<br />
-        Tel:  +39 348 8715460,<br />
+        Tel:  +39 348 8715460<br />
         E-mail: <a href="mailto:adele.bertini@unifi.it">adele.bertini@unifi.it</a><br />  
         Skype: Artemisiablu
     </p>
@@ -734,7 +735,7 @@ The seventeen subject subcommissions of ICS are:
     <h4>Vice-Chair: Brian R. Pratt</h4>
     <p>
         Professor, Department of Geological Sciences<br />
-        University of Saskatchewan,<br />
+        University of Saskatchewan<br />
         Saskatoon, Saskatchewan S7N 5E2 Canada<br />
         Tel: +1 306-966-5725<br />
         E-mail: <a href="mailto:brian.pratt@usask.ca">brian.pratt@usask.ca</a>  
@@ -787,7 +788,7 @@ The seventeen subject subcommissions of ICS are:
     <h4>Vice-Chair: Mark D. Schmitz</h4>
     <p>
         Professor, Department of Geosciences<br />
-        Boise State University,<br />
+        Boise State University<br />
         Boise, Idaho, 83725, USA<br />
         E-mail: <a href="mailto:markschmitz@boisestate.edu">markschmitz@boisestate.edu</a>  
     </p>
