@@ -185,7 +185,8 @@ The seventeen subject subcommissions of ICS are:
         Regional Geology and Palaeontology<br />
         Faculty of Geology<br />
         University of Warsaw<br />
-        Zwirki i Wigury 93, PL-02-089, Warszawa, Poland<br />
+        Zwirki i Wigury 93<br />
+        PL-02-089, Warszawa, Poland<br />
         E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
     </p>
 </div>
