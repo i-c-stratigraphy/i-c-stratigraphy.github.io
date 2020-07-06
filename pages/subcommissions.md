@@ -181,11 +181,11 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-zylinska.jpg" alt="" />
     <h4>Secretary: Anna Zylinska</h4>
     <p>
-        Dept. of Historical and Regional Geology<br />
-        Institute of Basic Geology<br />
+        Department of Historical Geology,<br />
+        Regional Geology and Palaeontology<br />
         Faculty of Geology<br />
         University of Warsaw<br />
-        Zwirki i Wigury 93, PL-02-089, Poland<br />
+        Zwirki i Wigury 93, PL-02-089, Warszawa, Poland<br />
         E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
     </p>
 </div>
