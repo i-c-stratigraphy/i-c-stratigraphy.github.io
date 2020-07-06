@@ -368,7 +368,6 @@ The seventeen subject subcommissions of ICS are:
         2. UK & Paleontological Institute<br />
         Russian Academy of Sciences<br />
         Profsoyuznaya ul., 123, Moscow, 117997 Russia<br />
-        Tel: +<br />
         E-mail: <a href="mailto:s.nikolaeva@nhm.ac.uk">s.nikolaeva@nhm.ac.uk</a>  
     </p>
 </div>
@@ -397,7 +396,7 @@ The seventeen subject subcommissions of ICS are:
         Professore di Paleontologia GEO/01<br />
         Università degli Studi di Milano<br />
         Dip. di Scienze della Terra "A. Desio"<br />
-        Via Mangiagalli 34, 20133 Milano Italy
+        Via Mangiagalli 34, 20133 Milano Italy<br />minor
         Tel: +39 0250315513<br />
         E-mail: <a href="mailto:lucia.angiolini@unimi.it">lucia.angiolini@unimi.it</a>  
     </p>
