@@ -296,7 +296,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="height:240px; background-color: grey;"></div>
+    <img src="/images/person-valenzuela.jpg" alt="" />
     <h4>Vice-Chair: José Ignacio Valenzuela Ríos</h4>
     <p>
         Department De Geología<br />
