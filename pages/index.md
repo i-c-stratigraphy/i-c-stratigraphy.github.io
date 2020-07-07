@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* [IUGS's Annual Report for 2019](/files/IUGS_AnnualReport2019.pdf) [07-07-2020]
 * [Australia protects site of oldest minerals on earth](https://www.abc.net.au/news/2020-07-03/zircon-crystals-site-erawondoo-hill-added-national-heritage-list/12417468) [03-07-2020]
 * [New Geobiodiversity DB Website launched](/gbdb) [03-07-2020]
 * [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-chair Brian Huber (Smithsonian Museum)](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2020/06/08/get-know-scientist-reconstructing-past-ocean-temperatures/) [10-06-2020]
