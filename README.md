@@ -17,7 +17,7 @@ The content of this repository is licensed using the Creative Commons Attributio
 
 * <https://creativecommons.org/licenses/by/4.0/>
 
-See the [local coy of the license deed](LICENSE) for details.
+See the [local copy of the license deed](LICENSE) for details.
 
 &copy; International Commission on Stratigraphy, all rights reserved
 
@@ -26,3 +26,8 @@ See the [local coy of the license deed](LICENSE) for details.
 *For website technical matters:*  
 **Nicholas Car**  
 <nicholas.car@surroundaustralia.com>  
+
+*For all ICS matters:*  
+**Phil Gibbard**  
+ICS Secretary  
+<plg1@cam.ac.uk>  
