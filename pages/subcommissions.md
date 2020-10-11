@@ -537,18 +537,6 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-haggart.gif" alt="" />
-    <h4>Vice-Chair: James Haggart</h4>
-    <p>
-        Research Scientist, Geological Survey of Canada<br />
-        1500-605 Robson Street<br />
-        Vancouver, British Columbia V6B 5J3, Canada<br />
-        Tel: +1-604-666-8460<br />
-        E-mail: <a href="mailto:jhaggart@nrcan.gc.ca">jhaggart@nrcan.gc.ca</a>  
-    </p>
-</div>
-
-<div class="person">
     <img src="/images/person-wagreich.gif" alt="" />
     <h4>Vice-chair: Michael Wagreich</h4>
     <p>
