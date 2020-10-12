@@ -552,12 +552,11 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-falzoni.gif" alt="" />
     <h4>Secretary: Francesca Falzoni</h4>
     <p>
-        Dipartimento di Scienze della Terra "A. Desio"<br />
-        Università degli Studi di Milano<br />
-        via Mangiagalli 34<br />
-        20133 Milano, Italy<br />
-        Tel: +39-02-503 15563<br />
-        E-mail: <a href="mailto:francesca.falzoni@unimi.it">francesca.falzoni@unimi.it</a>  
+        Dipartimento di Scienze della Terra, dell’Ambiente e delle Risorse,<br />
+        Università degli Studi di Napoli Federico II,<br />
+        Via Vicinale Cupa Cintia 21<br />
+        80126 Napoli, Italy<br />
+        E-mail: <a href="mailto:francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>  
     </p>
 </div>
 
