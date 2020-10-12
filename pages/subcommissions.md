@@ -553,7 +553,8 @@ The seventeen subject subcommissions of ICS are:
     <h4>Secretary: Francesca Falzoni</h4>
     <p>
         Dipartimento di Scienze della Terra, dell’Ambiente e delle Risorse,<br />
-        Università degli Studi di Napoli Federico II,<br />
+        Università degli Studi<br />
+        di Napoli Federico II,<br />
         Via Vicinale Cupa Cintia 21<br />
         80126 Napoli, Italy<br />
         E-mail: <a href="mailto:francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>  
