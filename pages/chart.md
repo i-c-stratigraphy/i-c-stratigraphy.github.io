@@ -20,6 +20,8 @@ permalink: /chart
 </div>
 
 <h4>Latest Version</h4>
+<div style="text-align:center;"><a href="/icschart/ChronostratChart2020-03.pdf" target="_blank"><img src="/icschart/ChronostratChart2020-03low.jpg" alt="ChronostratChart2020-01" width="600" /></a></div>
+<p>Click here for <strong><a href="/icschart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions </a></strong>and <a href="/icschart/CopyrightAgreement.pdf" target="_blank"><strong>Copyright Agreement</strong></a>.</p>
 <p>Click here (<a href="/icschart/ChronostratChart2020-03.pdf" target="_blank">PDF</a> or <a href="/icschart/ChronostratChart2020-03.jpg" target="_blank">JPG</a>) to download the latest version (v2020/03) of the International Chronostratigraphic Chart. The explanatory article was published in September 2013 issue of Episodes (download from <a href="http://www.episodes.org/journal/list.html?pn=vol&TG=vol&sm=&s_v=36&s_n=1&year=2020" target="_blank">Episodes </a>or <a href="/icschart/Cohen2013_Episodes.pdf" target="_blank">ICS website</a>).</p>
 
 <div style="display:grid; grid-template-colums: 50% 50%;">
@@ -69,29 +71,19 @@ permalink: /chart
     </div>
 </div>
 
-<dl class="postprofile">
-    <dt></dt>
-    </dl>
-<p><a href="/icschart/ChronostratChart2020-03.pdf" target="_blank"><img src="/icschart/ChronostratChart2020-03low.jpg" alt="ChronostratChart2020-01" width="660" height="485" /></a></p>
-<p> Click here for <strong><a href="/icschart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions </a></strong>and <a href="/icschart/CopyrightAgreement.pdf" target="_blank"><strong>Copyright Agreement</strong></a>.</p>
-<p> </p>
 <p><strong>Global chronostratigraphical correlation table for the last 2.7 million years </strong></p>
 <p>Click <a href="/icschart/QuaternaryChart.pdf" target="_blank">here</a> to download the pdf file and <a href="https://data.mendeley.com/datasets/dtsn3xn3n6/3" target="_blank">here</a> to see the explanation of the correlation table.</p>
 <p><a href="/icschart/QuaternaryChart1.jpg" target="_blank"><img src="/icschart/QuaternaryChart3.JPG" alt="Quaternary Chart" width="600" height="370" /></a></p>
-<p> </p>
 <p><strong>Ordovician Chronostratigraphic Chart</strong></p>
-<p>--- showing correlation of regional chronostratigraphic schemes with the new global stages and series for the Ordovician System</p>
+<p>Showing correlation of regional chronostratigraphic schemes with the new global stages and series for the Ordovician System.</p>
 <p>By Bergstrom, S.M., Xu Chen, Gutierrez-Marco, J.C., and Dronov, A., 2008, Lethaia, DOI 10.1111/j.1502-3931.2008.00136.x</p>
 <p>Click <a href="/icschart/OrdChartHigh.jpg" target="_blank">HERE </a>to download a better version (higher resolution)</p>
 <p><a href="/icschart/OrdChartHigh.jpg" target="_blank"><img src="/icschart/OrdChartHigh.jpg" alt="Ordovician Chart" width="640" height="489" /></a></p>
 <p><strong>Ordovician Carbon Isotope Curve</strong></p>
-<p>    By Bergstrom, S.M., Xu Chen, Gutierrez-Marco, J.C., and Dronov, A., 2008, Lethaia, DOI 10.1111/j.1502-3931.2008.00136.x</p>
+<p>By Bergstrom, S.M., Xu Chen, Gutierrez-Marco, J.C., and Dronov, A., 2008, Lethaia, DOI 10.1111/j.1502-3931.2008.00136.x</p>
 <p>Click <a href="/icschart/OrdCarbonIsotopeHigh.jpg" target="_blank">HERE </a>to download a better version (higher resolution)</p>
 <p><a href="/icschart/OrdCarbonIsotopeHigh.jpg" target="_blank"><img src="/icschart/OrdCarbonIsotope1.jpg" alt="" align="bottom" /></a></p>
 <p><strong>Permian Time Scale 2012</strong></p>
-
 <p>By Shen S.Z. et al.</p>
-
 <p>Click <a href="/icschart/PermianTimeScaleHigh2012.jpg" target="_blank">HERE </a>to download a better version (higher resolution)</p>
-
 <p><a href="/icschart/PermianTimeScaleHigh2012.jpg" target="_blank"><img src="/icschart/PermianTimeScaleHigh2012.jpg" alt="Permian TimeScale 2012" width="640" height="881" /></a></p>
