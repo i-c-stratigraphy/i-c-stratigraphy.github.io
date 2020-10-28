@@ -11,9 +11,11 @@ Changes ICS chart v.2017/02
 Changes ICS chart v.2018/07 
 Changes ICS chart v.2018/08 
 Changes ICS chart v.2019/05 
-Changes ICS chart v.2020/01 = actual version (for distribution at the time of 36th IGC Delhi
+Changes ICS chart v.2020/01 = the version intended for distribution at the time of 36th IGC Delhi (congress postponed)
+Changes ICS chart v.2020/03 = actual version 
 
 GSSPs added:
+2020/03 - Paleogene: Priabonian Stage: GSSP added as it was ratified by IUGS (17-02-2020)
 2020/01 - Cretaceous: Hauterivian Stage: GSSP added as it was ratified by IUGS (15-12-2019)
         - Quaternary: Chibanian Stage: GSSP added as it was ratified by IUGS (15-01-2020)
 2018/07 - Permian: Sakmarian Stage: GSSP added as it was ratified by IUGS (21-7-2018)
@@ -31,9 +33,10 @@ GSSAs changed/dropped:
 2016/04 - With the tuned age of the base Cryogenian being established, it is no-longer a ratified GSSA and the icon is dropped.
 
 Numeric Ages altered:
+2020/03 - Paleogene: numeric age Base Priabonian Stage changed to 37.71 Ma (was 37.8 Ma) - by request of PgSC (Simonetta Monechi), updated to that at the ratified GSSP.
 2020/01 - Cretaceous: numeric age Base Hauterivian Stage changed to 132.6 Ma (was 132.9) - by request of CSC (Maria Rose Petrizio), in consultation with Hauterivian GSSP working group, awaiting GTS-2020 book publication, and based on data by Aguirre et al (2015) and Martinez et al. (2015) 132 Ma +-1 Ma. 
         - Quaternary: numeric age Base Late Pleistocene (Subseries / unnamed Stage) changed to 129 ka (was 126 ka) - by request of SQS (Martin Head), anticipating renewed GSSP-candidate locality search. The age sought is near the mid-point of Termination II in the marine isotope stratigraphy. 
-        - Quaternary: numeric age Base Chibanian Stage changed to 774 ka (in accordance with GSSP documentation; GSSP is 1 m below base Brunhes Chron in type section; base Brunhes Chron at 773 ka provided the numeric age in prior chart versions)
+        - Quaternary: numeric age Base Chibanian Stage changed to 774 ka (in accordance with GSSP documentation; GSSP is 1 m below base Brunhes Chron in the Chibanian type section; base Brunhes Chron at 773 ka provided the numeric age in prior chart versions)
 
 2019/05 - Quaternary: numeric age Base Middle Pleistocene to 773 ka (was 781 ka) - by request of SQS (Martin Head).  
 2018/08 - Permian: numeric ages of the base Sakmarian changed to 293.52  +/-0.17 in accordance with GSSP - by request of SPS (Shen Shuzhong)
