@@ -241,6 +241,7 @@ The seventeen subject subcommissions of ICS are:
     <h4>Chair: Petr Štorch</h4>
     <p>
         Principal Research Scientist<br />
+        Dept. of Palaeobiology and Stratigraphy<br />
         Institute of Geology CAS<br />
         Rozvojová 269<br />
         Praha 6, CZ 165 00, Czech Republic<br />
@@ -253,29 +254,36 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-corradini.gif" alt="" />
     <h4>Vice-Chair: Carlo Corradini</h4>
     <p>
-        Dipartimento di Scienze Chimiche e<br />
-        Geologiche -Università di Cagliari, via Trentino 51<br />
-        I-09127 Cagliari, Italy<br />
-        E-mail: <a href="mailto:corradin@unica.it">corradin@unica.it</a>  
+        Dipartimento di Matematica e Geoscienze<br />
+        Università di Trieste<br />
+        via Weiss 2, I- 34128, Trieste, Italy<br />
+        Tel.: +39-040-5882033<br />
+        E-mail: <a href="mailto:ccorradini@units.it">ccorradini@units.it</a>  
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-zhan.gif" alt="" />
-    <h4>Vice-Chair: Renbin Zhan</h4>
+    <img src="/images/person-ray.jpg" alt="" />
+    <h4>Secretary: David C. Ray</h4>
     <p>
-        Professor<br />
+        Neftex Predictions<br />
+        Landmark-Halliburton<br />
+        97 Jubilee Avenue, Milton Park, Abingdon<br />
+        OX14 4RW, United Kingdom<br />
+        Tel: +44-(0)7792638177<br />
+        E-mail: <a href="mailto:daveray01@yahoo.com">daveray01@yahoo.com</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-bing.jpg" alt="" />
+    <h4>Webmaster: Huang Bing</h4>
+    <p>
         Nanjing Institute of Geology and Paleontology<br />
         Chinese Academy of Sciences<br />
-        No. 39 East Beijing Road, Nanjing 210008, China<br />
-        Tel: +86 2583282132<br />
-        E-mail: <a href="mailto:rbzhan@nigpas.ac.cn">rbzhan@nigpas.ac.cn</a>  
-    </p>
-</div>
-
-<div class="person">
-    <div style="height:240px; background-color: grey;"></div>
-    <h4>Webmaster: Huang Bin</h4>
+        39 East Beijing Road, Nanjing, 210008, China<br />
+        Tel.: +86-2583282189<br />
+        Email: <a href="mailto:bhuang@nigpas.ac.cn">bhuang@nigpas.ac.cn</a><br />
 </div>
 
 <div style="clear:both;"></div>
