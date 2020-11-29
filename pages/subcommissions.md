@@ -283,7 +283,8 @@ The seventeen subject subcommissions of ICS are:
         Chinese Academy of Sciences<br />
         39 East Beijing Road, Nanjing, 210008, China<br />
         Tel.: +86-2583282189<br />
-        Email: <a href="mailto:bhuang@nigpas.ac.cn">bhuang@nigpas.ac.cn</a><br />
+        Email: <a href="mailto:bhuang@nigpas.ac.cn">bhuang@nigpas.ac.cn</a>
+    </p>
 </div>
 
 <div style="clear:both;"></div>
