@@ -47,4 +47,6 @@ ICS business meeting@35IGC: [Agenda](/files/Agenda.pdf)  [Minutes of Meeting](/f
 
 [ICS Subcommission Annual Report 2009](/files/ICS_SubcommReport2009.pdf)  
 
-[Discussions on the GSSP for the base of the Jurassic System (14MB)](https://stratigraphy.org/upload/J_discussion.zip)  
+[Discussions on the GSSP for the base of the Jurassic System (14MB)](/files/J_discussion.zip)  
+
+[Q1: Definition and Rank of Quaternary](/bak/Q1)
