@@ -11,6 +11,7 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 #### Serve locally
 `bundle exec jekyll serve`
 
+to fix dependencies: `bundle update && bundle install` then `bundle add webrick`
 
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:
