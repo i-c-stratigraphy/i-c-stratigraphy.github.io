@@ -14,7 +14,7 @@ permalink: /
 
 ## News & Meetings
 
-* [Kimmeridgian GSSP has been ratified by IUGS](news/133) [16-02-2021]
+<!--* [Kimmeridgian GSSP has been ratified by IUGS](news/133) [16-02-2021]-->
 * [ICS Receives thanks from French govt for Hauterivian Stage GSSP](files/Hauterivian-GSSP-Letter.pdf) [22-07-2020]
 * [IUGS's Annual Report for 2019](/files/IUGS_AnnualReport2019.pdf) [07-07-2020]
 * [Australia protects site of oldest minerals on earth](https://www.abc.net.au/news/2020-07-03/zircon-crystals-site-erawondoo-hill-added-national-heritage-list/12417468) [03-07-2020]
