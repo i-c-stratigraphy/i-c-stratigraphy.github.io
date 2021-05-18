@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Coniacian Stage and subseries/subepoch unit divisions ratified](news/134) [02-05-2021]
 * [Kimmeridgian GSSP has been ratified by IUGS](news/133) [07-03-2021]
 * [ICS Receives thanks from French govt for Hauterivian Stage GSSP](files/Hauterivian-GSSP-Letter.pdf) [22-07-2020]
 * [IUGS's Annual Report for 2019](/files/IUGS_AnnualReport2019.pdf) [07-07-2020]
