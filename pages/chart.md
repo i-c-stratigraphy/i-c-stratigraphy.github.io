@@ -28,27 +28,27 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
-            <li>Finnish (v2020/03: <a href="/ICSchart/ChronostratChart2020-03Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03Finnish.jpg" target="_blank">JPG</a>)</li>          
+            <li>Finnish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Finnish.jpg" target="_blank">JPG</a>)</li>
+            <li>Spanish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Spanish.jpg" target="_blank">JPG</a>)</li>
+            <li>American Spanish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05SpanishAmer.jpg" target="_blank">JPG</a>)</li>
+            <li>Hungarian (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Hungarian.jpg" target="_blank">JPG</a>)</li>
+            <li>French (v2021/05: <a href="/ICSchart/ChronostratChart2021-05French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05French.jpg" target="_blank">JPG</a>)</li>
+            <li>Belgium Dutch (v2021/05: <a href="/ICSchart/ChronostratChart2021-05BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05BEDutch.jpg" target="_blank">JPG</a>)</li>
+            <li>Netherlands Dutch (v2021/05: <a href="/ICSchart/ChronostratChart2021-05NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05NLDutch.jpg" target="_blank">JPG</a>)</li>
+            <li>Catalan (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Catalan.jpg" target="_blank">JPG</a>)</li>
+            <li>Norwegian (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Norwegian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Norwegian.jpg" target="_blank">JPG</a>)</li>       
             <li>Japanese (v2020/03: <a href="/ICSchart/ChronostratChart2020-03Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03Japanese.jpg" target="_blank">JPG</a>)</li>        
-            <li>Spanish (v2020/03: <a href="/ICSchart/ChronostratChart2020-03Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03Spanish.jpg" target="_blank">JPG</a>)</li>
-            <li>American Spanish (v2020/03: <a href="/ICSchart/ChronostratChart2020-03SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03SpanishAmer.jpg" target="_blank">JPG</a>)</li>
-            <li>Hungarian (v2020/03: <a href="/ICSchart/ChronostratChart2020-03Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03Hungarian.jpg" target="_blank">JPG</a>)</li>
-            <li>Finnish (v2019/05: <a href="/ICSchart/ChronostratChart2019-05Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2019-05Finnish.jpg" target="_blank">JPG</a>)</li>
             <li>Japanese (v2019/05: <a href="/ICSchart/ChronostratChart2019-05Japanese.pdf" target="_blank">PDF</a>)</li>
             <li>French (v2019/05: <a href="/ICSchart/ChronostratChart2019-05French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2019-05French.jpg" target="_blank">JPG</a>)</li>
             <li>Chinese (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Chinese.jpg" target="_blank">JPG</a>)</li>
-            <li>Spanish (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Spanish.jpg" target="_blank">JPG</a>)</li>
             <li>Belgium Dutch (v2018/08: <a href="/ICSchart/ChronostratChart2018-08BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08BEDutch.jpg" target="_blank">JPG</a>)</li> 
             <li>Turkish (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Turkish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Turkish.jpg" target="_blank">JPG</a>)</li>
             <li>Netherlands Dutch (v2018/08: <a href="/ICSchart/ChronostratChart2018-08NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08NLDutch.jpg" target="_blank">JPG</a>)</li>
-            <li>Catalan (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Catalan.jpg" target="_blank">JPG</a>)</li>
-            <li>American Spanish (v2017/02: <a href="/ICSchart/ChronostratChart2017-02SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2017-02SpanishAmer.jpg" target="_blank">JPG</a>)</li>
             <li>Iberian Portuguese (v2017/02: <a href="/ICSchart/ChronostratChart2017-02PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2017-02PTPortuguese.jpg" target="_blank">JPG</a>)</li>
             <li>Brazilian Portuguese (v2017/02: <a href="/ICSchart/ChronostratChart2017-02BRPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2017-02BRPortuguese.jpg" target="_blank">JPG</a>)</li>
             <li>Russian (v2017/02: <a href="/ICSchart/ChronostratChart2017-02Russian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2017-02Russian.jpg" target="_blank">JPG</a>)</li>
             <li>German (v2017/02: <a href="/ICSchart/ChronostratChart2017-02German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2017-02German.jpg" target="_blank">JPG</a>)</li>
             <li>Basque (v2015/01: <a href="/ICSchart/ChronostratChart2015-01Basque.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2015-01Basque.jpg" target="_blank">JPG</a>)</li>
-            <li>Norwegian (v2015/01: <a href="/ICSchart/ChronostratChart2015-01Norwegian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2015-01Norwegian.jpg" target="_blank">JPG</a>)</li>
             <li>Lithuanian (v2015/01: <a href="/ICSchart/ChronostratChart2015-01Lithuanian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2015-01Lithuanian.jpg" target="_blank">JPG</a>)</li>
         </ul>
     </div>
