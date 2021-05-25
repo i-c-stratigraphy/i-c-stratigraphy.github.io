@@ -20,9 +20,9 @@ permalink: /chart
 </div>
 
 <h4>Latest Version</h4>
-<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2020-03.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2020-03low.jpg" alt="ChronostratChart2020-01" width="600" /></a></div>
+<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2021-05.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2021-05.jpg" alt="ChronostratChart2021-05" width="600" /></a></div>
 <p>Click here for <strong><a href="/ICSchart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions </a></strong>and <a href="/ICSchart/CopyrightAgreement.pdf" target="_blank"><strong>Copyright Agreement</strong></a>.</p>
-<p>Click here (<a href="/ICSchart/ChronostratChart2020-03.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03.jpg" target="_blank">JPG</a>) to download the latest version (v2020/03) of the International Chronostratigraphic Chart. The explanatory article was published in September 2013 issue of Episodes (download from <a href="http://www.episodes.org/journal/list.html?pn=vol&TG=vol&sm=&s_v=36&s_n=1&year=2020" target="_blank">Episodes </a>or <a href="/ICSchart/Cohen2013_Episodes.pdf" target="_blank">ICS website</a>).</p>
+<p>Click here (<a href="/ICSchart/ChronostratChart2021-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05.jpg" target="_blank">JPG</a>) to download the latest version (v2021/05) of the International Chronostratigraphic Chart. The explanatory article was published in September 2013 issue of Episodes (download from <a href="http://www.episodes.org/journal/list.html?pn=vol&TG=vol&sm=&s_v=36&s_n=1&year=2020" target="_blank">Episodes </a>or <a href="/ICSchart/Cohen2013_Episodes.pdf" target="_blank">ICS website</a>).</p>
 
 <div style="display:grid; grid-template-colums: 50% 50%;">
     <div style="grid-column:1;">
@@ -55,7 +55,8 @@ permalink: /chart
     <div style="grid-column:2;">
         <h4>Old Versions</h4>
         <ul>
-            <li><a href="/ICSchart/ChangeLog2012-2013-2014-2015-2016-2017-2018-2019-2020.txt" target="_blank">ChangeLog</a> for 2012-2020</li>
+            <li><a href="/ICSchart/ChangeLog2012-2013-2014-2015-2016-2017-2018-2019-2020-2021.txt" target="_blank">ChangeLog</a> for 2012-2021</li>
+            <li>2020/03 (<a href="/ICSchart/ChronostratChart2020-03.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03.jpg" target="_blank">JPG</a>)</li>            
             <li>2020/01 (<a href="/ICSchart/ChronostratChart2020-01.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-01.jpg" target="_blank">JPG</a>)</li>
             <li>2019/05 (<a href="/ICSchart/ChronostratChart2019-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2019-05.jpg" target="_blank">JPG</a>)</li>
             <li>2018/08 (<a href="/ICSchart/ChronostratChart2018-08.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08.jpg" target="_blank">JPG</a>)</li>
