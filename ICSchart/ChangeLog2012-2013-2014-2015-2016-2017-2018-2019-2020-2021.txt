@@ -142,8 +142,8 @@ Adobe-illustrator file (layers storing translations)
 --- Logo space also used to produce four-annual IGC handout versions of chart.
 
 As per 2021/05 the following translations have been imported in the master file (next to English):
--- Finnish, Hungarian, Norwegian, Dutch (NL,B), French, American Spanish, Catalan, Spanish
+-- Finnish, Hungarian, Norwegian, Dutch (NL,B), French, American Spanish, Catalan, Spanish, Japanese
 As per 2021/05 older translations still awaiting import are:
--- Chinese, Japanese, Russian, Basque, Turkish, German, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
+-- Chinese, Russian, Basque, Turkish, German, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
 
 
