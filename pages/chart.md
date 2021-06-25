@@ -28,6 +28,7 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Chinese (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Chinese.jpg" target="_blank">JPG</a>)</li>
             <li>Japanese (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Japanese.jpg" target="_blank">JPG</a>)</li>
             <li>Finnish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Finnish.jpg" target="_blank">JPG</a>)</li>
             <li>Spanish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Spanish.jpg" target="_blank">JPG</a>)</li>
@@ -43,7 +44,9 @@ permalink: /chart
             <li>Japanese (v2019/05: <a href="/ICSchart/ChronostratChart2019-05Japanese.pdf" target="_blank">PDF</a>)</li>
             -->
             <li>French (v2019/05: <a href="/ICSchart/ChronostratChart2019-05French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2019-05French.jpg" target="_blank">JPG</a>)</li>
+            <!-->
             <li>Chinese (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Chinese.jpg" target="_blank">JPG</a>)</li>
+            -->
             <li>Belgium Dutch (v2018/08: <a href="/ICSchart/ChronostratChart2018-08BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08BEDutch.jpg" target="_blank">JPG</a>)</li> 
             <li>Turkish (v2018/08: <a href="/ICSchart/ChronostratChart2018-08Turkish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08Turkish.jpg" target="_blank">JPG</a>)</li>
             <li>Netherlands Dutch (v2018/08: <a href="/ICSchart/ChronostratChart2018-08NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2018-08NLDutch.jpg" target="_blank">JPG</a>)</li>

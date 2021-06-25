@@ -16,8 +16,8 @@ Changes ICS chart v.2020/03
 Changes ICS chart v.2021/05 = actual version 
 
 GSSPs added:
-2021/05 - Cretaceous: Coniacian Stage: GSSP added as it was ratified by IUGS (02-05-2020)
-        - Jurassic: Kimmeridgian Stage: GSSP added as it was ratified by IUGS (07-03-2020)
+2021/05 - Cretaceous: Coniacian Stage: GSSP added as it was ratified by IUGS (02-05-2021)
+        - Jurassic: Kimmeridgian Stage: GSSP added as it was ratified by IUGS (07-03-2021)
 2020/03 - Paleogene: Priabonian Stage: GSSP added as it was ratified by IUGS (17-02-2020)
 2020/01 - Cretaceous: Hauterivian Stage: GSSP added as it was ratified by IUGS (15-12-2019)
         - Quaternary: Chibanian Stage: GSSP added as it was ratified by IUGS (15-01-2020)
@@ -141,9 +141,10 @@ Adobe-illustrator file (layers storing translations)
 --- Logo and text space at bottom of chart to feature translating parties.
 --- Logo space also used to produce four-annual IGC handout versions of chart.
 
-As per 2021/05 the following translations have been imported in the master file (next to English):
--- Finnish, Hungarian, Norwegian, Dutch (NL,B), French, American Spanish, Catalan, Spanish, Japanese
+Per 2021/05 (loosely) the following translations have been imported in the master file (next to English):
+-- Finnish, Hungarian, Norwegian, Dutch (NL,B), French, American Spanish, Catalan, Spanish, Japanese, (Chinese)
+-- At GBDB in China, a Chinese masterfile translated chart is kept, parallel to ICS.
 As per 2021/05 older translations still awaiting import are:
--- Chinese, Russian, Basque, Turkish, German, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
+-- Russian, Basque, Turkish, German, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
 
 
