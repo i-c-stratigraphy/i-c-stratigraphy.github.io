@@ -1,4 +1,4 @@
-Starting from version 2012  = the version distributed August 2012 at 34th IGC Brisbane), this change log lists:
+Starting from version 2012 = the version distributed August 2012 at 34th IGC Brisbane), this change log lists:
 Changes ICS chart v.2013/01 
 Changes ICS chart v.2013/Episodes
 Changes ICS chart v.2014/02
@@ -13,7 +13,8 @@ Changes ICS chart v.2018/08
 Changes ICS chart v.2019/05 
 Changes ICS chart v.2020/01 = the version intended for distribution at the time of 36th IGC Delhi (congress postponed)
 Changes ICS chart v.2020/03 
-Changes ICS chart v.2021/05 = actual version 
+Changes ICS chart v.2021/05 
+Changes ICS chart v.2021/07 = actual version
 
 GSSPs added:
 2021/05 - Cretaceous: Coniacian Stage: GSSP added as it was ratified by IUGS (02-05-2021)
@@ -32,18 +33,22 @@ GSSPs added:
 
 GSSAs changed/dropped:
 2015/01 - base Cryogenian: changed to ~720 Ma (was 850 Ma, an Episodes paper by the subcommission in preparation).
-        - In the outer right column, the graphic thickness of Cryogenian is reduced and that of the Tonian increased.
+        - In the outer right column, the graphic thickness of Cryogenian was reduced and that of the Tonian increased.
 2016/04 - With the tuned age of the base Cryogenian being established, it is no-longer a ratified GSSA and the icon is dropped.
 
 Numeric Ages altered:
-2020/03 - Paleogene: numeric age Base Priabonian Stage changed to 37.71 Ma (was 37.8 Ma) - by request of PgSC (Simonetta Monechi), updated to that at the ratified GSSP.
+2021/07 - Permian: numeric age base Guadalupian is 273.01+/-0.14Ma (Shen et al., 2020 ESR) - by request of SPS (Lucia Angiolini & Shen Shuzhong)
+        - Permian: numeric age base Wordian is 266.9+/-0.4Ma (Wu et al., 2020, Paleo-3) - by request of SPS (Lucia Angiolini & Shen Shuzhong)
+        - Permian: numeric age base Capitanian is 264.28+/-0.16 Ma (Wu et al., 2020, Paleo-3) - by request of SPS (Lucia Angiolini & Shen Shuzhong)
+        - Permian: numeric age base Lopingian is 259.51+/-0.21Ma (Yang et al., 2018, EPSL) - by request of SPS (Lucia Angiolini & Shen Shuzhong)
+2020/03 - Paleogene: numeric age Base Priabonian Stage changed to 37.71 Ma (was 37.8 Ma) - by request of SPgS (Simonetta Monechi), updated to that at the ratified GSSP.
 2020/01 - Cretaceous: numeric age Base Hauterivian Stage changed to 132.6 Ma (was 132.9) - by request of CSC (Maria Rose Petrizio), in consultation with Hauterivian GSSP working group, awaiting GTS-2020 book publication, and based on data by Aguirre et al (2015) and Martinez et al. (2015) 132 Ma +-1 Ma. 
-        - Quaternary: numeric age Base Late Pleistocene (Subseries / unnamed Stage) changed to 129 ka (was 126 ka) - by request of SQS (Martin Head), anticipating renewed GSSP-candidate locality search. The age sought is near the mid-point of Termination II in the marine isotope stratigraphy. 
-        - Quaternary: numeric age Base Chibanian Stage changed to 774 ka (in accordance with GSSP documentation; GSSP is 1 m below base Brunhes Chron in the Chibanian type section; base Brunhes Chron at 773 ka provided the numeric age in prior chart versions)
+        - Quaternary: numeric age base Late Pleistocene (Subseries / unnamed Stage) changed to 129 ka (was 126 ka) - by request of SQS (Martin Head), anticipating renewed GSSP-candidate locality search. The age sought is near the mid-point of Termination II in the marine isotope stratigraphy. 
+        - Quaternary: numeric age base Chibanian Stage changed to 774 ka (in accordance with GSSP documentation; GSSP is 1 m below base Brunhes Chron in the Chibanian type section; base Brunhes Chron at 773 ka provided the numeric age in prior chart versions)
 
 2019/05 - Quaternary: numeric age Base Middle Pleistocene to 773 ka (was 781 ka) - by request of SQS (Martin Head).  
 2018/08 - Permian: numeric ages of the base Sakmarian changed to 293.52  +/-0.17 in accordance with GSSP - by request of SPS (Shen Shuzhong)
-2018/07 - Holocene: numeric ages of the subseries added: base  Meghalayan 0.0042, base Northgrippian 0.0082
+2018/07 - Holocene: numeric ages of the subseries added: base Meghalayan 0.0042, base Northgrippian 0.0082
 
 2017/02 - Paleogene: Base of Chattian: The numeric age is updated to that at the ratified GSSP (27.82 Ma; Nanno et al. exp. 2017; by request of Simonetti Monechi)
 
@@ -80,7 +85,7 @@ SUBSERIES GRAPHIC INDICATION
 - Starting 2018/07: Where ratified, these are indicated as thin lines to the right side of the Series column, and small font U/L, M, L/E indicators (see also the Descriptive text change log)
 - This differs from the way Subsystems are indicated (the Carboniferous Subsystems since long are incidated as full cells), for graphic reasons mainly.
 2020/01  Indication added for Pleistocene Subseries (ratified in parallel to GSSP Chibanian; 15/30-01-2020)
-2018/07  Infication added for Holocene Subseries (ratified in parallel to GSSP
+2018/07  Indication added for Holocene Subseries (ratified in parallel to GSSP)
 
 
 TYPE SETTING CHANGES
@@ -91,6 +96,7 @@ TYPE SETTING CHANGES
 ========================
 
 Descriptive text: 
+2021/07 - Authorship of version of chart changed: N Car has taken over role of J.-X. Fan in 2020.
 2018/07 - Authorship J.-X. Fan added to authors.
 2016/10 - Authorship of version of chart changed: DAT Harper has taken over role of SC Finney in ICS executive board (as per 35th IGC Capetown ICS business-meeting and IUGS assembly)
 
@@ -110,6 +116,8 @@ TWO TIMES, IN FIRST PART AND IN SECOND PART of sentence declaring deviations fro
 
 GRAPHICS
 ===========
+2021/07:
+Stratigraphic colour for Pennsylvanian ammended (to contrast it to Bashkirian better), in collaboration with CCGM/CGMW (Bruno Vrielynck). 
 2021/05:
 Stratigraphic colour for Late Pleistocene and Holocene ammended, in collaboration with CCGM/CGMW. Cf. Table 2 in Head et al. (2020, Episodes).
 2019/05:
