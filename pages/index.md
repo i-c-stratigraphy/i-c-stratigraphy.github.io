@@ -24,11 +24,3 @@ permalink: /
 * [Get to Know the Scientist Reconstructing Past Ocean Temperatures - retiring ICS Vice-chair Brian Huber (Smithsonian Museum)](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2020/06/08/get-know-scientist-reconstructing-past-ocean-temperatures/) [10-06-2020]
 * [Website Rejuvenation](/news/132) [06-05-2020]
 * [New Interactive Chart](/news/130) [30-04-2020]
-<!--
-* [New ICS Subcommission announced](/news/131) [05-09-2019]
-    * [International Subcommission on Timescale Calibration](/news/131) 
-* [Formal subdivision of the Holocene Series/Epoch](/news/125) [24-09-2018]
-* [ICS Medals awarded to Phil Gibbard (Cambridge, UK) and Shuzhong Shen (Nanjing, China) at STRATI 2019](/news/129) [15-08-2019]
-* [Congratulation from the INQUA president](/news/121) [23-07-2018]
-* [ICS chart containing the Quaternary and Cambrian GSSPs and new stages (v 2018/07) is now released!](/news/120) [13-07-2018]
--->

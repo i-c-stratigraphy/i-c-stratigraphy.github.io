@@ -70,7 +70,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
-[Homepage](http://www.episodes.org/index.php/epi/article/view/89231)
+[Homepage](http://cryogenian.stratigraphy.org)
 <div class="person">
     <img src="/images/person-zhu.jpg" alt="" />
     <h4>Chair: Maoyan Zhu</h4>
