@@ -26,7 +26,7 @@ permalink: /chart
 <ul>
     <li><a href="/ICSchart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions for use</a></li>
     <li><a href="/ICSchart/CopyrightAgreement.pdf" target="_blank">Copyright Agreement</a></li>
-    <li><a href="/ICSchart/CGMW_ICS_color_codes.xlsx" target="_blank">Colour Chart (Excel)</a></li>
+    <li><a href="/ICSchart/CGMW_ICS_colour_codes.xlsx" target="_blank">Colour Chart (Excel)</a></li>
     <li><a href="/ICSchart/CGMW_ICS_swatch_library.ai" target="_blank">Adobe Illustrator Colour Swatch Library</a></li>
     <li>Explanatory article from <a href="https://doi.org/10.18814/epiiugs/2013/v36i3/002" target="_blank">September 2013 issue of Episodes</a> (<a href="/ICSchart/Cohen2013_Episodes.pdf" target="_blank">local PDF copy</a>)</li>
 </ul>
