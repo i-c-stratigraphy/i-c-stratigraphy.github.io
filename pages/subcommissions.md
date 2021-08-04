@@ -31,6 +31,19 @@ The seventeen subject subcommissions of ICS are:
 *This Subcommission was known formerly as the **Subcommission on Precambrian Stratigraphy***
 
 <div class="person">
+    <img src="/images/person-noffke.gif" alt="" />
+    <h4>Chair (Acting): Nora Noffke</h4>
+    <p>
+        Professor, Old Dominion University<br />
+        Sedimentology and Geobiology<br />
+        Dept of Ocean and Earth Sciences<br />
+        4600 Elkhorn Avenue, Norfolk, Virginia 23529, USA<br />
+        Tel: +1-757-683-3313<br />
+        E-mail: <a href="mailto:nnoffke@odu.edu">nnoffke@odu.edu</a>  
+    </p>
+</div>
+<!-- 
+<div class="person">
     <img src="/images/person-whitehouse.jpg" alt="" />
     <h4>Chair: Martin J. Whitehouse</h4>
     <p>
@@ -42,6 +55,7 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:martin.whitehouse@nrm.se">martin.whitehouse@nrm.se</a>  
     </p>
 </div>
+-->
 
 <div class="person">
     <img src="/images/person-galante.gif" alt="" />
