@@ -34,7 +34,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-noffke.gif" alt="" />
     <h4>Chair (Acting): Nora Noffke</h4>
     <p>
-        Professor, Old Dominion University<br />
+        Assoc. Professor, Old Dominion University<br />
         Sedimentology and Geobiology<br />
         Dept of Ocean and Earth Sciences<br />
         4600 Elkhorn Avenue, Norfolk, Virginia 23529, USA<br />
