@@ -41,6 +41,10 @@ permalink: /executive
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
+## Non-voting members
+
 <div class="person">
     <img src="/images/person-jones.jpg" alt="" />
     <h4>Treasurer: Stuart Jones</h4>
@@ -53,10 +57,6 @@ permalink: /executive
         E-mail:  <a href="mailto:stuart.jones@durham.ac.uk">stuart.jones@durham.ac.uk</a><br />
     </p>
 </div>
-
-<div style="clear:both;"></div>
-
-## Non-voting members
 
 <div class="person">
     <img src="/images/person-car.jpg" alt="" style="width:225px;" />
