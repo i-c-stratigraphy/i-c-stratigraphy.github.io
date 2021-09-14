@@ -306,7 +306,7 @@ The seventeen subject subcommissions of ICS are:
 ### <a id="devonian"></a>Subcommission on Devonian Stratigraphy
 [Homepage](http://devonian.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-slavik.gif" alt="" />
+    <img src="/images/person-slavik.jpg" alt="" />
     <h4>Chair: Ladislav Słavik</h4>
     <p>
         Department of Paleobiology and Paleoecology<br />
