@@ -307,7 +307,7 @@ The seventeen subject subcommissions of ICS are:
 [Homepage](http://devonian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-slavik.jpg" alt="" />
-    <h4>Chair: Ladislav Słavik</h4>
+    <h4>Chair: Ladislav Slavík</h4>
     <p>
         Department of Paleobiology and Paleoecology<br />
         Institute of Geology AS CR, v.v.i.<br />
@@ -320,7 +320,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-valenzuela.jpg" alt="" />
-    <h4>Vice-Chair: José Ignacio Valenzuela Ríos</h4>
+    <h4>Vice-Chair: José Ignacio Valenzuela-Ríos</h4>
     <p>
         Department De Geología<br />
         Universitat de València<br />
