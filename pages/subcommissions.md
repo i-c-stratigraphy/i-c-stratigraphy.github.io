@@ -246,6 +246,19 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div class="person">
+    <img src="/images/person-alycia.jpg" alt="" />
+    <h4>Internet officer: Alycia Sticall</h4>
+    <p>
+        Department of Geological Sciences<br />
+        Ohio University<br />
+        316 Clippinger Laboratories<br />
+        Athens, Ohio 45701 USA<br />
+        Tel: +1 (740) 593-3093<br />
+        E-mail: <stigall@ohio.edu> 
+    </p>
+</div>
+
 <div style="clear:both;"></div>
 
 ### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
