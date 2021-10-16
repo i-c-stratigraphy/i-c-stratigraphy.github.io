@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Subseries/Subepochs for Neogene ratified](news/136) [16-10-2021]
 * [GSSPs: Hauterivian & Priabonian](news/135) [05-06-2021]
 * [Coniacian Stage and subseries/subepoch unit divisions ratified](news/134) [02-05-2021]
 * [Kimmeridgian GSSP has been ratified by IUGS](news/133) [07-03-2021]
