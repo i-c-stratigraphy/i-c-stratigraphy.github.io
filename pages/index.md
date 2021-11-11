@@ -14,7 +14,7 @@ permalink: /
 
 ## News & Meetings
 
-* [The Neogene Subseries are Formal Chronostratigraphic Units](news/137) [27-10-2021]
+* [The Neogene Subseries/Subepochs are Formal Chronostratigraphic Units](news/137) [27-10-2021]
 * [Subseries/Subepochs for Neogene ratified](news/136) [16-10-2021]
 * [GSSPs: Hauterivian & Priabonian](news/135) [05-06-2021]
 * [Coniacian Stage and subseries/subepoch unit divisions ratified](news/134) [02-05-2021]
