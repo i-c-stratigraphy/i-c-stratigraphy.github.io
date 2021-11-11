@@ -14,7 +14,8 @@ Changes ICS chart v.2019/05
 Changes ICS chart v.2020/01 = the version intended for distribution at the time of 36th IGC Delhi (congress postponed)
 Changes ICS chart v.2020/03 
 Changes ICS chart v.2021/05 
-Changes ICS chart v.2021/07 = actual version
+Changes ICS chart v.2021/07
+Changes ICS chart v.2021/10 = actual version
 
 GSSPs added:
 2021/05 - Cretaceous: Coniacian Stage: GSSP added as it was ratified by IUGS (02-05-2021)
@@ -84,6 +85,7 @@ the ages reported for the top are _exactly_ the same as for the base (e.g. ~ 145
 SUBSERIES GRAPHIC INDICATION
 - Starting 2018/07: Where ratified, these are indicated as thin lines to the right side of the Series column, and small font U/L, M, L/E indicators (see also the Descriptive text change log)
 - This differs from the way Subsystems are indicated (the Carboniferous Subsystems since long are incidated as full cells), for graphic reasons mainly.
+2021/10  Indication added for Neogene (Pliocene, Miocene) Subseries (ratified 12/13-10-2020)
 2020/01  Indication added for Pleistocene Subseries (ratified in parallel to GSSP Chibanian; 15/30-01-2020)
 2018/07  Indication added for Holocene Subseries (ratified in parallel to GSSP)
 
