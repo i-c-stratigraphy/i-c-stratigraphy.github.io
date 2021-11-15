@@ -62,8 +62,8 @@ permalink: /chart
         <h4>Old Versions</h4>
         <ul>
             <li><a href="/ICSchart/ChangeLog2012-2013-2014-2015-2016-2017-2018-2019-2020-2021.txt" target="_blank">ChangeLog</a> for 2012-2021</li>
-            <li>2020/07 (<a href="/ICSchart/ChronostratChart2021-07.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-07.jpg" target="_blank">JPG</a>)</li>     
-            <li>2020/05 (<a href="/ICSchart/ChronostratChart2021-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05.jpg" target="_blank">JPG</a>)</li>     
+            <li>2021/07 (<a href="/ICSchart/ChronostratChart2021-07.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-07.jpg" target="_blank">JPG</a>)</li>     
+            <li>2021/05 (<a href="/ICSchart/ChronostratChart2021-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05.jpg" target="_blank">JPG</a>)</li>     
             <li>2020/03 (<a href="/ICSchart/ChronostratChart2020-03.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03.jpg" target="_blank">JPG</a>)</li>            
             <li>2020/01 (<a href="/ICSchart/ChronostratChart2020-01.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-01.jpg" target="_blank">JPG</a>)</li>
             <li>2019/05 (<a href="/ICSchart/ChronostratChart2019-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2019-05.jpg" target="_blank">JPG</a>)</li>
