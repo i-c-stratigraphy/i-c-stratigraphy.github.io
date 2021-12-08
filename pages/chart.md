@@ -35,11 +35,11 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Japanese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Japanese.jpg" target="_blank">JPG</a>)</li>             
             <li>Iberian Portuguese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.jpg" target="_blank">JPG</a>)</li>        
             <li>Catalan (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Catalan.jpg" target="_blank">JPG</a>)</li>
             <li>Spanish (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Spanish.jpg" target="_blank">JPG</a>)</li>
             <li>Chinese (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Chinese.jpg" target="_blank">JPG</a>)</li>
-            <li>Japanese (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Japanese.jpg" target="_blank">JPG</a>)</li>
             <li>Finnish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Finnish.jpg" target="_blank">JPG</a>)</li>
             <li>American Spanish (v2021/05: <a href="/ICSchart/ChronostratChart2021-05SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05SpanishAmer.jpg" target="_blank">JPG</a>)</li>
             <li>Hungarian (v2021/05: <a href="/ICSchart/ChronostratChart2021-05Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05Hungarian.jpg" target="_blank">JPG</a>)</li>
