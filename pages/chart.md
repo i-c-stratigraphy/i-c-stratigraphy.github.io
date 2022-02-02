@@ -35,6 +35,8 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Czech (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Czech.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Czech.jpg" target="_blank">JPG</a>)</li> 
+            <li>Slovak (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Slovak.jpg" target="_blank">JPG</a>)</li> 
             <li>Japanese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Japanese.jpg" target="_blank">JPG</a>)</li>             
             <li>Iberian Portuguese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.jpg" target="_blank">JPG</a>)</li>        
             <li>Catalan (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Catalan.jpg" target="_blank">JPG</a>)</li>
