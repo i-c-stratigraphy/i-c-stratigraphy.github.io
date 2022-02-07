@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Ratification of Artinskian GSSP](news/138) [07-02-2022]
 * [The Neogene Subseries/Subepochs are Formal Chronostratigraphic Units](news/137) [27-10-2021]
 * [Subseries/Subepochs for Neogene ratified](news/136) [16-10-2021]
 * [GSSPs: Hauterivian & Priabonian](news/135) [05-06-2021]
