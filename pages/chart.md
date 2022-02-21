@@ -20,8 +20,8 @@ permalink: /chart
 </div>
 
 <h4>Latest Version</h4>
-<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2021-10.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2021-10.jpg" alt="ChronostratChart2021-10" width="600" /></a></div>
-<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2021-10.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10.jpg" target="_blank">JPG</a>.</strong></p>
+<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2022-02.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2022-02.jpg" alt="ChronostratChart2022-02" width="600" /></a></div>
+<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2022-02.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02.jpg" target="_blank">JPG</a>.</strong></p>
 <p>Additional Chart resources:</p>
 <ul>
     <li><a href="/ICSchart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions for use</a></li>
@@ -63,7 +63,8 @@ permalink: /chart
     <div style="grid-column:2;">
         <h4>Old Versions</h4>
         <ul>
-            <li><a href="/ICSchart/ChangeLog2012-2013-2014-2015-2016-2017-2018-2019-2020-2021.txt" target="_blank">ChangeLog</a> for 2012-2021</li>
+            <li><a href="/ICSchart/ChangeLog2012-2022.txt" target="_blank">ChangeLog</a> for 2012-2022</li>
+            <li>2021/10 (<a href="/ICSchart/ChronostratChart2021-10.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10.jpg" target="_blank">JPG</a>)</li>   
             <li>2021/07 (<a href="/ICSchart/ChronostratChart2021-07.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-07.jpg" target="_blank">JPG</a>)</li>     
             <li>2021/05 (<a href="/ICSchart/ChronostratChart2021-05.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-05.jpg" target="_blank">JPG</a>)</li>     
             <li>2020/03 (<a href="/ICSchart/ChronostratChart2020-03.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2020-03.jpg" target="_blank">JPG</a>)</li>            
