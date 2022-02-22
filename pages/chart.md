@@ -35,10 +35,10 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Japanese (v2022/02: <a href="/ICSchart/ChronostratChart2022-02Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02Japanese.jpg" target="_blank">JPG</a>)</li>         
             <li>Chinese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Chinese.jpg" target="_blank">JPG</a>)</li> 
             <li>Czech (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Czech.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Czech.jpg" target="_blank">JPG</a>)</li> 
-            <li>Slovak (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Slovak.jpg" target="_blank">JPG</a>)</li> 
-            <li>Japanese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Japanese.jpg" target="_blank">JPG</a>)</li>             
+            <li>Slovak (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Slovak.jpg" target="_blank">JPG</a>)</li>            
             <li>Iberian Portuguese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10PTPortuguese.jpg" target="_blank">JPG</a>)</li>        
             <li>Catalan (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Catalan.jpg" target="_blank">JPG</a>)</li>
             <li>Spanish (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Spanish.jpg" target="_blank">JPG</a>)</li>
