@@ -88,7 +88,7 @@ permalink: /chart
 </div>
 
 <p><strong>Global chronostratigraphical correlation table for the last 2.7 million years </strong></p>
-<p>Click <a href="/ICSchart/QuaternaryChart.pdf" target="_blank">here</a> to download the pdf file and <a href="https://data.mendeley.com/datasets/dtsn3xn3n6/3" target="_blank">here</a> to see the explanation of the correlation table.</p>
+<p>Click <a href="/ICSchart/QuaternaryChart.pdf" target="_blank">here</a> to download the pdf file and <a href="https://data.mendeley.com/datasets/dtsn3xn3n6/5" target="_blank">here</a> to see the explanation of the correlation table.</p>
 <p><a href="/ICSchart/QuaternaryChart1.jpg" target="_blank"><img src="/ICSchart/QuaternaryChart3.JPG" alt="Quaternary Chart" width="600" height="370" /></a></p>
 <p><strong>Ordovician Chronostratigraphic Chart</strong></p>
 <p>Showing correlation of regional chronostratigraphic schemes with the new global stages and series for the Ordovician System.</p>
