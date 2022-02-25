@@ -25,7 +25,7 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 *For website technical matters:*  
-**Nicholas Car**  
+**Nicholas J. Car**  
 <nicholas.car@surroundaustralia.com>  
 
 *For all ICS matters:*  
