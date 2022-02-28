@@ -411,7 +411,6 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-qie.gif" alt="" />
     <h4>Secretary: Markus Aretz</h4>
     <p>
         Geosciences Environnement Toulouse (GET)<br />
