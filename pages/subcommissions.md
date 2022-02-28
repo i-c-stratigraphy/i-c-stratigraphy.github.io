@@ -388,9 +388,11 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-wang.gif" alt="" />
     <h4>Chair: Xiangdong Wang</h4>
     <p>
-        Nanjing Institute of Geology and Palaeontology, CAS<br />
-        39 East Beijing Rd. Nanjing, Jiangsu 210008, China<br />
-        E-mail: <a href="mailto:xdwang@nigpas.ac.cn">xdwang@nigpas.ac.cn</a>  
+        School of Earth Sciences and Engineering<br />
+        Nanjing University<br />
+        No. 163 Xianlin Avenue, Nanjing 210023<br />
+        P.R. China<br />
+        E-mail: <a href="mailto:xdwang@nju.edu.cn ">xdwang@nju.edu.cn </a>  
     </p>
 </div>
 
@@ -410,12 +412,13 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-qie.gif" alt="" />
-    <h4>Secretary: Wenkun Qie</h4>
+    <h4>Secretary: Markus Aretz</h4>
     <p>
-        Key Laboratory of Economic Stratigraphy and Palaeogeography<br />
-        Nanjing Institute of Geology and Palaeontology, CAS<br />
-        39 East Beijing Rd. Nanjing, Jiangsu 210008, China<br />
-        E-mail: <a href="mailto:wkqie@nigpas.ac.cn">wkqie@nigpas.ac.cn</a>  
+        Geosciences Environnement Toulouse (GET)<br />
+        Université Paul Sabatier<br />
+        Observatoire Midi-Pyrénées<br />
+        14 avenue Edouard Belin, 31400 Toulouse, France<br />
+        E-mail: <a href="mailto:markus.aretz@get.omp.eu">markus.aretz@get.omp.eu</a>  
     </p>
 </div>
 
