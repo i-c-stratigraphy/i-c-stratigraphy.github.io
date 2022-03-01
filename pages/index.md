@@ -8,6 +8,8 @@ permalink: /
   <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
 </div>
 
+<img src="images/ukraine.jpg" style="width:550px;" />
+
 #### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to define precisely global units (systems, series and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs and age) of the International Geological Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen and co-ordinated by an executive of five officers.
 
 <hr />
