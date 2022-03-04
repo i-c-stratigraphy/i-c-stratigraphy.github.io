@@ -17,7 +17,7 @@ permalink: /
 ## News & Meetings
 
 * [IAPG - Declaration against war](news/140) [03-03-2022]
-* [ICS Business Meeting, Feb 2020](news/139) [01-03-2022]
+* [ICS Business Meeting, Feb 2022](news/139) [01-03-2022]
 * [Ratification of Artinskian GSSP](news/138) [07-02-2022]
 * [The Neogene Subseries/Subepochs are Formal Chronostratigraphic Units](news/137) [27-10-2021]
 * [Subseries/Subepochs for Neogene ratified](news/136) [16-10-2021]
