@@ -23,7 +23,7 @@ The seventeen subject subcommissions of ICS are:
 14. [Neogene Stratigraphy](#neogene)
 15. [Quaternary Stratigraphy](#quaternary)
 16. [Stratigraphic Classification](#classification)
-17. [Timescale Calibration](#timescale)
+17. [Timescale Calibration](#calibration)
 
 ### <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
 [Homepage](http://precambrian.stratigraphy.org/)
@@ -794,7 +794,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="timescale"></a>Subcommission on Timescale Calibration
+### <a id="calibration"></a>Subcommission on Timescale Calibration
 
 <div class="person">
     <img src="/images/person-cramer.jpg" alt="" />
