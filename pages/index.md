@@ -16,6 +16,7 @@ permalink: /
 
 ## News & Meetings
 
+* [New edition of _Géochronologique_ - Global Stratotype points in France](news/142) [19-09-2022]
 * [4th International Congress on Stratigraphy STRATI 2023 announced](news/141) [15-05-2022]
 * [IAPG - Declaration against war](news/140) [03-03-2022]
 * [ICS Business Meeting, Feb 2022](news/139) [01-03-2022]
