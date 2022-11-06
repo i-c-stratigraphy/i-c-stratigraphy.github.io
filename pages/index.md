@@ -16,6 +16,7 @@ permalink: /
 
 ## News & Meetings
 
+* [ICS special presentation "The Internetian Age"](news/144) [06-11-2022]
 * [New edition of the Chart - 2022-10](news/143) [11-10-2022]
 * [New edition of _Géochronologique_ - Global Stratotype points in France](news/142) [19-09-2022]
 * [4th International Congress on Stratigraphy STRATI 2023 announced](news/141) [15-05-2022]

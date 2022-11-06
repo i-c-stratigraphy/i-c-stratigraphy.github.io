@@ -6,10 +6,10 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 ### Jekyll Commands
 #### Launch new site
-`jekyll new . --force`
+jekyll new . --force
 
 #### Serve locally
-`bundle exec jekyll serve`
+bundle exec jekyll serve
 
 to fix dependencies: `bundle update && bundle install` then `bundle add webrick`
 
