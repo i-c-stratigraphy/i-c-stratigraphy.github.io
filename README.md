@@ -6,12 +6,21 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 ### Jekyll Commands
 #### Launch new site
+bundle install
 jekyll new . --force
 
 #### Serve locally
 bundle exec jekyll serve
 
-to fix dependencies: `bundle update && bundle install` then `bundle add webrick`
+#### Extra Ruby/Jekyll notes
+https://programmingzen.com/installing-rbenv-on-zsh-on-macos/
+https://www.delftstack.com/howto/ruby/change-ruby-version-on-mac/
+
+ZSH additions:  
+added to .zshrc 
+export PATH="$PATH:$HOME/.rvm/bin"  
+export PATH="$HOME/.rbenv/bin:$PATH"  
+eval "$(rbenv init - zsh)"
 
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:
