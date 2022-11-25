@@ -168,40 +168,54 @@ The seventeen subject subcommissions of ICS are:
 ### <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
 [Homepage](http://cambrian.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-ahlberg.gif" alt="" />
-    <h4>Chair: Per Ahlberg</h4>
+    <img src="/images/person-paterson.jpg" alt="" />
+    <h4>Chair: John Paterson</h4>
     <p>
-        Professor, Department of Geology<br />
-        Lund University<br />
-        Sölvegatan 12, SE-223-62 Lund, Sweden<br />
-        Tel: +46 46 222 78 70<br />
-        E-mail: <a href="mailto:per.ahlberg@geol.lu.se">per.ahlberg@geol.lu.se</a>  
+        <em>Professor of Earth Sciences</em><br />
+        Palaeoscience Research Centre<br />
+        School of Environmental & Rural Science<br />
+        University of New England<br />
+        Armidale, NSW 2351, Australia<br />
+        Tel: +61-2-6773-2101<br />
+        E-mail: <a href="jpater20@une.edu.au">jpater20@une.edu.au</a>
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-zhu.jpg" alt="" />
-    <h4>Vice-Chair: Maoyan Zhu</h4>
+    <img src="/images/person-creveling.jpg" alt="" />
+    <h4>Vice-Chair: Jessica 'JC' Creveling</h4>
     <p>
-        State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
-        Nanjing Institute of Geology and Palaeontology<br />
-        Chinese Academy of Sciences<br />
-        39 East Beijing Road, Nanjing 210008, China
-        E-mail: <a href="mailto:myzhu@nigpas.ac.cn">myzhu@nigpas.ac.cn</a>  
+        <em>Associate Professor of Geology</em><br />
+        College of Earth, Ocean, and Atmospheric Sciences<br />
+        Oregon State University<br />
+        101 SW 26th Street, Corvallis, Oregon, USA 97331<br />
+        E-mail: <a href="jessica.creveling@oregonstate.edu">jessica.creveling@oregonstate.edu</a>
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-zylinska.jpg" alt="" />
-    <h4>Secretary: Anna Zylinska</h4>
+    <img src="/images/person-betts.jpg" alt="" />
+    <h4>Secretary: Marissa J Betts</h4>
     <p>
-        Department of Historical Geology,<br />
-        Regional Geology and Palaeontology<br />
-        Faculty of Geology<br />
-        University of Warsaw<br />
-        Zwirki i Wigury 93<br />
-        PL-02-089, Warszawa, Poland<br />
-        E-mail: <a href="mailto:anna.zylinska@uw.edu.pl">anna.zylinska@uw.edu.pl</a>
+        <em>Research Fellow in Earth Sciences</em><br />
+        Palaeoscience Research Centre & Litholab (LLUNE)<br />
+        School of Environmental & Rural Science<br />
+        University of New England<br />
+        Armidale, NSW 2351, Australia<br />
+        Tel: +61-2-6773-1714<br />
+        E-mail: <a href="mbetts7@une.edu.au">mbetts7@une.edu.au</a>  
+    </p>
+</div>
+
+<div class="person">
+    <h4>Webmaster: Michael Streng</h4>
+    <p>
+        Uppsala University<br />
+        Department of Earth Sciences<br />
+        Palaeobiology Programme<br />
+        Villavägen 16<br />
+        752 36 Uppsala, Sweden<br />
+        <a href="Michael.Streng@geo.uu.se">Michael.Streng@geo.uu.se</a>
     </p>
 </div>
 
