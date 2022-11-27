@@ -10,11 +10,9 @@ permalink: /
 
 <img src="images/ukraine.jpg" style="width:550px;" />
 
-<div style="width:550; border:solid 10px black; text-align:center; padding 10px; background-color: pink;">
-  <h2>Who owns the Anthropocene?</h2>
-  <h4><em>Geoscientists plan votes in 2023 to decide</em></h4>
-  <p><a href="https://aaas.confex.com/aaas/2023/meetingapp.cgi/Session/29881">A discussion session at the AAAS Annual meeting 2023, theme 'Science for Humanity'<br />2-5 March, Washington, USA.</a></p>
-  
+<div style="width:550; border:solid 5px black; text-align:center; padding 5px; background-color: pink;">
+  <h3>Who owns the Anthropocene? Geoscientists plan votes in 2023 to decide</h3>
+  <p style="font-size:smaller;"><a href="https://aaas.confex.com/aaas/2023/meetingapp.cgi/Session/29881">A discussion session at the AAAS Annual meeting 2023, theme 'Science for Humanity', 2-5 March, Washington, USA.</a></p>
 </div>
 
 #### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to define precisely global units (systems, series and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs and age) of the International Geological Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen and co-ordinated by an executive of six officers.
@@ -23,6 +21,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Who owns the Anthropocene?](news/145) [22-11-2022]
 * [ICS special presentation "The Internetian Age"](news/144) [06-11-2022]
 * [New edition of the Chart - 2022-10](news/143) [11-10-2022]
 * [New edition of _Géochronologique_ - Global Stratotype points in France](news/142) [19-09-2022]
