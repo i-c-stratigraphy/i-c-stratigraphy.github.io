@@ -35,6 +35,7 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Japanese (v2022/10: <a href="/ICSchart/ChronostratChart2022-10Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Japanese.jpg" target="_blank">JPG</a>)</li>
             <li>Korean (v2022/10: <a href="/ICSchart/ChronostratChart2022-10Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Korean.jpg" target="_blank">JPG</a>)</li>
             <li>French (v2022/10: <a href="/ICSchart/ChronostratChart2022-10French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10French.jpg" target="_blank">JPG</a>)</li>
             <li>Netherlands Dutch (v2022/10: <a href="/ICSchart/ChronostratChart2022-10NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10NLDutch.jpg" target="_blank">JPG</a>)</li>
@@ -45,7 +46,6 @@ permalink: /chart
             <li>Portuguese (v2022/02: <a href="/ICSchart/ChronostratChart2022-02PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02PTPortuguese.jpg" target="_blank">JPG</a>)</li> 
             <li>German (v2022/02: <a href="/ICSchart/ChronostratChart2022-02German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02German.jpg" target="_blank">JPG</a>)</li>   
             <li>American Spanish (v2022/02: <a href="/ICSchart/ChronostratChart2022-02SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02SpanishAmer.jpg" target="_blank">JPG</a>)</li>        
-            <li>Japanese (v2022/02: <a href="/ICSchart/ChronostratChart2022-02Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02Japanese.jpg" target="_blank">JPG</a>)</li>         
             <li>Chinese (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Chinese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Chinese.jpg" target="_blank">JPG</a>)</li> 
             <li>Czech (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Czech.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Czech.jpg" target="_blank">JPG</a>)</li> 
             <li>Slovak (v2021/10: <a href="/ICSchart/ChronostratChart2021-10Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10Slovak.jpg" target="_blank">JPG</a>)</li>            
