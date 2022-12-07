@@ -35,6 +35,7 @@ permalink: /chart
     <div style="grid-column:1;">
         <h4>Translations</h4>
         <ul>
+            <li>Korean (v2022/10: <a href="/ICSchart/ChronostratChart2022-10Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Korean.jpg" target="_blank">JPG</a>)</li>
             <li>French (v2022/10: <a href="/ICSchart/ChronostratChart2022-10French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10French.jpg" target="_blank">JPG</a>)</li>
             <li>Netherlands Dutch (v2022/10: <a href="/ICSchart/ChronostratChart2022-10NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10NLDutch.jpg" target="_blank">JPG</a>)</li>
             <li>Belgium Dutch (v2022/10: <a href="/ICSchart/ChronostratChart2022-10BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10BEDutch.jpg" target="_blank">JPG</a>)</li>      
