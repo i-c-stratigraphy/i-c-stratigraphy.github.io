@@ -122,7 +122,7 @@ permalink: /chart
 
 Here is a pronunciation guide in English, French & Spanish for the Chart elements that gives hyphenated syllabification:
 
-* [Pronunciation Guide in Excel](/files/)
+* [Pronunciation Guide in Excel](/files/Pronunciation_20221219.xls)
 
 <table style="font-size:smaller;">
   <tbody>
