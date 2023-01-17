@@ -5,17 +5,41 @@ permalink: /prizes
 ---
 ## Prizes
 
-The International Commission on Stratigraphy (ICS) is a leading entity of the International Union of Geological Sciences (IUGS) with responsibility for establishing international standards in stratigraphy, such as the Geological Time Scale and the International Chronostratigraphical Scale, defined by boundary stratotypes (GSSPs).
+The International Commission on Stratigraphy (ICS) is a leading entity of the International Union of Geological Sciences (IUGS) with responsibility for establishing international standards in stratigraphy, such as the Geological Time Scale and the International Chronostratigraphical Scale, defined by Global Stratotype Section and Points (GSSPs).
 
 Stratigraphy is the core discipline of the geological sciences, concerned with the relationships in time and space of rocks (not just sedimentary, but also igneous and metamorphic rocks) and the varied processes that have formed and affected them. Results and interpretations deriving from other disciplines can only be integrated into a coherent all-embracing geological history if they are based on sound stratigraphy.
 
-To emphasize this key role of stratigraphy, the International Commission on Stratigraphy awards two ICS Prizes to outstanding geoscientists every four years. The first awards were made at the 32nd IGC in Florence, 2004; the second and third at the 33rd and 34th IGC in Oslo, 2008 and in Brisbane, 2012. Beginning in 2015, the awards will be made at the International Congress on Stratigraphy.
+### About our Prizes
+
+To emphasise this key role of stratigraphy, the International Commission on Stratigraphy awards two ICS Prizes to outstanding geoscientists every four years during an International Geological Congress, and since 2015 during the ICS’ STRATI conferences.
 
 The awards are made at two levels:
 
-1. The **Digby McLaren Medal** is awarded to honor a significant body of internationally important contributions to stratigraphy sustained over a number of years. The contributions can be in research (through publication of papers, monographs or books) or in education (through development of influential educational material or resources). It is expected that a major proportion of this work will have been published in an international language. The medal is named in honor of the Canadian geologist Digby McLaren who was so influential in developing the key "golden spike" concept of a Global Stratotype Section and Point (GSSP) with reference to the Silurian - Devonian boundary, and a major force behind the International Geological Correlation Program (IGCP) of UNESCO.
+1. The **Digby McLaren Medal** is awarded to honour a significant body of internationally important contributions to stratigraphy sustained over a number of years. The contributions can be in research (through publication of papers, monographs or books) or in education (through development of influential educational material or resources). It is expected that a major proportion of this work will have been published in an international language. The medal is named in honour of the Canadian geologist Digby McLaren who was influential in developing the key "golden spike" concept of a GSSP with reference to the Silurian– Devonian boundary, and a major force behind the International Geological Correlation Programme (IGCP) of UNESCO.
 
-2. The **ICS Medal** is awarded to honor high-quality research in stratigraphy by recognizing a single major achievement in advancing stratigraphical knowledge. The research can be either in the development of new methods of analysis or in the presentation of new data and/or interpretation of the geological history of a particular area or time interval. There are no limitations to the size or scale of the subject matter. The geographical scope of the work need not be international, but the work should be of an international scientific caliber. The language of publication of the work is not a criterion, and it may comprise a single paper of distinction or a series of papers over a short period of time that have similar impact.
+2. The **ICS Medal** is awarded to honour high-quality research in stratigraphy by recognizing a single major achievement in advancing stratigraphical knowledge. The research can be in a) the development of new methods of analysis, b) the presentation of significant discoveries, or c) the interpretation of the geological history of a particular area or time interval. There are no limitations to the size or scale of the subject matter. The geographical scope of the work need not be international, but the work should be of an international scientific calibre. The language of publication of the work is not a criterion, and it may comprise a single paper of distinction or a series of papers that have similar impact.
+
+### Nominations and Selection
+
+Nominations for either of the awards are solicited from any source, not restricted to members of the Commission or other entities within IUGS. Nominations should include a brief biographical background of the Nominee, a reasoned case based on the Nominee’s contributions, and, if necessary, translation into English of at least abstracts of this material so that independent judgement can be made.
+
+The ICS has established a committee to elicit and evaluate nominations for the two prizes, and afterwards to make recommendations to all members of ICS, who must then approve the nominations by a clear majority vote. The committee includes Laia Alegret (University of Zaragoza, Spain), Lucia Angiolini (Università degli Studi di Milano, Italy), Marissa Betts (University of New England, Australia), Thomas Servais (University of Lille, France) and Shuzhong Shen (Nanjing University, China, and Vice-Chair of ICS).
+
+Nomination documents should be submitted to:
+
+Dr. Laia Alegret,  
+Departamento de Ciencias de la Tierra, Universidad de Zaragoza,  
+Calle Pedro Cerbuna, 12,  
+E-50009 Zaragoza,  
+Spain.  
+
+Tel: 0034 876553465 e-mail: <laia@unizar.es>
+
+**Nomination deadline: 13 February 2023**
+
+For further information please contact a member of the committee.
+
+## Previous Winners
 
 ### 2019
 

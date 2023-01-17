@@ -21,6 +21,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Prize nominations open](news/146) [18-01-2023]
 * [Who owns the Anthropocene?](news/145) [22-11-2022]
 * [ICS special presentation "The Internetian Age"](news/144) [06-11-2022]
 * [New edition of the Chart - 2022-10](news/143) [11-10-2022]
