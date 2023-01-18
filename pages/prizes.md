@@ -15,6 +15,8 @@ To emphasise this key role of stratigraphy, the International Commission on Stra
 
 The awards are made at two levels:
 
+![](/images/digby-medal.jpg)
+
 1. The **Digby McLaren Medal** is awarded to honour a significant body of internationally important contributions to stratigraphy sustained over a number of years. The contributions can be in research (through publication of papers, monographs or books) or in education (through development of influential educational material or resources). It is expected that a major proportion of this work will have been published in an international language. The medal is named in honour of the Canadian geologist Digby McLaren who was influential in developing the key "golden spike" concept of a GSSP with reference to the Silurian– Devonian boundary, and a major force behind the International Geological Correlation Programme (IGCP) of UNESCO.
 
 2. The **ICS Medal** is awarded to honour high-quality research in stratigraphy by recognizing a single major achievement in advancing stratigraphical knowledge. The research can be in a) the development of new methods of analysis, b) the presentation of significant discoveries, or c) the interpretation of the geological history of a particular area or time interval. There are no limitations to the size or scale of the subject matter. The geographical scope of the work need not be international, but the work should be of an international scientific calibre. The language of publication of the work is not a criterion, and it may comprise a single paper of distinction or a series of papers that have similar impact.
