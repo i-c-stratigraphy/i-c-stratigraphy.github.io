@@ -21,6 +21,7 @@ permalink: /
 
 ## News & Meetings
 
+* [New book on stratigraphical methods](news/147) [23-01-2023]
 * [Prize nominations open](news/146) [18-01-2023]
 * [Who owns the Anthropocene?](news/145) [22-11-2022]
 * [ICS special presentation "The Internetian Age"](news/144) [06-11-2022]
