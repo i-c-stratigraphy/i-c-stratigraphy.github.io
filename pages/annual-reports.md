@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Home"
-permalink: /archives
+permalink: /annual-reports
 ---
-## Archives
+## Annual Reports
 
 [ICS Annual Report 2021](/files/ICS_AnnReport2021.pdf) 
 
