@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* ["The Internetian Age" YouTube link](news/148) [06-02-2023]
 * [New book on stratigraphical methods](news/147) [23-01-2023]
 * [Prize nominations open](news/146) [18-01-2023]
 * [Who owns the Anthropocene?](news/145) [22-11-2022]
