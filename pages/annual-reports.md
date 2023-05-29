@@ -58,3 +58,7 @@ permalink: /annual-reports
 [Discussions on the GSSP for the base of the Jurassic System (14MB)](/files/J_discussion.zip)  
 
 [Q1: Definition and Rank of Quaternary](/bak/Q1)
+
+### IUGS Annual Reports
+
+The [International Union of Geological Sciences](https://www.iugs.org/), the parent body of the International Commission on Stratigraphy, has its Annual Reports online at <https://www.iugs.org/annual-reports>.
