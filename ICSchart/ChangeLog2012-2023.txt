@@ -18,11 +18,14 @@ Changes ICS chart v.2021/07
 Changes ICS chart v.2021/10 
 Changes ICS chart v.2022/02 
 Changes ICS chart v.2022/10
-Changes ICS chart v.2023/04 = actual version
+Changes ICS chart v.2023/04 
+Changes ICS chart v.2023/06 = actual version
 
 
 GSSPs added:
-2023/04 - Cretaceous: Barremian Stage: GSSP added as it was ratified by IUGS (___-03-2023)
+2023/06 - Miocene: Langhian Stage: GSSP added as it was ratified by IUGS (31-05-2023)
+
+2023/04 - Cretaceous: Barremian Stage: GSSP added as it was ratified by IUGS (26-03-2023)
 2022/10 - Cretaceous: Campanian Stage: GSSP added as it was ratified by IUGS (5-10-2022)
 
 2022/02 - Permian: Artinskian Stage: GSSP added as it was ratified by IUGS (03-02-2022)
@@ -48,6 +51,7 @@ GSSAs changed/dropped/introduced:
 2016/04 - With the tuned age of the base Cryogenian being established, it is no-longer a ratified GSSA and the icon is dropped.
 
 Numeric Ages altered:
+2023/06 - Miocene: Langhian Stage: 15.98 (was: 15.97 Ma) in agreement with ratified Langhian GSSP proposal.
 2023/04 - Cretaceous: Barremian Stage: 125.77 (was: ~129.4) in agreement with ratified Barremian GSSP proposal
 2022/10 - Jurassic: numeric ages of all stages updated to comply to GTS2020 - by request of SCJS (Angela Coe)
 Tithonian 149.2 +/- 0.7 Ma (was: 152.1 +/- 0.9 Ma )
@@ -184,9 +188,9 @@ Adobe-illustrator file (layers storing translations)
 --- Logo and text space at bottom of chart to feature translating parties.
 --- Logo space also used to produce four-annual IGC handout versions of chart.
 
-Per 2022/10 the following translations have been imported in the master file (next to English):
--- Finnish, Hungarian, Norwegian, Dutch (NL,B), German, French, American Spanish, Catalan, Spanish, Japanese, Chinese, Slovak, Czech, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
+Per 2023/04 the following translations have been imported in the master file (next to English):
+-- Finnish, Hungarian, Norwegian, Dutch (NL,B), German, French, American Spanish, Catalan, Spanish, Japanese, Chinese, Korean, Slovak, Czech, Iberian Portuguese, Brazilian Portuguese, Lithuanian.
 -- At GBDB in China, a Chinese masterfile translated chart is kept, parallel to ICS.
-As per 2022/02 older translations still awaiting import are:
+As per 2022/02-2023/06 older translations still awaiting import are:
 -- Russian, Basque, Turkish
 
