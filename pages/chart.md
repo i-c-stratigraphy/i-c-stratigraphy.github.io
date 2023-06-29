@@ -47,6 +47,12 @@ permalink: /chart
         <h4>Translations</h4>
         <ul>
           <li>
+            <strong>2023/06 translations</strong>
+            <ul>
+                <li>Japanese (<a href="/ICSchart/ChronostratChart2023-06Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-06Japanese.jpg" target="_blank">JPG</a>)</li>
+            </ul>
+          </li>          
+          <li>
             <strong>2023/04 translations</strong>
             <ul>
                 <li>Catalan (<a href="/ICSchart/ChronostratChart2023-04Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-04Catalan.jpg" target="_blank">JPG</a>)</li>
@@ -68,7 +74,6 @@ permalink: /chart
                 <li>German (<a href="/ICSchart/ChronostratChart2022-10German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10German.jpg" target="_blank">JPG</a>)</li>
                 <li>Hungarian (<a href="/ICSchart/ChronostratChart2022-10Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Hungarian.jpg" target="_blank">JPG</a>)</li>
                 <li>Italian (<a href="/ICSchart/ChronostratChart2022-10Italian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Italian.jpg" target="_blank">JPG</a>)</li>
-                <li>Japanese (<a href="/ICSchart/ChronostratChart2022-10Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Japanese.jpg" target="_blank">JPG</a>)</li>
                 <li>Netherlands Dutch (<a href="/ICSchart/ChronostratChart2022-10NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10NLDutch.jpg" target="_blank">JPG</a>)</li>
                 <li>Neorwegian (<a href="/ICSchart/ChronostratChart2022-10Norwegian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Norwegian.jpg" target="_blank">JPG</a>)</li>
                 <li>Slovak (<a href="/ICSchart/ChronostratChart2022-10Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10Slovak.jpg" target="_blank">JPG</a>)</li>
