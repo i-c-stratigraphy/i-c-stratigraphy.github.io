@@ -13,8 +13,8 @@ permalink: /chart
 
 ### Latest Version
 
-<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2023-06.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2023-06.jpg" alt="ChronostratChart 2023-06" width="600" /></a></div>
-<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2023-06.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-06.jpg" target="_blank">JPG</a>.</strong></p>
+<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2023-09.jpg" alt="ChronostratChart 2023-06" width="600" /></a></div>
+<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09.jpg" target="_blank">JPG</a>.</strong></p>
 <p>Additional Chart resources:</p>
 <ul>
     <li><a href="/ICSchart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions for use</a></li>
@@ -93,8 +93,9 @@ permalink: /chart
     <div style="grid-column:2;">
         <h4>Old English Versions</h4>
         <ul>
-            <li><a href="/ICSchart/ChangeLog2012-2023.txt" target="_blank">ChangeLog</a> for 2012-2023</li>
-            <li>2023/04 (<a href="/ICSchart/ChronostratChart2023-04.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-04.jpg" target="_blank">JPG</a>)</li>
+            <li><a href="/ICSchart/ChangeLog2012-2023-2.txt" target="_blank">ChangeLog</a> for 2012-2023</li>
+            <li>2023/06 (<a href="/ICSchart/ChronostratChart2023-06.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-06.jpg" target="_blank">JPG</a>)</li>
+            <li>2023/04 (<a href="/ICSchart/ChronostratChart2023-04.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-04.jpg" target="_blank">JPG</a>)</li>            
             <li>2022/10 (<a href="/ICSchart/ChronostratChart2022-10.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10.jpg" target="_blank">JPG</a>)</li>
             <li>2022/02 (<a href="/ICSchart/ChronostratChart2022-02.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-02.jpg" target="_blank">JPG</a>)</li>
             <li>2021/10 (<a href="/ICSchart/ChronostratChart2021-10.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2021-10.jpg" target="_blank">JPG</a>)</li>            
