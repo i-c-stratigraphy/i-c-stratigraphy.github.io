@@ -477,6 +477,19 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div class="person">
+    <img src="/images/person-liz2.jpg" alt="" />
+    <h4>Newsletter editor: Elizabeth Weldon</h4>
+    <p>
+        School of Life and Environmental Sciences<br />
+        Faculty of Science Engineering & Built Environment<br />
+        Deakin University<br />
+        Locked Bag 20000, Geelong, VIC 3220<br />
+        Tel: +61-3-92517191<br />
+        E-mail: <a href="mailto:l.weldon@deakin.edu.au">l.weldon@deakin.edu.au</a>  
+    </p>
+</div>
+
 <div style="clear:both;"></div>
 
 ### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
