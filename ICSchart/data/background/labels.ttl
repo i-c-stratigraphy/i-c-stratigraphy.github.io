@@ -1,0 +1,35 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+<http://resource.geosciml.org/classifier/ics/ischart/CMYK>
+    rdfs:label "CMYK Colour Scheme" ;
+.
+
+<http://resource.geosciml.org/classifier/ics/ischart/RGB>
+    rdfs:label "RGB Colour Schem" ;
+.
+
+<http://resource.geosciml.org/classifier/ics/ischart/RGBHex>
+    rdfs:label "RGB Hex Colour Schem" ;
+.
+
+<http://resource.geosciml.org/classifier/ics/ischart/ccgmShortCode>
+    rdfs:label "CCGM Short Code" ;
+.
+
+<http://resource.geosciml.org/vocabulary/timescale/gts2020>
+    rdfs:label "Geologic Timescale, 2020" ;
+.
+
+rdfs:isDefinedBy
+    rdfs:label "is defined by" ;
+.
+
+sh:order
+    rdfs:label "order" ;
+.
+
+schema:marginOfError
+    rdfs:label "margin of error" ;
+.

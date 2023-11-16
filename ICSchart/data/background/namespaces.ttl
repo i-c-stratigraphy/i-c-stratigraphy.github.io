@@ -1,0 +1,21 @@
+PREFIX vann: <http://purl.org/vocab/vann/>
+
+[
+    vann:preferredNamespacePrefix "gts" ;
+    vann:preferredNamespaceUri <http://resource.geosciml.org/ontology/timescale/gts#>
+] .
+
+[
+    vann:preferredNamespacePrefix "ischart" ;
+    vann:preferredNamespaceUri <http://resource.geosciml.org/classifier/ics/ischart/>
+] .
+
+[
+    vann:preferredNamespacePrefix "ts" ;
+    vann:preferredNamespaceUri <http://resource.geosciml.org/vocabulary/timescale/>
+] .
+
+[
+    vann:preferredNamespacePrefix "time" ;
+    vann:preferredNamespaceUri <http://www.w3.org/2006/time#>
+] .
