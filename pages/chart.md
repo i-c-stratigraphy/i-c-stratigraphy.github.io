@@ -22,6 +22,7 @@ permalink: /chart
     <li><a href="/ICSchart/CGMW_ICS_colour_codes.xlsx" target="_blank">Colour Chart (Excel)</a></li>
     <li><a href="/ICSchart/CGMW_ICS_swatch_library.ai" target="_blank">Adobe Illustrator Colour Swatch Library</a></li>
     <li>Explanatory article from <a href="https://doi.org/10.18814/epiiugs/2013/v36i3/002" target="_blank">September 2013 issue of Episodes</a> (<a href="/ICSchart/Cohen2013_Episodes.pdf" target="_blank">local PDF copy</a>)</li>
+    <li><a href="/ICSchart/data/ChronostratChart2023-09.ttl">Experimental SKOS RDF version of the Chart</a></li>
 </ul>
 
 ### Interactive Versions
