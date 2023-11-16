@@ -256,7 +256,7 @@ ischart:SubPeriod
     skos:member
         ischart:Mississippian ,
         ischart:Pennsylvanian ;
-    skos:prefLabel "Eons"@en ;
+    skos:prefLabel "Sub Periods"@en ;
 .
 
 ischart:SuperEons
@@ -7805,7 +7805,7 @@ cs:
     dcterms:creator <https://linked.data.gov.au/org/ics> ;
     dcterms:modified "2023-11-16"^^xsd:date ;
     dcterms:publisher <https://linked.data.gov.au/org/ics> ;
-    owl:versionIRI <https://w3id.org/profile/gts-skos/2023-09> ;
+    owl:versionIRI ischart:2023-09 ;
     owl:versionInfo "2023-09" ;
     skos:definition """This is a SKOS vocabulary presentation of the time units of the International Chronostratigraphic Chart represented as SKOS Concepts. Beginning and End ages are given for each unit in units of Millions of Years Ago (MYA)."""@en ;
     skos:hasTopConcept
