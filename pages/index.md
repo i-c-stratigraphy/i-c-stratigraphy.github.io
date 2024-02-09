@@ -14,6 +14,7 @@ permalink: /
 
 ## News & Meetings
 
+* [Telychian & Aeronian GSSPs relocated](news/151) [09-02-2024]
 * [The 2023/06 International Chronostratigraphic chart is released](news/150) [30-06-2023]
 * [IUGC 2022 Annual Report](news/149) [30-05-2023]
 * ["The Internetian Age" YouTube link](news/148) [06-02-2023]
