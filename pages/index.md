@@ -12,21 +12,21 @@ permalink: /
 
 <hr />
 
-## News & Meetings
+<div style="text-align:center; width:75%;">
+  <div style="border:solid 2px black; padding: 10px; width:300px;">
+  <p><a href="news/152">Joint statement by the IUGS and ICS<br />on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy</a></p>
+  <p>21-03-2024</p>
+  </div>
+</div>
 
+## News
+
+* [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy](news/152) [21-03-2024]
 * [Telychian & Aeronian GSSPs relocated](news/151) [09-02-2024]
 * [The 2023/06 International Chronostratigraphic chart is released](news/150) [30-06-2023]
 * [IUGC 2022 Annual Report](news/149) [30-05-2023]
 * ["The Internetian Age" YouTube link](news/148) [06-02-2023]
 * [New book on stratigraphical methods](news/147) [23-01-2023]
 * [Prize nominations open](news/146) [18-01-2023]
-* [Who owns the Anthropocene?](news/145) [22-11-2022]
-* [ICS special presentation "The Internetian Age"](news/144) [06-11-2022]
-* [New edition of the Chart - 2022-10](news/143) [11-10-2022]
-* [New edition of _Géochronologique_ - Global Stratotype points in France](news/142) [19-09-2022]
-* [4th International Congress on Stratigraphy STRATI 2023 announced](news/141) [15-05-2022]
-* [IAPG - Declaration against war](news/140) [03-03-2022]
-* [ICS Business Meeting, Feb 2022](news/139) [01-03-2022]
-* [Ratification of Artinskian GSSP](news/138) [07-02-2022]
 
   <img src="images/ukraine.jpg" style="width:450px;" />
