@@ -712,14 +712,29 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
 [Homepage](http://quaternary.stratigraphy.org/)
-<div class="person" style="height:100px;">
-    <h3>Chair</h3>
-    <p>To be elected</p>
+<div class="person">
+    <img src="/images/person-zalasiewicz.gif" alt="" />
+    <h4>Chair: Jan Zalasiewicz</h4>
+    <p>
+        Emeritus Professor of Palaeobiology<br />
+        University of Leicester<br />
+        Leicester, LE1 7RH, UK<br />
+        Tel: +44 (0)116 252 3928<br />
+        E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
+    </p>
 </div>
 
-<div class="person" style="height:100px;">
-    <h3>Vice-Chair</h3>
-    <p>To be elected</p>
+<div class="person">
+    <img src="/images/person-head.gif" alt="" />
+    <h4>Vice-Chair: Martin J. Head</h4>
+    <p>
+        Professor, Department of Earth Sciences<br />
+        Brock University<br />
+        1812 Sir Isaac Brock Way<br />
+        St. Catharines, Ontario L2S 3A1, Canada<br />
+        Tel: +1 905-688-5550 ext. 5216<br />
+        E-mail: <a href="mailto:mjhead@brocku.ca">mjhead@brocku.ca</a>  
+    </p>
 </div>
 
 <div class="person">
