@@ -21,6 +21,7 @@ permalink: /
 
 ## News
 
+* [Albian and Hauterivian GSSP ceremonies](news/153) [12-08-2024]
 * [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy](news/152) [21-03-2024]
 * [Telychian & Aeronian GSSPs relocated](news/151) [09-02-2024]
 * [The 2023/06 International Chronostratigraphic chart is released](news/150) [30-06-2023]
