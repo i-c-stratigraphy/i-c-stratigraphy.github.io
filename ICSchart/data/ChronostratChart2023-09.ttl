@@ -3341,10 +3341,10 @@ ischart:Olenekian
     skos:notation "t2"^^ischart:ccgmShortCode ;
     skos:prefLabel "Olenekian"@en ;
     time:hasBeginning [
-            ischart:inMYA 247.2
-        ] ;
-    time:hasEnd [
             ischart:inMYA 251.2
+        ] ;
+    time:hasEnd [            
+            ischart:inMYA 247.2
         ] ;
     prov:wasDerivedFrom ts:gts2020 ;
     sh:order 73 ;
@@ -4812,11 +4812,11 @@ ischart:Valanginian
     skos:notation "b2"^^ischart:ccgmShortCode ;
     skos:prefLabel "Valanginian"@en ;
     time:hasBeginning [
-            ischart:inMYA 132.6 ;
-            skos:note "uncertain"
+            ischart:inMYA 139.8 ;
+            skos:note "uncertain"            
         ] ;
     time:hasEnd [
-            ischart:inMYA 139.8 ;
+            ischart:inMYA 132.6 ;
             skos:note "uncertain"
         ] ;
     prov:wasDerivedFrom ts:gts2020 ;
@@ -7742,12 +7742,12 @@ ischart:Paleozoic
     skos:notation "PZ"^^ischart:ccgmShortCode ;
     skos:prefLabel "Paleozoic"@en ;
     time:hasBeginning [
-            ischart:inMYA 251.902 ;
-            sdo:marginOfError 0.024
+            ischart:inMYA 538.8 ;
+            sdo:marginOfError 0.2            
         ] ;
     time:hasEnd [
-            ischart:inMYA 538.8 ;
-            sdo:marginOfError 0.2
+            ischart:inMYA 251.902 ;
+            sdo:marginOfError 0.024
         ] ;
     prov:wasDerivedFrom ts:gts2020 ;
     sh:order 77 ;
@@ -7803,10 +7803,10 @@ cs:
     dcterms:conformsTo <https://w3id.org/profile/vocpub/4.6> ;
     dcterms:created "2023-11-05"^^xsd:date ;
     dcterms:creator <https://linked.data.gov.au/org/ics> ;
-    dcterms:modified "2023-11-16"^^xsd:date ;
+    dcterms:modified "2024-08-20"^^xsd:date ;
     dcterms:publisher <https://linked.data.gov.au/org/ics> ;
     owl:versionIRI ischart:2023-09 ;
-    owl:versionInfo "2023-09" ;
+    owl:versionInfo "2023-09 with bugfixes" ;
     skos:definition """This is a SKOS vocabulary presentation of the time units of the International Chronostratigraphic Chart represented as SKOS Concepts. Beginning and End ages are given for each unit in units of Millions of Years Ago (MYA)."""@en ;
     skos:hasTopConcept
         ischart:Phanerozoic ,
