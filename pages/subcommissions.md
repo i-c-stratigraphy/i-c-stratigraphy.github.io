@@ -186,7 +186,7 @@ The seventeen subject subcommissions of ICS are:
     <h4>Vice-Chair: Jessica 'JC' Creveling</h4>
     <p>
         <em>Associate Professor of Geology</em><br />
-        College of Earth, Ocean, and Atmospheric Sciences<br />
+        Col. of Earth, Ocean & Atmospheric Sciences<br />
         Oregon State University<br />
         101 SW 26th Street, Corvallis, Oregon, USA 97331<br />
         E-mail: <a href="jessica.creveling@oregonstate.edu">jessica.creveling@oregonstate.edu</a>
@@ -208,6 +208,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
     <h4>Webmaster: Michael Streng</h4>
     <p>
         Uppsala University<br />
@@ -284,7 +285,6 @@ The seventeen subject subcommissions of ICS are:
         Principal Research Scientist<br />
         Dept. of Palaeobiology and Stratigraphy<br />
         Institute of Geology CAS<br />
-        Rozvojová 269<br />
         Praha 6, CZ 165 00, Czech Republic<br />
         Tel: +420-233087261<br />
         E-mail: <a href="mailto:storch@gli.cas.cz">storch@gli.cas.cz</a>  
@@ -299,7 +299,7 @@ The seventeen subject subcommissions of ICS are:
         Università di Trieste<br />
         via Weiss 2, I- 34128, Trieste, Italy<br />
         Tel.: +39-040-5882033<br />
-        E-mail: <a href="mailto:ccorradini@units.it">ccorradini@units.it</a>  
+        E-mail: <a href="mailto:ccorradini@units.it">ccorradini@units.it</a> <br /><br />
     </p>
 </div>
 
@@ -320,9 +320,9 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-bing.jpg" alt="" />
     <h4>Webmaster: Huang Bing</h4>
     <p>
-        Nanjing Institute of Geology and Paleontology<br />
+        Nanjing Inst. of Geology & Paleontology<br />
         Chinese Academy of Sciences<br />
-        39 East Beijing Road, Nanjing, 210008, China<br />
+        39 East Beijing Road, Nanjing, China<br />
         Tel.: +86-2583282189<br />
         Email: <a href="mailto:bhuang@nigpas.ac.cn">bhuang@nigpas.ac.cn</a>
     </p>
@@ -425,6 +425,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
     <h4>Secretary: Markus Aretz</h4>
     <p>
         Geosciences Environnement Toulouse (GET)<br />

@@ -60,7 +60,7 @@ permalink: /executive
         72 Yundah St, Shorncliffe<br />
         Brisbane, Qld, 4017, Australia<br />
         Tel: +614 77 560 177<br />
-        E-mail: <a href="mailto:nick@kurrawong.net">nick@kurrawong.net</a><br />
+        E-mail: <a href="mailto:nick@kurrawong.net">nick@kurrawong.net</a>
     </p>
 </div>
 
