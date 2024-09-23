@@ -46,16 +46,8 @@ permalink: /executive
 ## Non-voting members
 
 <div class="person">
-    <img src="/images/person-jones.jpg" alt="" />
-    <h4>Treasurer: Stuart Jones</h4>
-    <p>
-        Associate Professor in Sedimentology<br />
-        Department of Earth Sciences<br />
-        Durham University<br />
-        Durham, DH1 3LE, UK<br />
-        Tel: +44 (0)1913 342319<br />
-        E-mail:  <a href="mailto:stuart.jones@durham.ac.uk">stuart.jones@durham.ac.uk</a><br />
-    </p>
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
+    <h4>Treasurer: <em>to be announced</em></h4>
 </div>
 
 <div class="person">
