@@ -6,14 +6,14 @@ permalink: /executive
 ## ICS Executive
 
 <div class="person">
-    <img src="/images/person-harper.gif" alt="" />
-    <h4>Chair: David A. T. Harper</h4>
+    <img src="/images/person-erba.jpeg" alt="" />
+    <h4>Chair: Elisabetta Erba</h4>
     <p>
-        Professor, Earth Sciences and Principal<br />
-        Van Mildert College, Durham University<br />
-        Durham DH1 3LE, UK<br />
-        Tel: +44-1913347143<br />
-        E-mail:  <a href="mailto:david.harper@durham.ac.uk">david.harper@durham.ac.uk</a><br />
+        Professor, Department of Earth Sciences<br />
+        University of Milan<br />
+        Via Mangiagalli 34, 20133 Milan, Italy<br />
+        Tel: +39 02 50315530<br />
+        E-mail: <a href="mailto:elisabetta.erba@unimi.it">elisabetta.erba@unimi.it</a>
     </p>
 </div>
 
@@ -30,14 +30,15 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="/images/person-gibbard.gif" alt="" />
-    <h4>Secretary-General: Philip Gibbard</h4>
+    <img src="/images/person-henderson.jpeg" alt="" />
+    <h4>Secretary-General: Charles Henderson</h4>
     <p>
-        Professor, Scott Polar Research Institute<br />
-        University of Cambridge<br />
-        Lensfield Road, Cambridge CB2 1ER, England<br />
-        Tel: +44 (0)1223 336540<br />
-        E-mail:  <a href="mailto:plg1@cam.ac.uk">plg1@cam.ac.uk</a><br />
+        Professor, Department of Earth, Energy and Environment<br />
+        University of Calgary<br />
+        2500 University Drive<br />
+        Calgary, Alberta, Canada T2N 1N4<br />
+        Tel: +1 403 975 9011<br />
+        E-mail:  <a href="mailto:cmhender@ucalgary.ca">cmhender@ucalgary.ca</a>
     </p>
 </div>
 
