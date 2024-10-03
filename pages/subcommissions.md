@@ -587,10 +587,50 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="cretaceous"></a>Subcommission on Cretaceous Stratigraphy
+
 [Homepage](http://cretaceous.stratigraphy.org/)
+
 <div class="person">
-    <img src="/images/person-petrizzo.gif" alt="" />
-    <h4>Chair: Maria Rose Petrizzo</h4>
+    <img src="/images/person-jarvis.jpg" alt="" />
+    <h4>Chair: Ian Jarvis</h4>
+    <p>
+        Emeritus Professor, Department of Geography, Geology and the Environment<br />
+        Kingston University London<br />
+        Penrhyn Road, Kingston upon Thames KT1 2EE, UK<br />
+        Tel: +44 7711 047954<br />
+        E-mail: <a href="mailto:ian.jarvis@kingston.ac.uk">ian.jarvis@kingston.ac.uk</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-falzoni.jpg" alt="" />
+    <h4>Secretary: Francesca Falzoni</h4>
+    <p>
+        Istituto di Geologia Ambientale e Geoingegneria (IGAG)<br />
+        Consiglio Nazionale delle Ricerche<br />
+        via Mario Bianco 9<br />
+        20131 Milano, Italy<br />
+        Tel: +39 02 28311436
+        E-mail: <a href="mailto:francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-dubicka.jpg" alt="" />
+    <h4>Secretary: Zofia Dubicka</h4>
+    <p>
+        Faculty of Geology<br />
+        University of Warsaw<br />
+        ul. Żwirki i Wigury 93<br />
+        02-089 Warsaw, Poland<br />
+        Tel: +48 69 683 03 93<br />
+        E-mail: <a href="mailto:z.dubicka@uw.edu.pl">z.dubicka@uw.edu.pl</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-petrizzo.jpg" alt="" />
+    <h4>Webmaster: Maria Rose Petrizzo</h4>
     <p>
         Professor, Dipartimento di Scienze della Terra "A. Desio"<br />
         Università degli Studi di Milano<br />
@@ -598,32 +638,6 @@ The seventeen subject subcommissions of ICS are:
         20133 Milano, Italy<br />
         Tel: +39-02-503 15531<br />
         E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-wagreich.gif" alt="" />
-    <h4>Vice-chair: Michael Wagreich</h4>
-    <p>
-        Professor, Depart. of Geodynamics and Sedimentology<br />
-        University of Vienna<br />
-        Althanstrasse 14<br />
-        Vienna, A-1090, Austria<br />
-        Tel: +43-1-4277-53465<br />
-        E-mail: <a href="mailto:michael.wagreich@univie.ac.at">michael.wagreich@univie.ac.at</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-falzoni.gif" alt="" />
-    <h4>Secretary: Francesca Falzoni</h4>
-    <p>
-        Dipartimento di Scienze della Terra, dell’Ambiente e delle Risorse,<br />
-        Università degli Studi<br />
-        di Napoli Federico II,<br />
-        Via Vicinale Cupa Cintia 21<br />
-        80126 Napoli, Italy<br />
-        E-mail: <a href="mailto:francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>  
     </p>
 </div>
 
