@@ -30,7 +30,7 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "jekyll-redirect-from"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 gem "liquid", "~> 4.0.4"
 
