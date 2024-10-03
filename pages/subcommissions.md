@@ -224,17 +224,32 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
 [Homepage](http://ordovician.stratigraphy.org/)
+
 <div class="person">
     <img src="/images/person-servais2.jpg" alt="" />
     <h4>Chair: Thomas Servais</h4>
     <p>
-        UMR 8198 EVO ECO PALEO – Evolution, Ecologie et Paléontologie<br />
-        CNRS - Université de Lille – Sciences et Technologies<br />
-        Bâtiment SN5,  59655 Villeneuve d’Ascq Cedex, FRANCE<br />
+        Unité EVO ECO PALEO – Evolution, Ecologie et Paléontologie<br />
+        Université de Lille<br />
+        Bâtiment SN5, 59655 Villeneuve d’Ascq Cedex, FRANCE<br />
         Tel: +33 (0)3 20 33 72 20<br />
-        E-mail: <a href="mailto:Thomas.Servais@univ-lille.fr">Thomas.Servais@univ-lille.fr</a>  
+        E-mail: <a href="mailto:Thomas.Servais@univ-lille1.fr">Thomas.Servais@univ-lille1.fr</a>  
     </p>
 </div>
+
+<div class="person">
+    <img src="/images/person-alycia.jpg" alt="" />
+    <h4>Vice-Chair: Alycia Sticall</h4>
+    <p>
+        Department of Earth, Environmental & Planetary Sciences<br />
+        University of Tennessee, Knoxville<br />
+        602 Strong Hall, 1621 Cumberland Ave<br />
+        Knoxville, TN 37996 USA<br />
+        Tel: +1 (865) 974-5499<br />
+        E-mail: <a href="stigall@utk.edu">stigall@utk.edu</a>
+    </p>
+</div>
+
 
 <div class="person">
     <img src="/images/person-zhan.gif" alt="" />
@@ -243,15 +258,41 @@ The seventeen subject subcommissions of ICS are:
         State Key Laboratory of Paleobiology and Stratigraphy<br />
         Nanjing Institute of Geology and Palaeontology (NIGP)<br />
         Chinese Academy of Sciences (CAS)<br />
-        39 East Beijing Road, Nanjing, 210008, CHINA<br />
-        Tel: +86 25 83282132<br />
+        39 East Beijing Rd, Nanjing, 210008, CHINA<br />
+        Tel: +86-13851647619<br />
         E-mail: <a href="mailto:rbzhan@nigpas.ac.cn">rbzhan@nigpas.ac.cn</a>  
     </p>
 </div>
 
 <div class="person">
-    <img src="/images/person-lefebvre.jpg" alt="" />
-    <h4>Secretary: Bertrand Lefebvre</h4>
+    <img src="/images/person-ferretti.jpg" alt="Ferretti" />
+    <h4>Secretary: Annalisa Ferretti</h4>
+    <p>
+        Dipartimento di Scienze Chimiche e Geologiche<br />
+        Università degli Studi di Modena e Reggio Emilia<br />
+        via Campi 103, 41125 Modena, ITALY<br />
+        Tel: +39-059-2058470<br />
+        E-mail: <a href="mailto:ferretti@unimore.it">ferretti@unimore.it</a><br />
+        <br />
+        <br />
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-wenhui-wang.jpg" alt="Lefebvre" />
+    <h4>Internet officer: Wenhui Wang</h4>
+    <p>
+        School of Geosciences and Info-Physics<br />
+        Central South University<br />
+        Changsha, CHINA<br />
+        Tel: +86 13951830656<br />
+        E-mail: <a href="mailto:wwhever@126.com">wwhever@126.com</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-lefebvre.jpg" alt="Lefebvre" />
+    <h4>Newsleter Editor: Bertrand Lefebvre</h4>
     <p>
         UMR 5276 LGL -TPE<br />
         CNRS - Université de Lyon 1<br />
@@ -261,18 +302,6 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div class="person">
-    <img src="/images/person-alycia.jpg" alt="" />
-    <h4>Internet officer: Alycia Sticall</h4>
-    <p>
-        Department of Geological Sciences<br />
-        Ohio University<br />
-        316 Clippinger Laboratories<br />
-        Athens, Ohio 45701 USA<br />
-        Tel: +1 (740) 593-3093<br />
-        E-mail: <stigall@ohio.edu> 
-    </p>
-</div>
 
 <div style="clear:both;"></div>
 
