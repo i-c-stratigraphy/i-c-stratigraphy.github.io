@@ -633,7 +633,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-falzoni.jpg" alt="" />
-    <h4>Secretary: Francesca Falzoni</h4>
+    <h4>Vice-Chair: Francesca Falzoni</h4>
     <p>
         Istituto di Geologia Ambientale e Geoingegneria (IGAG)<br />
         Consiglio Nazionale delle Ricerche<br />
