@@ -37,7 +37,7 @@ The seventeen subject subcommissions of ICS are:
         Assoc. Professor, Old Dominion University<br />
         Sedimentology and Geobiology<br />
         Dept of Ocean and Earth Sciences<br />
-        4600 Elkhorn Avenue, Norfolk, Virginia 23529, USA<br />
+        4600 Elkhorn Ave, Norfolk, Virginia 23529, USA<br />
         Tel: +1-757-683-3313<br />
         E-mail: <a href="mailto:nnoffke@odu.edu">nnoffke@odu.edu</a>  
     </p>
@@ -68,6 +68,8 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:douglas.galante@lnls.br">douglas.galante@lnls.br</a>  
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-bizan.gif" alt="" />
@@ -108,6 +110,8 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:Carol.Dehler@usu.edu">Carol.Dehler@usu.edu</a>  
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-shields-zhou.jpg" alt="" />
@@ -151,6 +155,8 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
     <img src="/images/person-warren.jpg" alt="" />
     <h4>Vice-Chair: Lucas Warren</h4>
@@ -193,6 +199,8 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
     <img src="/images/person-betts.jpg" alt="" />
     <h4>Secretary: Marissa J Betts</h4>
@@ -208,7 +216,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>
     <h4>Webmaster: Michael Streng</h4>
     <p>
         Uppsala University<br />
@@ -277,6 +285,8 @@ The seventeen subject subcommissions of ICS are:
         <br />
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-wenhui-wang.jpg" alt="Lefebvre" />
@@ -386,6 +396,8 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
     <img src="/images/person-jansen.jpg" alt="" />
     <h4>Secretary: Ulrich Jansen</h4>
@@ -454,7 +466,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0px 0px 5px 40px;"></div>
     <h4>Secretary: Markus Aretz</h4>
     <p>
         Geosciences Environnement Toulouse (GET)<br />
@@ -469,17 +481,17 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="permian"></a>Subcommission on Permian Stratigraphy
 [Homepage](http://permian.stratigraphy.org/)
+
 <div class="person">
-    <img src="/images/person-angiolini.jpg" alt="" />
-    <h4>Chair: Lucia Angiolini</h4>
+    <img src="/images/person-liz2.jpg" alt="" />
+    <h4>Chair: Elizabeth Weldon</h4>
     <p>
-        Coordinator of Natural Sciences and BioGeosciences at UNIMI<br />
-        Professor of Palaeontology<br />
-        Dip. di Scienze della Terra "A. Desio"<br />
-        Università degli Studi di Milano<br />
-        Via Mangiagalli 34, 20133 Milano, Italy<br />minor
-        Tel: +39 0250315513<br />
-        E-mail: <a href="mailto:lucia.angiolini@unimi.it">lucia.angiolini@unimi.it</a>  
+        School of Life & Enviro. Sciences<br />
+        Faculty of Science Engineering & Built Environment<br />
+        Deakin University<br />
+        Locked Bag 20000, Geelong, VIC 3220<br />
+        Tel: +61-3-92517191<br />
+        E-mail: <a href="mailto:l.weldon@deakin.edu.au">l.weldon@deakin.edu.au</a>  
     </p>
 </div>
 
@@ -488,9 +500,11 @@ The seventeen subject subcommissions of ICS are:
     <h4>Vice-Chair: Mike Stephenson</h4>
     <p>
         Professor, British Geological Survey<br />
-        Keyworth Nottingham, NG12 5GG, UK<br />
+        Keyworth Nottingham<br />
+        NG12 5GG, UK<br />
         Tel: +44 07971 330738<br />
-        E-mail: <a href="mailto:mhste@bgs.ac.uk">mhste@bgs.ac.uk</a>  
+        E-mail: <a href="mailto:mhste@bgs.ac.uk">mhste@bgs.ac.uk</a><br />
+        <br /><br />
     </p>
 </div>
 
@@ -504,19 +518,6 @@ The seventeen subject subcommissions of ICS are:
         Jiangsu, P.R.China<br />
         Tel: +86-25-83282137<br />
         E-mail: <a href="mailto:yczhang@nigpas.ac.cn">yczhang@nigpas.ac.cn</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-liz2.jpg" alt="" />
-    <h4>Newsletter editor: Elizabeth Weldon</h4>
-    <p>
-        School of Life and Environmental Sciences<br />
-        Faculty of Science Engineering & Built Environment<br />
-        Deakin University<br />
-        Locked Bag 20000, Geelong, VIC 3220<br />
-        Tel: +61-3-92517191<br />
-        E-mail: <a href="mailto:l.weldon@deakin.edu.au">l.weldon@deakin.edu.au</a>  
     </p>
 </div>
 
@@ -547,6 +548,8 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:w.m.kurschner@geo.uio.no">w.m.kurschner@geo.uio.no</a>
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-sun.jpg" alt="" />
@@ -588,6 +591,8 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:emanuela.mattioli@univ-lyon1.fr">emanuela.mattioli@univ-lyon1.fr</a>  
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-pienkowski.png" alt="" />
@@ -837,6 +842,8 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
     <img src="/images/person-fluegeman.gif" alt="" />
     <h4>Vice-Chair: Richard H. Fluegeman</h4>
@@ -888,6 +895,8 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:markschmitz@boisestate.edu">markschmitz@boisestate.edu</a>  
     </p>
 </div>
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-dasilva.jpg" alt="" />
