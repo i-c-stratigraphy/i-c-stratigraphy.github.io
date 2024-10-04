@@ -248,7 +248,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-alycia.jpg" alt="" />
-    <h4>Vice-Chair: Alycia Sticall</h4>
+    <h4>Vice-Chair: Alycia Stigall</h4>
     <p>
         Department of Earth, Environmental & Planetary Sciences<br />
         University of Tennessee, Knoxville<br />
@@ -303,7 +303,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-lefebvre.jpg" alt="Lefebvre" />
-    <h4>Newsleter Editor: Bertrand Lefebvre</h4>
+    <h4>Newsletter Editor: Bertrand Lefebvre</h4>
     <p>
         UMR 5276 LGL -TPE<br />
         CNRS - Université de Lyon 1<br />
