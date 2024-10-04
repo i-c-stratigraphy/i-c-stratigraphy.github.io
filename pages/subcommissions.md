@@ -216,7 +216,8 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>
+    <!-- <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>-->
+    <img src="/images/person-streng.jpg" alt="" />
     <h4>Webmaster: Michael Streng</h4>
     <p>
         Uppsala University<br />
