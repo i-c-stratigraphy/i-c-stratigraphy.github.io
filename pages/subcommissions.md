@@ -628,9 +628,10 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-jarvis.jpg" alt="" />
     <h4>Chair: Ian Jarvis</h4>
     <p>
-        Emeritus Professor, Department of Geography, Geology and the Environment<br />
+        Department of Geography, Geology and the Environment<br />
         Kingston University London<br />
-        Penrhyn Road, Kingston upon Thames KT1 2EE, UK<br />
+        Penrhyn Road, Kingston upon Thames<br />
+        KT1 2EE, UK<br />
         Tel: +44 7711 047954<br />
         E-mail: <a href="mailto:ian.jarvis@kingston.ac.uk">ian.jarvis@kingston.ac.uk</a>  
     </p>
@@ -644,7 +645,7 @@ The seventeen subject subcommissions of ICS are:
         Consiglio Nazionale delle Ricerche<br />
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
-        Tel: +39 02 28311436
+        Tel: +39 02 28311436<br />
         E-mail: <a href="mailto:francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>  
     </p>
 </div>
@@ -666,7 +667,7 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-petrizzo.jpg" alt="" />
     <h4>Webmaster: Maria Rose Petrizzo</h4>
     <p>
-        Professor, Dipartimento di Scienze della Terra "A. Desio"<br />
+        Dipartimento di Scienze della Terra "A. Desio"<br />
         Università degli Studi di Milano<br />
         via Mangiagalli 34<br />
         20133 Milano, Italy<br />
