@@ -318,22 +318,10 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
 [Homepage](http://silurian.stratigraphy.org/)
-<div class="person">
-    <img src="/images/person-storch.gif" alt="" />
-    <h4>Chair: Petr Štorch</h4>
-    <p>
-        Principal Research Scientist<br />
-        Dept. of Palaeobiology and Stratigraphy<br />
-        Institute of Geology CAS<br />
-        Praha 6, CZ 165 00, Czech Republic<br />
-        Tel: +420-233087261<br />
-        E-mail: <a href="mailto:storch@gli.cas.cz">storch@gli.cas.cz</a>  
-    </p>
-</div>
 
 <div class="person">
     <img src="/images/person-corradini.gif" alt="" />
-    <h4>Vice-Chair: Carlo Corradini</h4>
+    <h4>Chair: Carlo Corradini</h4>
     <p>
         Dipartimento di Matematica e Geoscienze<br />
         Università di Trieste<br />
@@ -344,15 +332,25 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-ray.jpg" alt="" />
-    <h4>Secretary: David C. Ray</h4>
+    <img src="/images/person-vanderbroucke.jpg" alt="" />
+    <h4>Vice-Chair: Thjis Vanderbroucke</h4>
     <p>
-        Neftex Predictions<br />
-        Landmark-Halliburton<br />
-        97 Jubilee Avenue, Milton Park, Abingdon<br />
-        OX14 4RW, United Kingdom<br />
-        Tel: +44-(0)7792638177<br />
-        E-mail: <a href="mailto:daveray01@yahoo.com">daveray01@yahoo.com</a>  
+        Department of Geology, Ghent University<br />
+        Krijgslaan 281/ S8, BE-9000, Ghent, Belgium<br />
+        Tel.: +32-09-264-4515<br />
+        E-mail: <a href="mailto:Thijs.Vandenbroucke@UGent.be">Thijs.Vandenbroucke@UGent.be</a> <br /><br />
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+<div class="person">
+    <img src="/images/person-jarochowska.jpg" alt="" />
+    <h4>Secretary: Emilia Jarochowska</h4>
+    <p>
+        Department of Earth Sciences, Utrecht University<br />
+        Princetonlaan 8A, Princetonlaan 8a, 3584 CS Utrecht, Netherlands<br />
+        E-mail: <a href="mailto:Te.b.jarochowska@uu.nle">e.b.jarochowska@uu.nl</a> <br /><br />
     </p>
 </div>
 
