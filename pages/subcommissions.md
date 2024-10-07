@@ -720,6 +720,7 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="neogene"></a>Subcommission on Neogene Stratigraphy
 [Homepage](http://neogene.stratigraphy.org/)
+
 <div class="person">
     <img src="/images/person-miller2.jpg" alt="" />
     <h4>Chair: Kenneth G. Miller</h4>
@@ -732,6 +733,20 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<!--
+<div class="person">
+    <img src="/images/person-grunert.jpg" alt="" />
+    <h4>Chair: Patrick Grunert</h4>
+    <p>
+        Department of Geosciences<br />
+        University of Cologne<br />
+        Otto-Fischer-Straße 14, 50674 Cologne, Germany<br />
+        Tel: +49 221-470-76319<br />
+        E-mail: <a href="mailto:pgrunert@uni-koeln.de">pgrunert@uni-koeln.de</a>  
+    </p>
+</div>
+-->
+
 <div class="person">
     <img src="/images/person-turco.gif" alt="" />
     <h4>Vice-Chair: Elena Turco</h4>
@@ -743,6 +758,22 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:elena.turco@unipr.it">elena.turco@unipr.it</a>  
     </p>
 </div>
+
+<!--
+<div class="person">
+    <img src="/images/person-vleeschouwer.jpg" alt="" />
+    <h4>Vice-Chair: David De Vleeschouwer</h4>
+    <p>
+        Institute of Geology and Paleontology<br />
+        University of Münster<br />
+        Corrensstr 24, Raum 416, 48149 Münster<br />
+        Tel: +49 251 83-33962<br />
+        E-mail: <a href="mailto:ddevlees@uni-muenster.de">ddevlees@uni-muenster.de</a>  
+    </p>
+</div>
+-->
+
+<div style="clear:both;"></div>
 
 <div class="person">
     <img src="/images/person-aubry.jpg" alt="" />
