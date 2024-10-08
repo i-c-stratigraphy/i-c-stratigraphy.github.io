@@ -722,19 +722,6 @@ The seventeen subject subcommissions of ICS are:
 [Homepage](http://neogene.stratigraphy.org/)
 
 <div class="person">
-    <img src="/images/person-miller2.jpg" alt="" />
-    <h4>Chair: Kenneth G. Miller</h4>
-    <p>
-        Professor, Department of Earth &amp; Planetary Sciences<br />
-        State University of New Jersey<br />
-        610 Taylor Rd., Piscataway, NY 08854-8066, USA<br />
-        Tel: +1 732-445-3622<br />
-        E-mail: <a href="mailto:kgm@rci.rutgers.edu">kgm@rci.rutgers.edu</a>  
-    </p>
-</div>
-
-<!--
-<div class="person">
     <img src="/images/person-grunert.jpg" alt="" />
     <h4>Chair: Patrick Grunert</h4>
     <p>
@@ -745,21 +732,7 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:pgrunert@uni-koeln.de">pgrunert@uni-koeln.de</a>  
     </p>
 </div>
--->
 
-<div class="person">
-    <img src="/images/person-turco.gif" alt="" />
-    <h4>Vice-Chair: Elena Turco</h4>
-    <p>
-        Professor, Dipartimento di Scienze Chimiche, della Vita e della Sostenibilità Ambientale<br />
-        Università degli Studi di Parma<br />
-        Parco Area delle Scienze 157/A, 43124 Parma, Italy<br />
-        Tel: +39 0521905366<br />
-        E-mail: <a href="mailto:elena.turco@unipr.it">elena.turco@unipr.it</a>  
-    </p>
-</div>
-
-<!--
 <div class="person">
     <img src="/images/person-vleeschouwer.jpg" alt="" />
     <h4>Vice-Chair: David De Vleeschouwer</h4>
@@ -771,20 +744,16 @@ The seventeen subject subcommissions of ICS are:
         E-mail: <a href="mailto:ddevlees@uni-muenster.de">ddevlees@uni-muenster.de</a>  
     </p>
 </div>
--->
-
-<div style="clear:both;"></div>
-
+ 
 <div class="person">
-    <img src="/images/person-aubry.jpg" alt="" />
-    <h4>Secretary: Marie-Pierre Aubry</h4>
+    <img src="/images/person-drury.jpg" alt="" />
+    <h4>Secretary: Anna Joy Drury</h4>
     <p>
-        Dept of Earth & Planetary Sciences<br />
-        Institute of Earth, Oceans, and Atmospheric Sciences<br />
-        Rutgers, State University of New Jersey<br />
-        610 Taylor Rd., Piscataway, NJ 08854-80664<br />
-        Tel: +1 848 445 0822<br />
-        E-mail: <a href="mailto:aubry@eps.rutgers.edu">aubry@eps.rutgers.edu</a>  
+        School of Geography, Geology and the Environment<br />
+        University of Leicester<br />
+        University Road, Leicester, LE1 7RH UK<br />
+        Tel: +44(0)116 252 3624<br />
+        E-mail: <a href="mailto:a.j.drury@leicester.ac.uk">a.j.drury@leicester.ac.uk</a>  
     </p>
 </div>
 
