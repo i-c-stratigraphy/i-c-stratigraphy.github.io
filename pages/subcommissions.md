@@ -438,41 +438,40 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="carboniferous"></a>Subcommission on Carboniferous Stratigraphy
 [Homepage](http://carboniferous.stratigraphy.org/)
-<div class="person">
-    <img src="/images/person-wang.gif" alt="" />
-    <h4>Chair: Xiangdong Wang</h4>
-    <p>
-        School of Earth Sciences and Engineering<br />
-        Nanjing University<br />
-        No. 163 Xianlin Avenue, Nanjing 210023<br />
-        P.R. China<br />
-        E-mail: <a href="mailto:xdwang@nju.edu.cn ">xdwang@nju.edu.cn </a>  
-    </p>
-</div>
 
 <div class="person">
-    <img src="/images/person-nikolaeva.gif" alt="" />
-    <h4>Vice-Chair: Svetlana Nikolaeva</h4>
-    <p>
-        1. Department of Earth Sciences<br />
-        The Natural History Museum<br />
-        London, SW7 5BD UK<br />
-        2. UK & Paleontological Institute<br />
-        Russian Academy of Sciences<br />
-        Profsoyuznaya ul., 123, Moscow, 117997 Russia<br />
-        E-mail: <a href="mailto:s.nikolaeva@nhm.ac.uk">s.nikolaeva@nhm.ac.uk</a>  
-    </p>
-</div>
-
-<div class="person">
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0px 0px 5px 40px;"></div>
+     <img src="/images/person-aretz.jpg" alt="" />
     <h4>Secretary: Markus Aretz</h4>
     <p>
         Geosciences Environnement Toulouse (GET)<br />
         Université Paul Sabatier<br />
         Observatoire Midi-Pyrénées<br />
-        14 avenue Edouard Belin, 31400 Toulouse, France<br />
+        14 ave Edouard Belin, 31400 Toulouse, France<br />
         E-mail: <a href="mailto:markus.aretz@get.omp.eu">markus.aretz@get.omp.eu</a>  
+    </p>
+</div>
+
+<div class="person">
+    <img src="/images/person-chen2.jpg" alt="" />
+    <h4>Vice-Chair: Jitao Chen</h4>
+    <p>
+        Nanjing Institute of Geology & Palaeontology<br />
+        Chinese Academy of Sciences<br />
+        Nanjing 210008, China<br />
+        E-mail: <a href="mailto:jtchen@nigpas.ac.cn">jtchen@nigpas.ac.cn</a>  
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
+<div class="person">
+    <img src="/images/person-mottequin.jpg" alt="" />
+    <h4>Secretary: Bernard Mottequin</h4>
+    <p>
+        OD Earth & History of Life<br />
+        Royal Belgian Institute of Natural Sciences<br />
+        Vautierstraat 29, 1000 Brussels, Belgium<br />
+        E-mail: <a href="mailto:bmottequin@naturalsciences.be">bmottequin@naturalsciences.be</a>  
     </p>
 </div>
 
