@@ -760,28 +760,18 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
 [Homepage](http://quaternary.stratigraphy.org/)
-<div class="person">
-    <img src="/images/person-zalasiewicz.gif" alt="" />
-    <h4>Chair: Jan Zalasiewicz</h4>
-    <p>
-        Emeritus Professor of Palaeobiology<br />
-        University of Leicester<br />
-        Leicester, LE1 7RH, UK<br />
-        Tel: +44 (0)116 252 3928<br />
-        E-mail: <a href="mailto:jaz1@leicester.ac.uk">jaz1@leicester.ac.uk</a>, <a href="mailto:jaz1@le.ac.uk">jaz1@le.ac.uk</a>
-    </p>
-</div>
 
 <div class="person">
-    <img src="/images/person-head.gif" alt="" />
-    <h4>Vice-Chair: Martin J. Head</h4>
+    <img src="/images/person-bertini.jpg" alt="" />
+    <h4>Secretary: Adele Bertini</h4>
     <p>
-        Professor, Department of Earth Sciences<br />
-        Brock University<br />
-        1812 Sir Isaac Brock Way<br />
-        St. Catharines, Ontario L2S 3A1, Canada<br />
-        Tel: +1 905-688-5550 ext. 5216<br />
-        E-mail: <a href="mailto:mjhead@brocku.ca">mjhead@brocku.ca</a>  
+        Professor, Dipartimento di Scienze della Terra<br />
+        University of Firenze<br />
+        Via G. La Pira 4<br />
+        50121 Firenze, Italy<br />
+        Tel:  +39 348 8715460<br />
+        E-mail: <a href="mailto:adele.bertini@unifi.it">adele.bertini@unifi.it</a><br />  
+        Skype: Artemisiablu
     </p>
 </div>
 
@@ -797,17 +787,17 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
-    <img src="/images/person-bertini.jpg" alt="" />
-    <h4>Secretary: Adele Bertini</h4>
+    <img src="/images/person-marret-davies.jpg" alt="" />
+    <h4>Secretary: Fabienne Marret-Davies</h4>
     <p>
-        Professor, Dipartimento di Scienze della Terra<br />
-        University of Firenze<br />
-        Via G. La Pira 4<br />
-        50121 Firenze, Italy<br />
-        Tel:  +39 348 8715460<br />
-        E-mail: <a href="mailto:adele.bertini@unifi.it">adele.bertini@unifi.it</a><br />  
-        Skype: Artemisiablu
+        Associate Professor, Department of Geography and Planning<br />
+        School of Environmental Sciences<br />
+        University of Liverpool<br />
+        Liverpool, L69 7ZT, UK<br />
+        E-mail: <a href="mailto:f.marret@liverpool.ac.uk">f.marret@liverpool.ac.uk</a>
     </p>
 </div>
 
