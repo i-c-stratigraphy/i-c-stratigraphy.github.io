@@ -441,7 +441,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
      <img src="/images/person-aretz.jpg" alt="" />
-    <h4>Secretary: Markus Aretz</h4>
+    <h4>Chair: Markus Aretz</h4>
     <p>
         Geosciences Environnement Toulouse (GET)<br />
         Université Paul Sabatier<br />
