@@ -807,8 +807,20 @@ The seventeen subject subcommissions of ICS are:
 [Homepage](http://issc.uni-graz.at/)
 
 <div class="person">
+    <img src="/images/person-erbacher.gif" alt="" />
+    <h4>Chair: Jochen Erbacher</h4>
+    <p>
+        Honorary Professor: University Heidelberg<br />
+        BGR – Federal Institute for Geosciences and Natural Resources<br />
+        Stilleweg 2, 30655 Hannover, Germany<br />
+        Tel: +49-511-643-2795<br />
+        E-mail: <a href="mailto:Jochen.Erbacher@bgr.de">Jochen.Erbacher@bgr.de</a>  
+    </p>
+</div>
+
+<div class="person">
     <img src="/images/person-piller.gif" alt="" />
-    <h4>Chair: Werner E. Piller</h4>
+    <h4>Vice-Chair: Werner E. Piller</h4>
     <p>
         Institute for Earth Sciences<br />
         University of Graz<br />
@@ -819,43 +831,19 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div class="person">
-    <img src="/images/person-pratt.gif" alt="" />
-    <h4>Vice-Chair: Brian R. Pratt</h4>
-    <p>
-        Professor, Department of Geological Sciences<br />
-        University of Saskatchewan<br />
-        Saskatoon, Saskatchewan S7N 5E2 Canada<br />
-        Tel: +1 306-966-5725<br />
-        E-mail: <a href="mailto:brian.pratt@usask.ca">brian.pratt@usask.ca</a>  
-    </p>
-</div>
-
 <div style="clear:both;"></div>
 
 <div class="person">
-    <img src="/images/person-fluegeman.gif" alt="" />
-    <h4>Vice-Chair: Richard H. Fluegeman</h4>
+    <!--<img src="/images/person-pratt.gif" alt="" />-->
+    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>
+    <h4>Secretary: Stéphanie Larmagnat</h4>
     <p>
-        Department of Geological Sciences<br />
-        Ball State University<br />
-        4130 West University Ave<br />
-        Muncie, Indiana 47304, USA<br />
-        Tel: +1-765-285-8267<br />
-        E-mail: <a href="mailto:rfluegem@bsu.edu">rfluegem@bsu.edu</a>  
-    </p>
-</div>
-
-<div class="person">
-    <img src="/images/person-erbacher.gif" alt="" />
-    <h4>Secretary: Jochen Erbacher</h4>
-    <p>
-        Federal Institute for Geosciences and Natural Resources<br />
-        Geozentrum Hannover<br />
-        Stilleweg 2<br />
-        30655 Hannover, Germany<br />
-        Tel: +49-511-643-2795<br />
-        E-mail: <a href="mailto:Jochen.Erbacher@bgr.de">Jochen.Erbacher@bgr.de</a>  
+        Adjunct Professor: INRS-ETE<br />
+        Geological Survey of Canada, GSC-Q<br />
+        490 rue de la Couronne<br />
+        Québec G1K 9A9 CANADA<br />
+        Tel: +1 418-654-1463/581-446-7433<br />
+        E-mail: <a href="mailto:stephanie.larmagnat@NRCan-RNCan.gc.ca">stephanie.larmagnat@NRCan-RNCan.gc.ca</a>  
     </p>
 </div>
 
