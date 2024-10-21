@@ -834,8 +834,8 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 <div class="person">
-    <!--<img src="/images/person-pratt.gif" alt="" />-->
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>
+    <img src="/images/person-larmagnat.jpg" alt="" />
+    <!--<div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>-->
     <h4>Secretary: Stéphanie Larmagnat</h4>
     <p>
         Adjunct Professor: INRS-ETE<br />
