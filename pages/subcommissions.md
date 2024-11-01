@@ -763,7 +763,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div class="person">
     <img src="/images/person-bertini.jpg" alt="" />
-    <h4>Secretary: Adele Bertini</h4>
+    <h4>Chair: Adele Bertini</h4>
     <p>
         Professor, Dipartimento di Scienze della Terra<br />
         University of Firenze<br />
