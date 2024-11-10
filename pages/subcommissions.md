@@ -579,7 +579,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-pellenard.jog" alt="" />
+    <img src="/images/person-pellenard.jpg" alt="" />
     <h4>Vice-Chair: Pierre Pellenard</h4>
     <p>
         Professor, Laboratory Biogéosciences<br />
@@ -593,7 +593,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 <div class="person">
-    <img src="/images/person-pellenard.jog" alt="" />
+    <img src="/images/person-pandey.jpg" alt="" />
     <h4>Vice-Chair: Dhirenda Kumar Pandey</h4>
     <p>
         Adjunct Faculty, Department of Civil Engineering<br />
