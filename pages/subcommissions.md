@@ -579,28 +579,29 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-mattioli.gif" alt="" />
-    <h4>Vice-Chair: Emanuela Mattioli</h4>
+    <img src="/images/person-pellenard.jog" alt="" />
+    <h4>Vice-Chair: Pierre Pellenard</h4>
     <p>
-        Professor, Laboratoire de Géologie de Lyon<br />
-        Université Claude Bernard Lyon 1<br />
-        69622, Villeurbanne, France<br />
-        Tel: +33 4 72445800<br />
-        E-mail: <a href="mailto:emanuela.mattioli@univ-lyon1.fr">emanuela.mattioli@univ-lyon1.fr</a>  
+        Professor, Laboratory Biogéosciences<br />
+        University of Burgundy<br />
+        21000 Dijon, France<br />
+        Tel: +33 3 80 39 63 66<br />
+        E-mail: <a href="mailto:Pierre.Pellenard@u-bourgogne.fr">Pierre.Pellenard@u-bourgogne.fr</a>  
     </p>
 </div>
 
 <div style="clear:both;"></div>
 
 <div class="person">
-    <img src="/images/person-pienkowski.png" alt="" />
-    <h4>Vice-Chair: Grzegorz Pienkowski</h4>
+    <img src="/images/person-pellenard.jog" alt="" />
+    <h4>Vice-Chair: Dhirenda Kumar Pandey</h4>
     <p>
-        Professor, Polish Geological Institute - National Research Institute<br />
-        4 Rakowiecka St.<br />
-        00-975 Warszawa, Poland<br />
-        Tel.: +48 22 45 92 256<br />
-        E-mail: <a href="mailto:grzegorz.pienkowski@pgi.gov.pl">grzegorz.pienkowski@pgi.gov.pl</a>  
+        Adjunct Faculty, Department of Civil Engineering<br />
+        Manipal Institute of Technology (MIT)<br />
+        Manipal Academy of Higher Education,<br />
+        Manipal 576104, India<br />
+        Tel: +919928369323<br />
+        E-mail: <a href="mailto:dhirendrap@hotmail.com">dhirendrap@hotmail.com</a>  
     </p>
 </div>
 
