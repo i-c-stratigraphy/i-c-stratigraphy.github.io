@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>International Commission on Stratigraphy</title>
+    <link href="/images/logo-ics.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" type="text/css" href="/style/ics.css" />
+    <style>
+        #wide-body-content {
+            width:100%;
+            padding: 10px;
+            background-color: white;
+        }
+        #wide-menu {
+            margin-top: -25px;
+            text-align:center;
+        }
+        #wide-menu a {
+            color: #444;
+            margin: 0 5px 0 5px;
+        }
+        #wide-menu a:hover {
+            background-color: lightgrey;
+        }        
+    </style>
+    <script>
+        const imagesArray = [
+            "/images/banner-01.png",
+            "/images/banner-02.png",
+            "/images/banner-03.png",
+            "/images/banner-04.png",
+            "/images/banner-05.png",
+            "/images/banner-06.png",
+            "/images/banner-07.png",
+            "/images/banner-08.png"
+        ];
+
+        function displayImage(){
+          const num = Math.floor(Math.random() * 5); // 0...6
+          document.getElementById('banner').style.backgroundImage = "url('" + imagesArray[num] + "')";
+        }
+        setInterval(displayImage, 7000);
+  </script>
+</head>
+<body>
+    <div id="widther">
+        <div id="header">
+            <div style="text-align:right;">
+                <a href="https://stratigraphy.org"><img src="/images/logo-ics-3D-dark.png" alt="ICS logo" style="width:100px" /></a>
+            </div>
+            <div id="innerheader">
+                <div id="headertxt" style="padding: 50px 20px;">
+                    <div id="title">International Commission on Stratigraphy</div>
+                </div>
+            </div>
+        </div>
+        <div id="banner"></div>
+        <div id="wide-menu">
+            <a href="/">Home</a>
+            <a href="/executive">Executive</a>
+            <a href="/subcommissions">Subcommissions</a>
+            <a href="/supplementary">Supplementary Chart Info</a>
+            <a href="/gssps/">GSSPs</a>
+            <a href="/guide/">Stratigraphic Guide</a>
+            <a href="/statutes">Statutes & Guidelines</a>
+            <a href="/publications">Publications</a>
+        </div>
+    </div>
+    <div id="wide-body-content">
+        {{ content }}         
+    </div>
+    <div id="widther">
+        <footer>
+            &copy; 2013-2023 International Commission on Stratigraphy, all rights reserved
+        </footer>        
+    </div> 
+</body>
+</html>
