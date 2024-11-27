@@ -5,6 +5,8 @@ permalink: /annual-reports
 ---
 ## Annual Reports
 
+[ICS Annual Report 2023](/files/ICS_AnnReport2023.pdf)
+
 [ICS Annual Report 2022](/files/ICS_AnnReport2022.pdf)
 
 [ICS Annual Report 2021](/files/ICS_AnnReport2021.pdf) 
