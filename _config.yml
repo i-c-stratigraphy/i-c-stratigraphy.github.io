@@ -2,7 +2,7 @@ title: stratigraphy.org
 email: nick@kurrawong.ai
 description: 
   The International Commission on Stratigraphy's website.
-baseurl: "/"
+baseurl: ""
 url: "https://stratigraphy.org"
 github_username:  nicholascar
 
