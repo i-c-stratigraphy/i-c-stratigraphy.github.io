@@ -13,8 +13,8 @@ permalink: /chart
 
 ### Latest Version
 
-<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2023-09.jpg" alt="ChronostratChart 2023-06" width="600" /></a></div>
-<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09.jpg" target="_blank">JPG</a>.</strong></p>
+<div style="text-align:center;"><a href="/ICSchart/ChronostratChart2024-12.pdf" target="_blank"><img src="/ICSchart/ChronostratChart2024-12.jpg" alt="ChronostratChart 2023-06" width="600" /></a></div>
+<p><strong>Latest Chart version in <a href="/ICSchart/ChronostratChart2024-12.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12.jpg" target="_blank">JPG</a>.</strong></p>
 <p>Additional Chart resources:</p>
 <ul>
     <li><a href="/ICSchart/Permissions_ICS_2017_v2.pdf" target="_blank">Permissions for use</a></li>
@@ -22,7 +22,7 @@ permalink: /chart
     <li><a href="/ICSchart/CGMW_ICS_colour_codes.xlsx" target="_blank">Colour Chart (Excel)</a></li>
     <li><a href="/ICSchart/CGMW_ICS_swatch_library.ai" target="_blank">Adobe Illustrator Colour Swatch Library</a></li>
     <li>Explanatory article from <a href="https://doi.org/10.18814/epiiugs/2013/v36i3/002" target="_blank">September 2013 issue of Episodes</a> (<a href="/ICSchart/Cohen2013_Episodes.pdf" target="_blank">local PDF copy</a>)</li>
-    <li><a href="/ICSchart/data/ChronostratChart2023-09.ttl">Experimental SKOS RDF version of the Chart</a></li>
+    <li><a href="/ICSchart/data/ChronostratChart2024-12.ttl">Experimental SKOS RDF version of the Chart</a></li>
 </ul>
 
 ### Interactive Versions
