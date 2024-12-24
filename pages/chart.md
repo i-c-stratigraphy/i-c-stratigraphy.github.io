@@ -84,7 +84,8 @@ permalink: /chart
     <div style="grid-column:2;">
         <h4>Old English Versions</h4>
         <ul>
-            <li><a href="/ICSchart/ChangeLog2012-2023-2.txt" target="_blank">ChangeLog</a> for 2012-2023</li>
+            <li><a href="/ICSchart/ChangeLog2012-2024.txt" target="_blank">ChangeLog</a> for 2012-2024</li>
+            <li>2023/09 (<a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09.jpg" target="_blank">JPG</a>)</li>
             <li>2023/06 (<a href="/ICSchart/ChronostratChart2023-06.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-06.jpg" target="_blank">JPG</a>)</li>
             <li>2023/04 (<a href="/ICSchart/ChronostratChart2023-04.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-04.jpg" target="_blank">JPG</a>)</li>            
             <li>2022/10 (<a href="/ICSchart/ChronostratChart2022-10.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2022-10.jpg" target="_blank">JPG</a>)</li>
