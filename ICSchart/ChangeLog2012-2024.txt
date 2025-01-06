@@ -136,7 +136,7 @@ Furongian: Jiangshanian Stage: 494.2 Ma (was: 494 Ma) - following GTS2020 (ch19 
 Miaolingian: Wuliuan Stage: ~506.5 Ma (was: ~509 Ma) - based on Karlstrom et al. (2020, Geology, 48: 425–430), Sundberg et al. 2020 (Geology, 48: 441–446), and Landing et al. (2023, Geological Magazine, 160: 1790–1816).
 Series 2: Stage 4 Stage: 514.5 Ma (was: 514 Ma) - following GTS2020 (ch19 Peng et al. 2020) - 0.5 Ma older
 .. Stage 3 and Stage 2: ages unchanged between GTS2012, GTS2020 and ICS2012-2023/09, no change.
-. Terreneuvian: Fortunian Stage: not updated: 2022/02 numeric age prevails over GTS2020, stays 538.8 +/- 0.2 Ma
+Terreneuvian: Fortunian Stage: numeric age is that of the 2022/02, but uncertaity increased: 538.8 +/- 0.6 Ma (was +/- 0.2 Ma)- minor update
 PHANEROZOIC/PRECAMBRIAN boundary
 ............. No changes to Precambrian system ages
 . Base Archean age (see 2023/09) at 4,031 Ma (4.031 Ga) prevails over GTS2020 age
