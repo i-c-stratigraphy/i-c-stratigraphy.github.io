@@ -3,10 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-
-
-# JetBrains tools
-.idea/
-
-# Mac indexes
-.DS_Store
