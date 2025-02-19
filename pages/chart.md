@@ -48,6 +48,12 @@ permalink: /chart
         <h4>Translations</h4>
         <ul>
           <li>
+            <strong>2024/12 translations</strong>
+            <ul>                                                
+                <li>Japanese (<a href="/ICSchart/ChronostratChart2024-12Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Japanese.jpg" target="_blank">JPG</a>)</li>
+            </ul>
+          </li>
+          <li>
             <strong>2023/09 translations</strong>
             <ul>                                                
                 <li>Catalan (<a href="/ICSchart/ChronostratChart2023-09Catalan.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Catalan.jpg" target="_blank">JPG</a>)</li>
@@ -58,7 +64,6 @@ permalink: /chart
                 <li>German (<a href="/ICSchart/ChronostratChart2023-09German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09German.jpg" target="_blank">JPG</a>)</li>
                 <li>Hungarian (<a href="/ICSchart/ChronostratChart2023-09Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Hungarian.jpg" target="_blank">JPG</a>)</li>
                 <li>Italian (<a href="/ICSchart/ChronostratChart2023-09Italian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Italian.jpg" target="_blank">JPG</a>)</li>
-                <li>Japanese (<a href="/ICSchart/ChronostratChart2023-09Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Japanese.jpg" target="_blank">JPG</a>)</li>
                 <li>Korean (<a href="/ICSchart/ChronostratChart2023-09Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Korean.jpg" target="_blank">JPG</a>)</li>
                 <li>Dutch (BE) (<a href="/ICSchart/ChronostratChart2023-09BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09BEDutch.jpg" target="_blank">JPG</a>)</li>
                 <li>Dutch (NL) (<a href="/ICSchart/ChronostratChart2023-09NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09NLDutch.jpg" target="_blank">JPG</a>)</li>
