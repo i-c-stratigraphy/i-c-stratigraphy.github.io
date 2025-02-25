@@ -6,8 +6,8 @@ permalink: /chart
 ## Chart
 
 * [Latest Version](#latest-version)
-* [Interactive Versions](#interactive-versions)
 * [Translations & Old Versions](#translations--old-versions)
+* [Mobile App](#mobile-app)
 * [Correlation Tables](#correlation-tables)
 * [Pronunciation Guide](#pronunciation-guide)
 
@@ -25,15 +25,9 @@ permalink: /chart
     <li><a href="/ICSchart/data/ChronostratChart2024-12.ttl">Experimental SKOS RDF version of the Chart</a></li>
 </ul>
 
-### Interactive Versions
+### Mobile App
 
 <div style="display:grid; grid-template-columns:60% 40%; width:100%;">
-    <div style="text-align:center;">
-        <h4>Interactive Chart online</h4>
-        <a href="/timescale/">
-            <img src="/images/interactive-chart-long.png" alt="interactive chart" style="width:350px;" /><br />
-        </a>
-    </div>
     <div style="text-align:center;">
         <h4>iPhone Timescale app</h4>
         <img src="/images/mobile-app-small.jpg" alt="mobile app" /><br />
