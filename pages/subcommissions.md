@@ -524,10 +524,10 @@ The seventeen subject subcommissions of ICS are:
 ### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
 [Homepage](http://triassic.stratigraphy.org/)
 <div class="person">
-    <img src="/images/person-chen.jpg" alt="" />
+    <img src="/images/person-chen3.jpg" alt="" />
     <h4>Chair: Zhong-Qiang Chen</h4>
     <p>
-        State Key Laboratory of Biogeology & Environmental Geology<br />
+        Professor, State Key Laboratory of Geomicrobiology and Environmental Changes<br />
         China University of Geosciences (Wuhan)<br />
         Wuhan 430074, China<br />
         Tel: +86-27-67883068<br />
@@ -536,14 +536,12 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <img src="/images/person-kuerschner.gif" alt="" />
-    <h4>Vice-Chair: Wolfram M. Kürschner</h4>
+    <img src="/images/person-lindstrom.jpg" alt="" />
+    <h4>Vice-Chair: Sofie Lindstrom</h4>
     <p>
-        Professor, Department of Geosciences<br />
-        University of Oslo<br />
-        P.O. Box 1047 Blindern, N-0316 Oslo, Norway<br />
-        Tel: +47 22856672<br />
-        E-mail: <a href="mailto:w.m.kurschner@geo.uio.no">w.m.kurschner@geo.uio.no</a>
+        Professor, Geological Survey of Denmark and Greenland<br />
+        University of Copenhagen, Denmark<br />
+        E-mail: <a href="mailto:sofie.lindstrom@sgu.se">sofie.lindstrom@sgu.se</a>
     </p>
 </div>
 
@@ -553,11 +551,10 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-sun.jpg" alt="" />
     <h4>Secretary: Yadong Sun</h4>
     <p>
-        GeoZentrum Nordbayern<br />
-        University of Erlangen-Nuremberg<br />
-        Schlossgarten 5, 91054 Erlangen, Germany<br />
-        Tel: +49 09131 85 23422<br />
-        E-mail: <a href="mailto:yadong.sun@fau.de">yadong.sun@fau.de</a>
+        State Key Laboratory of Geomicrobiology and Environmental Changes<br />
+        China University of Geosciences (Wuhan)<br />
+        Wuhan 430074, China<br />
+        E-mail: <a href="mailto:yadong.sun@cug.edu.cn">yadong.sun@cug.edu.cn</a>
     </p>
 </div>
 
