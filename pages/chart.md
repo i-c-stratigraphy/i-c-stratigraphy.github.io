@@ -56,7 +56,6 @@ permalink: /chart
                 <li>Czech (<a href="/ICSchart/ChronostratChart2023-09Czech.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Czech.jpg" target="_blank">JPG</a>)</li>
                 <li>Finnish (<a href="/ICSchart/ChronostratChart2023-09Finnish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Finnish.jpg" target="_blank">JPG</a>)</li>
                 <li>French (<a href="/ICSchart/ChronostratChart2023-09French.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09French.jpg" target="_blank">JPG</a>)</li>
-                <li>German (<a href="/ICSchart/ChronostratChart2023-09German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09German.jpg" target="_blank">JPG</a>)</li>
                 <li>Hungarian (<a href="/ICSchart/ChronostratChart2023-09Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Hungarian.jpg" target="_blank">JPG</a>)</li>
                 <li>Italian (<a href="/ICSchart/ChronostratChart2023-09Italian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Italian.jpg" target="_blank">JPG</a>)</li>
                 <li>Korean (<a href="/ICSchart/ChronostratChart2023-09Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Korean.jpg" target="_blank">JPG</a>)</li>
