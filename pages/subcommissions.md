@@ -26,7 +26,7 @@ The seventeen subject subcommissions of ICS are:
 17. [Timescale Calibration](#calibration)
 
 ### <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
-[Homepage](http://precambrian.stratigraphy.org/)
+[Homepage](https://precambrian.stratigraphy.org/)
 
 *This Subcommission was known formerly as the **Subcommission on Precambrian Stratigraphy***
 
@@ -86,7 +86,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
-[Homepage](http://cryogenian.stratigraphy.org)
+[Homepage](https://cryogenian.stratigraphy.org)
 <div class="person">
     <img src="/images/person-zhu.jpg" alt="" />
     <h4>Chair: Maoyan Zhu</h4>
@@ -127,7 +127,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="ediacaran"></a>Subcommission on Ediacaran Stratigraphy
-[Homepage](http://ediacaran.stratigraphy.org/)
+[Homepage](https://ediacaran.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-laflamme.gif" alt="" />
     <h4>Chair: Marc Laflamme</h4>
@@ -172,7 +172,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
-[Homepage](http://cambrian.stratigraphy.org/)
+[Homepage](https://cambrian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-paterson.jpg" alt="" />
     <h4>Chair: John Paterson</h4>
@@ -232,7 +232,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
-[Homepage](http://ordovician.stratigraphy.org/)
+[Homepage](https://ordovician.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-servais2.jpg" alt="" />
@@ -317,7 +317,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
-[Homepage](http://silurian.stratigraphy.org/)
+[Homepage](https://silurian.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-corradini.gif" alt="" />
@@ -369,7 +369,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="devonian"></a>Subcommission on Devonian Stratigraphy
-[Homepage](http://devonian.stratigraphy.org/)
+[Homepage](https://devonian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-slavik.jpg" alt="" />
     <h4>Chair: Ladislav Slavík</h4>
@@ -437,7 +437,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="carboniferous"></a>Subcommission on Carboniferous Stratigraphy
-[Homepage](http://carboniferous.stratigraphy.org/)
+[Homepage](https://carboniferous.stratigraphy.org/)
 
 <div class="person">
      <img src="/images/person-aretz.jpg" alt="" />
@@ -478,7 +478,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="permian"></a>Subcommission on Permian Stratigraphy
-[Homepage](http://permian.stratigraphy.org/)
+[Homepage](https://permian.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-liz2.jpg" alt="" />
@@ -522,7 +522,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
-[Homepage](http://triassic.stratigraphy.org/)
+[Homepage](https://triassic.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-chen3.jpg" alt="" />
     <h4>Chair: Zhong-Qiang Chen</h4>
@@ -561,7 +561,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="jurassic"></a>Subcommission on Jurassic Stratigraphy
-[Homepage](http://jurassic.stratigraphy.org/)
+[Homepage](https://jurassic.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-coe.png" alt="" />
     <h4>Chair: Angela L. Coe</h4>
@@ -618,7 +618,7 @@ The seventeen subject subcommissions of ICS are:
 
 ### <a id="cretaceous"></a>Subcommission on Cretaceous Stratigraphy
 
-[Homepage](http://cretaceous.stratigraphy.org/)
+[Homepage](https://cretaceous.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-jarvis.jpg" alt="" />
@@ -675,7 +675,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
-[Homepage](http://paleogene.stratigraphy.org/)
+[Homepage](https://paleogene.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-alegret.gif" alt="" />
     <h4>Chair: Laia Alegret</h4>
@@ -716,7 +716,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="neogene"></a>Subcommission on Neogene Stratigraphy
-[Homepage](http://neogene.stratigraphy.org/)
+[Homepage](https://neogene.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-grunert.jpg" alt="" />
@@ -757,7 +757,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
-[Homepage](http://quaternary.stratigraphy.org/)
+[Homepage](https://quaternary.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-bertini.jpg" alt="" />
@@ -802,7 +802,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="classification"></a>Subcommission on Stratigraphic Classification
-[Homepage](http://stratigraphic-classification.stratigraphy.org/)
+[Homepage](https://stratigraphic-classification.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-erbacher.gif" alt="" />
