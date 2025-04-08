@@ -802,7 +802,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="classification"></a>Subcommission on Stratigraphic Classification
-[Homepage](http://issc.uni-graz.at/)
+[Homepage](http://stratigraphic-classification.stratigraphy.org/)
 
 <div class="person">
     <img src="/images/person-erbacher.gif" alt="" />
