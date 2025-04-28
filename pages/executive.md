@@ -42,6 +42,18 @@ permalink: /executive
     </p>
 </div>
 
+<div class="person">
+    <img src="/images/person-zuccari.jpg" alt="" style="width:200px; margin-bottom:25px;" />
+    <h4>Treasurer: Alessandro Zuccari</h4>
+    <p>
+        Società Geologica Italiana ETS<br />
+        Piazzale Aldo Moro, 5 - 00185 Roma<br />
+        2500 University Drive<br />
+        Tel: +39 0683939366<br />
+        E-mail: <a href="mailto:alessandro.zuccari@socgeol.it">alessandro.zuccari@socgeol.it</a>
+    </p>
+</div>
+
 <div style="clear:both;"></div>
 
 ## Non-voting members
