@@ -42,6 +42,10 @@ permalink: /executive
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
+## Non-voting members
+
 <div class="person">
     <img src="/images/person-zuccari.jpg" alt="" style="width:200px; margin-bottom:25px;" />
     <h4>Treasurer: Alessandro Zuccari</h4>
@@ -52,15 +56,6 @@ permalink: /executive
         Tel: +39 0683939366<br />
         E-mail: <a href="mailto:alessandro.zuccari@socgeol.it">alessandro.zuccari@socgeol.it</a>
     </p>
-</div>
-
-<div style="clear:both;"></div>
-
-## Non-voting members
-
-<div class="person">
-    <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin-bottom:5px;"></div>
-    <h4>Treasurer: <em>to be announced</em></h4>
 </div>
 
 <div class="person">
