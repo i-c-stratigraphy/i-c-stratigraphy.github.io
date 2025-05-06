@@ -52,7 +52,7 @@ permalink: /executive
     <p>
         Società Geologica Italiana ETS<br />
         Piazzale Aldo Moro, 5 - 00185 Roma<br />
-        2500 University Drive<br />
+        Italy<br />
         Tel: +39 0683939366<br />
         E-mail: <a href="mailto:alessandro.zuccari@socgeol.it">alessandro.zuccari@socgeol.it</a>
     </p>
