@@ -43,10 +43,11 @@ permalink: /chart
         <ul>
           <li>
             <strong>2024/12 translations</strong>
-            <ul>                                                
-                <li>Lithuanian (<a href="/ICSchart/ChronostratChart2024-12Lithuanian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Lithuanian.jpg" target="_blank">JPG</a>)</li>
-                <li>Japanese (<a href="/ICSchart/ChronostratChart2024-12Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Japanese.jpg" target="_blank">JPG</a>)</li>
+            <ul>
                 <li>German (<a href="/ICSchart/ChronostratChart2024-12German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12German.jpg" target="_blank">JPG</a>)</li>
+                <li>Japanese (<a href="/ICSchart/ChronostratChart2024-12Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Japanese.jpg" target="_blank">JPG</a>)</li>                
+                <li>Lithuanian (<a href="/ICSchart/ChronostratChart2024-12Lithuanian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Lithuanian.jpg" target="_blank">JPG</a>)</li>
+                <li>Spanish (American) (<a href="/ICSchart/ChronostratChart2024-12SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12SpanishAmer.jpg" target="_blank">JPG</a>)</li>
             </ul>
           </li>
           <li>
@@ -66,8 +67,7 @@ permalink: /chart
                 <li>Portuguese (BR) (<a href="/ICSchart/ChronostratChart2023-09BRPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09BRPortuguese.jpg" target="_blank">JPG</a>)</li>
                 <li>Portuguese (PT) (<a href="/ICSchart/ChronostratChart2023-09PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09PTPortuguese.jpg" target="_blank">JPG</a>)</li>
                 <li>Slovak (<a href="/ICSchart/ChronostratChart2023-09Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Slovak.jpg" target="_blank">JPG</a>)</li>
-                <li>Spanish (<a href="/ICSchart/ChronostratChart2023-09Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Spanish.jpg" target="_blank">JPG</a>)</li>
-                <li>Spanish (American) (<a href="/ICSchart/ChronostratChart2023-09SpanishAmer.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09SpanishAmer.jpg" target="_blank">JPG</a>)</li>
+                <li>Spanish (<a href="/ICSchart/ChronostratChart2023-09Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Spanish.jpg" target="_blank">JPG</a>)</li> 
                 <li>Turkish (<a href="/ICSchart/ChronostratChart2023-09Turkish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Turkish.jpg" target="_blank">JPG</a>)</li>
             </ul>
           </li> 
