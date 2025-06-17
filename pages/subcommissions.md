@@ -401,9 +401,11 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-jansen.jpg" alt="" />
     <h4>Secretary: Ulrich Jansen</h4>
     <p>
-        Palaeozoology III, Senckenberg Gesellschaft<br />
+        Palaeozoology III, Department of Paleontology<br />
+        and Historical Geology Senckenberg Research Institute and<br />
         für Naturforschung Rechtsfähiger<br />
-        Verein gemäß § 22 BGB, Senckenberganlage 25<br />
+        Museum of Natural History<br />
+        Senckenberganlage 25<br />
         60325 Frankfurt, Germany<br />
         Tel: +49-69-97075 1146<br />
         E-mail: <a href="mailto:ulrich.jansen@senckenberg.de">ulrich.jansen@senckenberg.de</a>  
@@ -415,22 +417,25 @@ The seventeen subject subcommissions of ICS are:
     <h4>Newsletter editor: R. Thomas Becker</h4>
     <p>
         Westfälische Wilhelms-Universität<br />
-        Geologisch-Paläontologisches Institut, Corrensstr. 24<br />
+        Geologisch-Paläontologisches Institut,<br />
+        Corrensstr. 24<br />
         D-48149, Münster<br />
         Tel: +49-251-83 339 51<br />
         E-mail: <a href="mailto:rbecker@uni-muenster.de">rbecker@uni-muenster.de</a>  
     </p>
 </div>
 
+<div style="clear:both;"></div>
+
 <div class="person">
-    <img src="/images/person-corradini.gif" alt="" />
-    <h4>Webmaster: Carlo Corradini</h4>
+    <img src="/images/person-gouwy.jpg" alt="" />
+    <h4>Webmaster: Sofie Gouwy</h4>
     <p>
-        Dipartimento di Matematica e Geoscienze<br />
-        Università di Trieste<br />
-        via Weiss 2 - 34128 Trieste, Italy<br />
-        Tel: +39 040 558-2033<br />
-        E-mail: <a href="mailto:ccorradin@units.it">ccorradin@units.it</a>  
+        Geological Survey of Canada<br />
+        3303, 33rd st NW Calgary, T2L2A7<br />
+        Canada<br />
+        Tel: +1 403 463 3544<br />
+        E-mail: <a href="mailto:sofie.gouwy@nrcan-rncan.gc.ca">sofie.gouwy@nrcan-rncan.gc.ca</a>  
     </p>
 </div>
 
