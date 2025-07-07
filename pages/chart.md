@@ -44,6 +44,7 @@ permalink: /chart
           <li>
             <strong>2024/12 translations</strong>
             <ul>
+                <li>Indonesian (<a href="/ICSchart/ChronostratChart2024-12Indonesian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Indonesian.jpg" target="_blank">JPG</a>)</li>
                 <li>Azerbaijani (<a href="/ICSchart/ChronostratChart2024-12Azerbaijani.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Azerbaijani.jpg" target="_blank">JPG</a>)</li>
                 <li>German (<a href="/ICSchart/ChronostratChart2024-12German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12German.jpg" target="_blank">JPG</a>)</li>
                 <li>Japanese (<a href="/ICSchart/ChronostratChart2024-12Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Japanese.jpg" target="_blank">JPG</a>)</li>                
