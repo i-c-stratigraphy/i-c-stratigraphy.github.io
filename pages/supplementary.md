@@ -5,10 +5,34 @@ permalink: /supplementary
 ---
 ## Supplementary Chart Information
 
+* [Accessing the Chart's Data](#data)
 * [Translations & Old Versions](#translations--old-versions)
 * [Mobile App](#mobile-app)
 * [Correlation Tables](#correlation-tables)
 * [Pronunciation Guide](#pronunciation-guide)
+
+<a id="data"></a>
+### Accessing the Chart's Data
+
+The Chart is built from an [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework) data file which can be downloaded:
+
+* <https://github.com/i-c-stratigraphy/chart/blob/main/chart.ttl>
+
+This is a [SKOS](https://www.w3.org/TR/skos-reference/) vocabulary of Chart elements with conceptual relations between them and some temporal properties.
+
+#### Planned Updates
+
+In late 2025, the ICS will be extending this data file to include:
+
+* more temporal relations
+    * as per the more sophisticated [Geological Timescale](http://resource.geosciml.org/vocabulary/timescale/gts2020), which is being updated to 2024
+* more languages' labels
+    * as per recent multi-language PDF versions of the Chart, below
+
+We will also be making this data file available via its persistent identifier which is:
+
+* `http://resource.geosciml.org/classifier/ics/ischart`
+
 
 ### Mobile App
 
