@@ -5,11 +5,50 @@ permalink: /supplementary
 ---
 ## Supplementary Chart Information
 
+* [Chart Updating Status](#status)
+* [Current Chart - Static](#current)
 * [Accessing the Chart's Data](#data)
 * [Translations & Old Versions](#translations--old-versions)
 * [Mobile App](#mobile-app)
 * [Correlation Tables](#correlation-tables)
 * [Pronunciation Guide](#pronunciation-guide)
+
+<a id="status"></a>
+### Chart Updating Status
+
+As announced before (see [Episodes 48](https://doi.org/10.18814/epiiugs/2025/025001)), we are updating the way we handle chart and data on this website.
+
+The ICS’ digital and graphic officer are integrating their data and charts so that human and computer-to-computer use will share a single point of truth.
+
+The main chart is now computer-generated, from data. The version number is 2024/12.
+
+See [Accessing the Chart's Data](#data) below to access the underlying data.
+
+The manually produced graphic chart for 2024/12 remains available, in archived form, see [Current Chart - Static](#current) below. The same holds for earlier manually produced charts and translations, see [Translations & Old Versions](#translations), also below.
+
+#### Planned Updates
+
+In late 2025, the ICS will be extending this data file to include:
+
+* tweaks to the PDF graphics
+    * Font size of chart and column headers
+    * Subseries indication
+* more temporal relations
+    * as per the more sophisticated [Geological Timescale](http://resource.geosciml.org/vocabulary/timescale/gts2020), which is being updated to 2024
+* translation quality control and inclusion of further languages
+    * validated against the archive of past translations (below)
+
+
+<a id="current"></a>
+### Current Chart - Static
+
+Here are static, versions of the current Chart (2024/12):
+
+* [English default (JPG)](/ICSChart/ChronostratChart2024-12.jpg)
+* [English default (PDF)](/ICSChart/ChronostratChart2024-12.pdf)
+
+See [_Translations & Old Versions_](#translations) below for alternate versions of this Chart.
+
 
 <a id="data"></a>
 ### Accessing the Chart's Data
@@ -20,19 +59,11 @@ The Chart is built from an [RDF](https://en.wikipedia.org/wiki/Resource_Descript
 
 This is a [SKOS](https://www.w3.org/TR/skos-reference/) vocabulary of Chart elements with conceptual relations between them and some temporal properties.
 
-#### Planned Updates
+We will also be making this data file available via its persistent identifier which is
 
-In late 2025, the ICS will be extending this data file to include:
+**`http://resource.geosciml.org/classifier/ics/ischart`** 
 
-* more temporal relations
-    * as per the more sophisticated [Geological Timescale](http://resource.geosciml.org/vocabulary/timescale/gts2020), which is being updated to 2024
-* more languages' labels
-    * as per recent multi-language PDF versions of the Chart, below
-
-We will also be making this data file available via its persistent identifier which is:
-
-* `http://resource.geosciml.org/classifier/ics/ischart`
-
+via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), likely early in 2026.
 
 ### Mobile App
 
@@ -43,6 +74,8 @@ We will also be making this data file available via its persistent identifier wh
         <em>Search Apple App Store for "ics timescale"</em>
     </div>
 </div>
+
+<a id="translations"></a>
 
 ### Translations & Old Versions
 
