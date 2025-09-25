@@ -44,8 +44,8 @@ In late 2025, the ICS will be extending this data file to include:
 
 Here are static, versions of the current Chart (2024/12):
 
-* [English default (JPG)](/ICSChart/ChronostratChart2024-12.jpg)
-* [English default (PDF)](/ICSChart/ChronostratChart2024-12.pdf)
+* [English default (JPG)](/ICSchart/ChronostratChart2024-12.jpg)
+* [English default (PDF)](/ICSchart/ChronostratChart2024-12.pdf)
 
 See [_Translations & Old Versions_](#translations) below for alternate versions of this Chart.
 
