@@ -8,9 +8,12 @@ permalink: /
   <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
 </div>
 
-#### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to define precisely global units (systems, series and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs and age) of the International Geological Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen and co-ordinated by an executive of 6 officers.
+#### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to precisely define global units (systems, series and stages) of the International Chronostratigraphic Chart that, are the basis for the units (periods, epochs and age) of the International Geological Time Scale, thus establishing the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen by an executive of 6 officers.
 
-<hr />
+<a href="https://strati2026.org/">
+    <img src="../images/logo-strati2026.png" width="75%" style="border: solid 2px black; padding:5px;">
+</a>
+
 
 <div style="text-align:center; width:75%;">
   <div style="border:solid 2px black; padding: 10px; width:300px;">
@@ -21,6 +24,7 @@ permalink: /
 
 ## News
 
+* [STRATI 29026 in announced](news/154) [27-09-2025]
 * [Albian and Hauterivian GSSP ceremonies](news/153) [12-08-2024]
 * [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy](news/152) [21-03-2024]
 * [Telychian & Aeronian GSSPs relocated](news/151) [09-02-2024]
