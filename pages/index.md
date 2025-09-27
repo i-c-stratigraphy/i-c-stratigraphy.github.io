@@ -24,7 +24,7 @@ permalink: /
 
 ## News
 
-* [STRATI 29026 in announced](news/154) [27-09-2025]
+* [STRATI 2026 in announced](news/154) [27-09-2025]
 * [Albian and Hauterivian GSSP ceremonies](news/153) [12-08-2024]
 * [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy](news/152) [21-03-2024]
 * [Telychian & Aeronian GSSPs relocated](news/151) [09-02-2024]
