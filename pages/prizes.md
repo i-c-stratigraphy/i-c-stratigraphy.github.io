@@ -43,6 +43,46 @@ For further information please contact a member of the committee.
 
 ## Previous Winners
 
+### 2023
+
+<div class="person">
+    <img src="/news/155_digby.png" alt="2023 Digby Medal" style="width:200px;" />
+    <h4>
+        Digby McLaren Medal<br />
+        Isabella Raffi
+    </h4>
+    <p>
+        Chieti, Italy<br />
+        <a href="/news/155">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="/news/155_ics_medal.png" alt="2023 ICS Medal" style="width:200px;" />
+    <h4>
+        ICS Medal<br />
+        Shuhai Xiao
+    </h4>
+    <p>
+        Blacksburg, Virginia, USA<br />
+        <a href="/news/155">See details</a>
+    </p>
+</div>
+
+<div class="person">
+    <img src="/news/155_cert_excel.png" alt="2023 Certificate of Excellence" style="width:200px;" />
+    <h4>
+        ICS Certificate of Excellence<br />
+        Stan Finney
+    </h4>
+    <p>
+        Long Beach, California, USA<br />
+        <a href="/news/155">See details</a>
+    </p>
+</div>
+
+<div style="clear:both;"></div>
+
 ### 2019
 
 <div class="person">
