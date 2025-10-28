@@ -470,13 +470,15 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 <div class="person">
-    <img src="/images/person-mottequin.jpg" alt="" />
-    <h4>Secretary: Bernard Mottequin</h4>
+    <img src="/images/person-denayer.jpg" alt="" />
+    <h4>Secretary: Julien Denayer</h4>
     <p>
-        OD Earth & History of Life<br />
-        Royal Belgian Institute of Natural Sciences<br />
-        Vautierstraat 29, 1000 Brussels, Belgium<br />
-        E-mail: <a href="mailto:bmottequin@naturalsciences.be">bmottequin@naturalsciences.be</a>  
+        Evolution and Diversity Dynamics Lab<br />
+        Geology Department<br />
+        Universit of Liège<br />
+        Allee du Six-Aout B18, Sart Tilman<br />
+        B4000 Liège, Belgium<br />
+        E-mail: <a href="mailto:julien.denayer@uliege.be">julien.denayer@uliege.be</a>  
     </p>
 </div>
 
