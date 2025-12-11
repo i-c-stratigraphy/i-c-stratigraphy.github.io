@@ -682,7 +682,7 @@ The seventeen subject subcommissions of ICS are:
 <div style="clear:both;"></div>
 
 ### <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
-[Homepage](https://paleogene.stratigraphy.org/)
+[Homepage](https://www.paleogene.org/)
 <div class="person">
     <img src="/images/person-alegret.gif" alt="" />
     <h4>Chair: Laia Alegret</h4>
