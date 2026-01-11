@@ -5,6 +5,10 @@ permalink: /prizes
 ---
 ## Prizes
 
+* [About our Prizes](#about-our-prizes)
+* [Nominations and Selection](#nominations-and-selection)
+* [Previous Winners](#previous-winners)
+
 The International Commission on Stratigraphy (ICS) is a leading entity of the International Union of Geological Sciences (IUGS) with responsibility for establishing international standards in stratigraphy, such as the Geological Time Scale and the International Chronostratigraphical Scale, defined by Global Stratotype Section and Points (GSSPs).
 
 Stratigraphy is the core discipline of the geological sciences, concerned with the relationships in time and space of rocks (not just sedimentary, but also igneous and metamorphic rocks) and the varied processes that have formed and affected them. Results and interpretations deriving from other disciplines can only be integrated into a coherent all-embracing geological history if they are based on sound stratigraphy.
@@ -25,7 +29,7 @@ The awards are made at two levels:
 
 Nominations for either of the awards are solicited from any source, not restricted to members of the Commission or other entities within IUGS. Nominations should include a brief biographical background of the Nominee, a reasoned case based on the Nominee’s contributions, and, if necessary, translation into English of at least abstracts of this material so that independent judgement can be made.
 
-The ICS has established a committee to elicit and evaluate nominations for the two prizes, and afterwards to make recommendations to all members of ICS, who must then approve the nominations by a clear majority vote. The committee includes Laia Alegret (University of Zaragoza, Spain), Lucia Angiolini (Università degli Studi di Milano, Italy), Marissa Betts (University of New England, Australia), Thomas Servais (University of Lille, France) and Shuzhong Shen (Nanjing University, China, and Vice-Chair of ICS).
+The ICS has established a committee to elicit and evaluate nominations for the two prizes, and afterwards to make recommendations to all members of ICS, who must then approve the nominations by a clear majority vote. The committee includes Laia Alegret as Chair (University of Zaragoza, Spain), Marissa Betts (University of New England, Australia), Thomas Servais (University of Lille, France), Shuhai Xiao (Virginia Tech, USA), and Emilia Jarochowska (Utrecht University).
 
 Nomination documents should be submitted to:
 
@@ -35,15 +39,15 @@ Calle Pedro Cerbuna, 12,
 E-50009 Zaragoza,  
 Spain.  
 
-Tel: 0034 876553465 e-mail: <laia@unizar.es>
+E-mail: <laia@unizar.es>
 
-**Nomination deadline: 13 February 2023**
+**Nomination deadline: 13 February 2026**
 
 For further information please contact a member of the committee.
 
-## Previous Winners
+### Previous Winners
 
-### 2023
+#### 2023
 
 <div class="person">
     <img src="/news/155_digby.png" alt="2023 Digby Medal" style="width:200px;" />
@@ -83,7 +87,7 @@ For further information please contact a member of the committee.
 
 <div style="clear:both;"></div>
 
-### 2019
+#### 2019
 
 <div class="person">
     <img src="/images/person-gibbard.2.gif" alt="Gibbard" />
@@ -111,7 +115,7 @@ For further information please contact a member of the committee.
 
 <div style="clear:both;"></div>
 
-### 2015
+#### 2015
 
 <div class="person">
     <img src="/images/person-miall.gif" alt="Miall" />
@@ -139,7 +143,7 @@ For further information please contact a member of the committee.
 
 <div style="clear:both;"></div>
 
-### 2012
+#### 2012
 
 <div class="person">
     <img src="/images/person-bergstrom.gif" alt="Bergström" />
@@ -167,7 +171,7 @@ For further information please contact a member of the committee.
 
 <div style="clear:both;"></div>
 
-### 2008
+#### 2008
 
 <div class="person">
     <img src="/images/person-brett.gif" alt="Brett" />
@@ -195,7 +199,7 @@ For further information please contact a member of the committee.
 
 <div style="clear:both;"></div>
 
-### 2004
+#### 2004
 
 <div class="person">
     <img src="/images/person-hardenbol.gif" alt="Hardenbol" />
