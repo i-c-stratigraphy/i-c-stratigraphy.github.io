@@ -41,7 +41,7 @@ Spain.
 
 E-mail: <laia@unizar.es>
 
-**Nomination deadline: 13 February 2026**
+**Nomination deadline: 13 March 2026**
 
 For further information please contact a member of the committee.
 
