@@ -38,3 +38,5 @@ gem "liquid", "~> 4.0.4"
 gem "csv", "~> 3.3"
 
 gem "base64", "~> 0.2.0"
+
+gem "jekyll-gfm-admonitions", "~> 1.4"

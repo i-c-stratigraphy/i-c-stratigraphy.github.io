@@ -136,3 +136,12 @@ footer {
 .caption {
     font-size: small;
 }
+
+.markdown-alert-warning p {
+    font-style: italic;
+    color: #d29922 ;
+}
+
+.markdown-alert-title {
+    font-size: 1.5em;
+}
