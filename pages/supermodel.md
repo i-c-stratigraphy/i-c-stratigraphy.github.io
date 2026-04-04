@@ -18,6 +18,8 @@ The Supermodel and the component models are implemented using [Semantic Web](htt
 techniques which includes reusing general-purpose data modelling patterns so these models can be integrated with more
 general geology models and even more general resources sector, environmental, scientific and economic models.
 
+### Motivation
+
 ### Modelling System
 
 #### Modelling Patterns
