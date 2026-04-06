@@ -137,11 +137,11 @@ footer {
     font-size: small;
 }
 
-.markdown-alert-warning p {
-    font-style: italic;
-    color: #d29922 ;
+.warning {
+    border: solid 2px #d29922;
+    padding: 5px;
 }
-
-.markdown-alert-title {
-    font-size: 1.5em;
+.warning p {
+    color: #d29922;
+    font-style: italic;
 }

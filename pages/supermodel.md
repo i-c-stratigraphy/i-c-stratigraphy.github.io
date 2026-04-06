@@ -5,9 +5,12 @@ permalink: /supermodel
 ---
 ## ICS Supermodel
 
-> [!WARNING]
+> WARNING
+> 
 > This page and all the information about the ICS Supermodel are in an early phase of development, as of April 2026. 
 > This work is aiming to be released at the [STRATI 2026](https://strati2026.org/) conference in June 2026.
+{: .warning}
+
 
 ### Abstract
 

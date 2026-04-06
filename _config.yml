@@ -11,4 +11,3 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-gfm-admonitions
