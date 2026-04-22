@@ -11,7 +11,7 @@ permalink: /supermodel
 > This work is aiming to be released at the [STRATI 2026](https://strati2026.org/) conference in June 2026.
 {: .warning}
 
-Last updated: 2026-04-22 by Nicholas Car
+Last updated: 2026-04-22 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
 
 1. [Abstract](#abstract)
 2. [Motivation](#motivation)
@@ -21,11 +21,16 @@ Last updated: 2026-04-22 by Nicholas Car
    1. [GTS Model](#gts-model)
    2. [THORS Model](#thors-model)
    3. [Stratigraphy Model](#strat-model)
-   4. [Vis. Chart Model](#ics-vc-model)
+   4. [Visual Chart Model](#vc-model) 
    5. [GSSP Model](#gssp-model)
 6. [Background Models](#background-models)
-7. [Example Data](#example-data)
-8. [References](#references)
+7. [Datasets](#datasets)
+   1. [Geological Timescale  Dataset](#gts-dataset)
+   2. [Visual Chart Dataset](#vc-dataset)
+   3. [GSSP Dataset](#gssps-dataset)
+8. [Example Data](#example-data)
+9. [Online Access](#online-access)
+10. [References](#references)
 
 ![](/images/supermodel/domains.svg){: width="50%"}
 
@@ -118,6 +123,8 @@ Here the Stratigraphic Model is joined to the Geological Timescale model by mean
 This model is created entirely from elements within the Foreground and Background Models but is presented as a stand-alone
 model also, to be used as a Supermodel high-level view.
 
+<p style="color:red; font-style: italic;">Needs updating with new models</p>
+
 <a id="foreground-models"></a>
 ### 5. Foreground Models
 
@@ -166,7 +173,7 @@ It contains detailed stratigraphic domain information.
 
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
-<a id="ics-vis-model"></a>
+<a id="vc-model"></a>
 #### 5.4. ICS Visual Chart Model
 
 <http://resource.geosciml.org/ontology/isc-chart> -- _not working yet_
@@ -200,12 +207,44 @@ ICS Chart Model already generates the online Chart at <https://stratigraphy.org/
 <p style="color:red; font-style: italic;">TODO</p>
 
 <a id="example-data"></a>
-### 7. Example Data
+
+<a id="datasets"></a>
+### 7. Datasets
+
+This section contains datasets that have been created according to the models in the previous section.
+
+<a id="gts-dataset"></a>
+#### 7.1 Geological Timescale Dataset
 
 <p style="color:red; font-style: italic;">TODO</p>
 
+<a id="vc-dataset"></a>
+#### 7.2 ICS Visual Chart Dataset
+
+<p style="color:red; font-style: italic;">TODO</p>
+
+<a id="gssps-dataset"></a>
+#### 7.3 GSSPs Dataset
+
+<p style="color:red; font-style: italic;">TODO</p>
+
+### 8. Example Data
+
+<p style="color:red; font-style: italic;">TODO</p>
+
+<a id="online-access"></a>
+### 9. Online Access
+
+The Supermodel is accessed online here and the machine-readable form of the Supermodel is available at:
+
+* <http://resource.geosciml.org/ontology/ics-supermodel> -- _not working yet_
+ 
+Models within this Supermodel are available via the links indicated in each of their section.
+
+The total information - all Models and Datasets 
+
 <a id="references"></a>
-### 8. References
+### 10. References
 
 1. <a id="ref-gts"></a> Cox, S.J.D., Richard, S.M. _A geologic timescale ontology and service_. Earth Sci Inform 8, 5–19 (2015). <https://doi.org/10.1007/s12145-014-0170-6>
 2. <a id="ref-thors"></a> Cox, S.J.D.,Richard, S.M. _A formal model for the geologic time scale and global stratotype section and point, compatible with geospatial information transfer standards_. Geosphere, 1, 119-137 (2005) <https://doi.org/10.1130/GES00022.1>
