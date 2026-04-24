@@ -43,12 +43,12 @@ h2 > sup {
     float: right;
 }
 
-h3 {
+h2 {
     border-top: solid 5px #F8F8F8;
     padding-top: 5px;
 }
 
-h4 {
+h3 {
     border-top: solid 2px #F8F8F8;
     padding-top: 5px;
 }
@@ -154,4 +154,30 @@ footer {
 .warning p {
     color: #d29922;
     font-style: italic;
+}
+
+.language-turtle, .language-json {
+    background-color: #eeeeee ;
+    padding: 10px;
+}
+
+.language-turtle::before {
+    content: "Turtle ";
+    color: #cccccc;
+    float: right;
+}
+
+.language-json::before {
+    content: "JSON-LD ";
+    color: #cccccc;
+    float: right;
+}
+
+table.alt th,
+table.alt td {
+    padding: 3px;
+}
+
+table.alt tr:nth-child(even) {
+  background-color: #eeeeee;
 }
