@@ -19,11 +19,14 @@ Last updated: 2026-04-22 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730
 4. [Integrative Model](#integrative-model)
 5. [Foreground Models](#foreground-models)
    1. [GTS Model](#gts-model)
-   2. [THORS Model](#thors-model)
-   3. [Stratigraphy Model](#strat-model)
-   4. [Visual Chart Model](#vc-model) 
-   5. [GSSP Model](#gssp-model)
+   2. [Stratigraphy Model](#strat-model)
+   3. [Visual Chart Model](#vc-model) 
+   4. [GSSP Model](#gssp-model)
 6. [Background Models](#background-models)
+   1. [OWL Time](#time-model)
+   2. [THORS Model](#thors-model)
+   3. [GeoSPARQL](#geosparql-model)
+   4. [schema.org](#schema-model)
 7. [Datasets](#datasets)
    1. [Geological Timescale  Dataset](#gts-dataset)
    2. [Visual Chart Dataset](#vc-dataset)
@@ -123,8 +126,6 @@ Here the Stratigraphic Model is joined to the Geological Timescale model by mean
 This model is created entirely from elements within the Foreground and Background Models but is presented as a stand-alone
 model also, to be used as a Supermodel high-level view.
 
-<p style="color:red; font-style: italic;">Needs updating with new models</p>
-
 <a id="foreground-models"></a>
 ### 5. Foreground Models
 
@@ -150,19 +151,8 @@ some GSSP information.
 
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
-<a id="thors-model"></a>
-#### 5.2. Temporal Hierarchical Ordinal Reference System (THORS) Model
-
-<http://resource.geosciml.org/ontology/timescale/thors>
-
-This model, created in 2005 [ref](#ref-thors), provides a Semantic Web representation of the _Temporal Hierarchical Ordinal Reference Systems_
-defined in GeoSciML [ref](#ref-gcml) using mostly _Time Ontology in OWL_ [ref](#ref-time) and [SKOS](#ref-skos) elements.
-
-
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
-
 <a id="strat-model"></a>
-#### 5.3. Stratigraphy Model
+#### 5.2. Stratigraphy Model
 
 <http://resource.geosciml.org/ontology/stratigraphy> -- _not working yet_
 
@@ -174,7 +164,7 @@ It contains detailed stratigraphic domain information.
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="vc-model"></a>
-#### 5.4. ICS Visual Chart Model
+#### 5.3. ICS Visual Chart Model
 
 <http://resource.geosciml.org/ontology/isc-chart> -- _not working yet_
 
@@ -189,7 +179,7 @@ When generated from parts, this model contains multilingual and alternate chrono
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="gssp-model"></a>
-#### 5.5. GSSP Model
+#### 5.4. GSSP Model
 
 <http://resource.geosciml.org/ontology/gssp> -- _not working yet_
 
@@ -203,6 +193,55 @@ ICS Chart Model already generates the online Chart at <https://stratigraphy.org/
 
 <a id="background-models"></a>
 ### 6. Background Models
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="time-model"></a>
+#### 6.1. Time Ontology in OWL
+
+<https://www.w3.org/TR/owl-time/>
+
+A fundamental domain ontology of temporal concepts, for describing the temporal properties of resources. [ref](#ref-time)
+
+This ontology provides us with the basic temporal objects we need for geological time periods and for the expression
+of relationsips between them, such as `Jurrasic` being _before_ `Cretaceous`. 
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="thors-model"></a>
+#### 6.2. Temporal Hierarchical Ordinal Reference System (THORS) Model
+
+<http://resource.geosciml.org/ontology/timescale/thors>
+
+This model, created in 2005 [ref](#ref-thors), provides a Semantic Web representation of the _Temporal Hierarchical Ordinal Reference Systems_
+defined in GeoSciML [ref](#ref-gcml) using mostly _Time Ontology in OWL_ [ref](#ref-time) and [SKOS](#ref-skos) elements.
+
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="geosparql-model"></a>
+#### 6.3. GeoSPARQL
+
+<http://www.opengis.net/doc/IS/geosparql/1.1>
+
+GeoSPARQL contains a small spatial domain OWL ontology that allow literal representations of geometries to be associated 
+with spatial features and for features to be associated with other features using spatial relations.
+
+GeoSPARQL `Feature` instances are used in this Supermodel to represent both GSSP locations and stratigraphic units that 
+GSSPs are indicated within. 
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="schema-model"></a>
+#### 6.4. schema.org
+
+<https://schema.org>
+
+"Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured 
+data on the Internet" - <https://schema.org>.
+
+schema.org provide a large number of general-purpose classes and predicates use to represent non-specialist information 
+objects and relations, such as names (`schema:name`) and descriptions for things.
 
 <p style="color:red; font-style: italic;">TODO</p>
 
@@ -227,13 +266,12 @@ This section contains datasets that have been created according to the models in
 #### 7.3 GSSPs Dataset
 
 <p style="color:red; font-style: italic;">TODO</p>
-
 ### 8. Example Data
 
 <p style="color:red; font-style: italic;">TODO</p>
 
 <a id="online-access"></a>
-### 9. Online Access
+### 8. Online Access
 
 The Supermodel is accessed online here and the machine-readable form of the Supermodel is available at:
 
@@ -244,11 +282,11 @@ Models within this Supermodel are available via the links indicated in each of t
 The total information - all Models and Datasets 
 
 <a id="references"></a>
-### 10. References
+### 9. References
 
-1. <a id="ref-gts"></a> Cox, S.J.D., Richard, S.M. _A geologic timescale ontology and service_. Earth Sci Inform 8, 5–19 (2015). <https://doi.org/10.1007/s12145-014-0170-6>
-2. <a id="ref-thors"></a> Cox, S.J.D.,Richard, S.M. _A formal model for the geologic time scale and global stratotype section and point, compatible with geospatial information transfer standards_. Geosphere, 1, 119-137 (2005) <https://doi.org/10.1130/GES00022.1>
+1. <a id="ref-thors"></a> Cox, S.J.D.,Richard, S.M. _A formal model for the geologic time scale and global stratotype section and point, compatible with geospatial information transfer standards_. Geosphere, 1, 119-137 (2005) <https://doi.org/10.1130/GES00022.1>
+2. <a id="ref-gts"></a> Cox, S.J.D., Richard, S.M. _A geologic timescale ontology and service_. Earth Sci Inform 8, 5–19 (2015). <https://doi.org/10.1007/s12145-014-0170-6>
 3<a id="ref-time"></a> World Wide Web Consortium, _Time Ontology in OWL_. W3C recommendation. (2022). (https://www.w3.org/TR/owl-time/)  
-4. <a id="ref-skos"></a> World Wide Web Consortium, _SKOS Simple Knowledge Organization System Reference_. W3C recommendation. (2009). (https://www.w3.org/TR/skos-reference/)
-5. <a id="ref-gsml"></a> Open Geospatial Consortium, _OGC Geoscience Markup Language 4.1 (GeoSciML)_. OGC Implementation Standard. <http://www.opengis.net/doc/geosciml/4.1>
- 
+4. <a id="ref-gsml"></a> Open Geospatial Consortium, _OGC Geoscience Markup Language 4.1 (GeoSciML)_. OGC Implementation Standard. <http://www.opengis.net/doc/geosciml/4.1>
+5. <a id="ref-skos"></a> World Wide Web Consortium, _SKOS Simple Knowledge Organization System Reference_. W3C Recommendation. (2009). <https://www.w3.org/TR/skos-reference/>
+6. <a id="ref-time"></a> World Wide Web Consortium, _Time Ontology in OWL_. W3C Recommendation. (2022). <https://www.w3.org/TR/owl-time/>

@@ -43,6 +43,16 @@ h2 > sup {
     float: right;
 }
 
+h3 {
+    border-top: solid 5px #F8F8F8;
+    padding-top: 5px;
+}
+
+h4 {
+    border-top: solid 2px #F8F8F8;
+    padding-top: 5px;
+}
+
 #title {
     font-size: 32px; 
     font-weight: bold; 
