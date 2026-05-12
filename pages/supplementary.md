@@ -87,6 +87,7 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
           <li>
             <strong>2024/12 translations</strong>
             <ul>
+                <li>Portuguese (BR) (<a href="/ICSchart/ChronostratChart2024-12BRPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12BRPortuguese.jpg" target="_blank">JPG</a>)</li>
                 <li>Dutch (BE) (<a href="/ICSchart/ChronostratChart2024-12BEDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12BEDutch.jpg" target="_blank">JPG</a>)</li>
                 <li>Dutch (NL) (<a href="/ICSchart/ChronostratChart2024-12NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12NLDutch.jpg" target="_blank">JPG</a>)</li>
                 <li>Korean (<a href="/ICSchart/ChronostratChart2024-12Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Korean.jpg" target="_blank">JPG</a>)</li>
@@ -110,7 +111,6 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
                 <li>Hungarian (<a href="/ICSchart/ChronostratChart2023-09Hungarian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Hungarian.jpg" target="_blank">JPG</a>)</li>
                 <li>Italian (<a href="/ICSchart/ChronostratChart2023-09Italian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Italian.jpg" target="_blank">JPG</a>)</li>
                 <li>Norwegian (<a href="/ICSchart/ChronostratChart2023-09Norwegian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Norwegian.jpg" target="_blank">JPG</a>)</li>
-                <li>Portuguese (BR) (<a href="/ICSchart/ChronostratChart2023-09BRPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09BRPortuguese.jpg" target="_blank">JPG</a>)</li>
                 <li>Portuguese (PT) (<a href="/ICSchart/ChronostratChart2023-09PTPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09PTPortuguese.jpg" target="_blank">JPG</a>)</li>
                 <li>Slovak (<a href="/ICSchart/ChronostratChart2023-09Slovak.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Slovak.jpg" target="_blank">JPG</a>)</li>
                 <li>Spanish (<a href="/ICSchart/ChronostratChart2023-09Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09Spanish.jpg" target="_blank">JPG</a>)</li> 
