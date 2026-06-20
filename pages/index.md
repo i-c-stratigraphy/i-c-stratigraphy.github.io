@@ -24,6 +24,8 @@ permalink: /
 
 ## News
 
+* [Chart update 2026/06](news/156) [20-06-2026]
+* [ICS Prizes for 2023](news/155) [15-10-2025]
 * [STRATI 2026 in announced](news/154) [27-09-2025]
 * [Albian and Hauterivian GSSP ceremonies](news/153) [12-08-2024]
 * [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy](news/152) [21-03-2024]
