@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /subcommissions
 ---
-## Subcommissions
+# Subcommissions
 
 The seventeen subject subcommissions of ICS are:
 
@@ -25,7 +25,7 @@ The seventeen subject subcommissions of ICS are:
 16. [Stratigraphic Classification](#classification)
 17. [Timescale Calibration](#calibration)
 
-### <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
+## <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
 [Homepage](https://precambrian.stratigraphy.org/)
 
 *This Subcommission was known formerly as the **Subcommission on Precambrian Stratigraphy***
@@ -85,7 +85,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
+## <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
 [Homepage](https://cryogenian.stratigraphy.org)
 <div class="person">
     <img src="/images/person-zhu.jpg" alt="" />
@@ -126,7 +126,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="ediacaran"></a>Subcommission on Ediacaran Stratigraphy
+## <a id="ediacaran"></a>Subcommission on Ediacaran Stratigraphy
 [Homepage](https://ediacaran.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-laflamme.gif" alt="" />
@@ -171,7 +171,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
+## <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
 [Homepage](https://cambrian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-paterson.jpg" alt="" />
@@ -231,7 +231,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
+## <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
 [Homepage](https://ordovician.stratigraphy.org/)
 
 <div class="person">
@@ -316,7 +316,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="silurian"></a>Subcommission on Silurian Stratigraphy
+## <a id="silurian"></a>Subcommission on Silurian Stratigraphy
 [Homepage](https://silurian.stratigraphy.org/)
 
 <div class="person">
@@ -368,7 +368,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="devonian"></a>Subcommission on Devonian Stratigraphy
+## <a id="devonian"></a>Subcommission on Devonian Stratigraphy
 [Homepage](https://devonian.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-slavik.jpg" alt="" />
@@ -441,7 +441,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="carboniferous"></a>Subcommission on Carboniferous Stratigraphy
+## <a id="carboniferous"></a>Subcommission on Carboniferous Stratigraphy
 [Homepage](https://carboniferous.stratigraphy.org/)
 
 <div class="person">
@@ -484,7 +484,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="permian"></a>Subcommission on Permian Stratigraphy
+## <a id="permian"></a>Subcommission on Permian Stratigraphy
 [Homepage](https://permian.stratigraphy.org/)
 
 <div class="person">
@@ -528,7 +528,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="triassic"></a>Subcommission on Triassic Stratigraphy
+## <a id="triassic"></a>Subcommission on Triassic Stratigraphy
 [Homepage](https://triassic.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-chen3.jpg" alt="" />
@@ -567,7 +567,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="jurassic"></a>Subcommission on Jurassic Stratigraphy
+## <a id="jurassic"></a>Subcommission on Jurassic Stratigraphy
 [Homepage](https://jurassic.stratigraphy.org/)
 <div class="person">
     <img src="/images/person-coe.png" alt="" />
@@ -623,7 +623,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="cretaceous"></a>Subcommission on Cretaceous Stratigraphy
+## <a id="cretaceous"></a>Subcommission on Cretaceous Stratigraphy
 
 [Homepage](https://cretaceous.stratigraphy.org/)
 
@@ -681,7 +681,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
+## <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
 [Homepage](https://www.paleogene.org/)
 <div class="person">
     <img src="/images/person-alegret.gif" alt="" />
@@ -722,7 +722,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="neogene"></a>Subcommission on Neogene Stratigraphy
+## <a id="neogene"></a>Subcommission on Neogene Stratigraphy
 [Homepage](https://neogene.stratigraphy.org/)
 
 <div class="person">
@@ -763,7 +763,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
+## <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
 [Homepage](https://quaternary.stratigraphy.org/)
 
 <div class="person">
@@ -808,7 +808,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="classification"></a>Subcommission on Stratigraphic Classification
+## <a id="classification"></a>Subcommission on Stratigraphic Classification
 [Homepage](https://stratigraphic-classification.stratigraphy.org/)
 
 <div class="person">
@@ -854,7 +854,7 @@ The seventeen subject subcommissions of ICS are:
 
 <div style="clear:both;"></div>
 
-### <a id="calibration"></a>Subcommission on Timescale Calibration
+## <a id="calibration"></a>Subcommission on Timescale Calibration
 [Homepage](https://timescale-calibration.stratigraphy.org)
 
 <div class="person">

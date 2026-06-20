@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /publications
 ---
-## Publications
+# Publications
 
 ### List of ICS official journals
 

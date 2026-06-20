@@ -3,7 +3,7 @@ layout: page
 title: "Supplementary Chart Information"
 permalink: /supplementary
 ---
-## Supplementary Chart Information
+# Supplementary Chart Information
 
 * [Chart Updating Status](#status)
 * [Current Chart - Static](#current)

@@ -3,7 +3,7 @@ layout: page
 title: "Correlation Tables"
 permalink: /correlations
 ---
-## Correlation Tables
+# Correlation Tables
 
 <p><strong>Global chronostratigraphical correlation table for the last 2.7 million years </strong></p>
 <p>Click <a href="/ICSchart/QuaternaryChart.pdf" target="_blank">here</a> to download the pdf file and <a href="https://data.mendeley.com/datasets/dtsn3xn3n6/5" target="_blank">here</a> to see the explanation of the correlation table.</p>

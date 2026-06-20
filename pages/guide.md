@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /guide-old
 ---
-## Stratigraphic Guide
+# Stratigraphic Guide
 
 <img src="/images/guide.jpg" border="0" width="561" height="401" style="display: block; margin-left: auto; margin-right: auto;" usemap="#guide" />
 <map name="guide"> 

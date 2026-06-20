@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /prizes
 ---
-## Prizes
+# Prizes
 
 * [About our Prizes](#about-our-prizes)
 * [Nominations and Selection](#nominations-and-selection)

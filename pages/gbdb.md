@@ -3,7 +3,7 @@ layout: page
 title: "Geobiodiversity Database"
 permalink: /gbdb
 ---
-## Geobiodiversity Database
+# Geobiodiversity Database
 
 <div style="text-align:center;">
 <a href="http://geobiodiversity.com"><img src="images/GBDBlinkright.png" alt="Geobiodiversity Database logo"></a>

@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /statutes
 ---
-## Statues & Guidelines
+# Statutes & Guidelines
 
 [Cowie et al. 1986](/files/Cowie1986.pdf) -  Guidelines and Statutes of the International Commission on Stratigraphy (ICS)
  

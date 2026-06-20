@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /executive
 ---
-## ICS Executive
+# ICS Executive
 
 <div class="person">
     <img src="/images/person-erba.jpeg" alt="" />

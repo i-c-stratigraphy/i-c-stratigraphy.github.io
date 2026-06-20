@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /links
 ---
-## Links
+# Links
 
 * [IUGS](https://www.iugs.org/)
 * [Subcommissions of ICS](/subcommissions)

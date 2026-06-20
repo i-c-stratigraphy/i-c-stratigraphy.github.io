@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /annual-reports
 ---
-## Annual Reports
+# Annual Reports
 
 [ICS Annual Report 2024](/files/ICS_AnnReport2024.pdf)
 * [Appendix 1](/files/ICS_AnnReport2024_Appendix_1.pdf)

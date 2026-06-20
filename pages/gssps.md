@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /gssps-old
 ---
-## GSSPS
+# GSSPS
 Click the figure below or [HERE](/gssp/) to view the HTML full version and click [HERE](/gssp/GSSPTable2015-01.pdf) to download the pdf version. 
 
 Note: an update is in progress [March-April 2015]
