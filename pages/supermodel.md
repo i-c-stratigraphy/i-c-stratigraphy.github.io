@@ -11,7 +11,7 @@ permalink: /supermodel
 > This work is aiming to be released at the [STRATI 2026](https://strati2026.org/) conference in June 2026.
 {: .warning}
 
-Last updated: 2026-04-22 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
+Last updated: 2026-06-21 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
 
 1. [Abstract](#abstract)
 2. [Motivation](#motivation)
@@ -40,13 +40,22 @@ Last updated: 2026-04-22 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730
 <a id="abstract"></a>
 ## 1. Abstract
 
-The ICS Stratigraphy 'Supermodel' an overarching, enterprise and integrative, formal information model covering aspects of
+The ICS Stratigraphy 'Supermodel' is an information model covering multiple distinct aspects of
 the stratigraphy domain as characterised by the International Commission on Stratigraphy (ICS).
-It includes several specialised 'foreground models' that can be used individually or together as well as a series of 'background models' used for integration.
+
+It is made to allow for the integration of data both across distinct aspects of the stratigraphy domain and also for
+data outside the domain to be joined with it, such as broader geological data.
+
+Several specialised 'foreground models' are included for various the aspects of the domain and they can be used individually 
+or together, as well as a series of 'background models' that give general-purpose information patterns, such as for spatial 
+location or temporal relations. Any other models that reuse these background models will be relatively easy to integrate
+with this Supermodle's specialised models.
 
 The Supermodel and the foreground models are implemented using Semantic Web 
-techniques which includes reusing general-purpose data modelling patterns. This allows these models can be integrated 
-with more general geology models and even more general resources sector, environmental, scientific and economic models.
+techniques which means they use universally unique identifiers for model elements, they define every aspect of the models - 
+leaving nothing ambiguous - and, as much as possible, they reuse previously defined models. Participation in the 
+Semantic Web means these models are part of a global set of models aiming for universal data integration and that they
+are as AI-ready as data can be since they are widely understood.
 
 <a id="motivation"></a>
 ## 2. Motivation
@@ -102,7 +111,39 @@ The main elements of the Supermodel that matter in this case are the _Foreground
 
 ### Modelling Patterns
 
-<p style="color:red; font-style: italic;">TODO</p>
+### Introducing Patterns
+
+A modelling pattern is a reusable approach for modelling a recurring information scenario. For example, the [Time Ontology in OWL](#time-model)
+provides a pattern for the expression of instances in time and periods of time that the various _foreground models_ use when
+they wish to represent time objects.
+
+A more fundamental pattern is the [_qualified relation_](https://patterns.dataincubator.org/book/qualified-relation.html) which
+is a basic graph data model pattern used to link one object to another with qualifying information, such as the beginning of 
+an _Age_ in the chronostratigraphic chart being liked to a time representation of it in _millions of years ago_ (MYA) 
+qualified with an uncertainty. An example:
+
+![](/images/supermodel/pattern-qualified.svg){: width="75%"}
+
+#### List of Patterns
+
+It is not possible to make a comprehensive listing of patterns used by models as they overlap, however here are some 
+significant ones used in this Supermodel:
+
+<style>
+   .display th,
+   .display td {padding:3px}
+   .display th {background: #eee}
+   .display th {font-weight: bold}
+   .display tr:nth-child(even) {background: #eee}
+   .display tr:nth-child(odd) {background: #fff}
+</style>
+
+| Pattern                  | Purpose                                                    | Defined By                          | Used In                                                       |
+|--------------------------|------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
+| Feature/Geometry Linking | To associate an object with a geospatial location on Earth | [GeoSPARQL](#geosparql-model)       | [Stratigraphy Model](#strat-model), [GSSP Model](#gssp-model) |
+| Indicating Temporality   | To associate an object with a temporal location            | [Time Ontology in OWL](#time-model) | [GTS Model](#gts-model)                                       |
+| _more coming..._         | | | |
+{: .display }
 
 ### Data Syntax
 
@@ -206,7 +247,7 @@ The Foreground Models in this Supermodel are the main, specialised, domain model
 <a id="gts-model"></a>
 ### 5.1. Geologic Timescale (GTS) Model
 
-<http://resource.geosciml.org/ontology/timescale/gts>
+[http://resource.geosciml.org/ontology/gts](/pages/models/gts.html)
 
 This model was originally developed in 2011 by Cox & Richards in 2012 [ref](#ref-gts) as a sophisticated _Time Ontology in OWL_ 
 [ref](#ref-time)-based timescale dataset.
@@ -218,25 +259,23 @@ time objects, such as `Period`, `Age`, `Super-Eon` and so on. It also has a spec
 It also contains a `Stratigraphic Point` class which is used to associate `Geocrhonologic Boundary` objects with 
 some GSSP information.
 
-
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="strat-model"></a>
 ### 5.2. Stratigraphy Model
 
-<http://resource.geosciml.org/ontology/stratigraphy> -- _not working yet_
+[http://resource.geosciml.org/ontology/stratigraphy](/pages/models/strat.html)
 
 This model is developing alongside this Supermodel and will be published soon - mid-2026. 
 
 It contains detailed stratigraphic domain information.
-
 
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="vc-model"></a>
 ### 5.3. ICS Visual Chart Model
 
-<http://resource.geosciml.org/ontology/isc-chart> -- _not working yet_
+[http://resource.geosciml.org/ontology/isc-visual-chart](/pages/models/vis.html)
 
 This is a [SKOS](#ref-skos) vocabulary representation of the instances of `Geocronologic Era` class instances - the 
 Chronostratigraphic Chart's elements - with some time information taken from the _Geologic Timescale Model_ and additions
@@ -251,17 +290,17 @@ When generated from parts, this model contains multilingual and alternate chrono
 <a id="gssp-model"></a>
 ### 5.4. GSSP Model
 
-<http://resource.geosciml.org/ontology/gssp> -- _not working yet_
+[http://resource.geosciml.org/ontology/gssp](/pages/models/gssp.html)
 
 This model is developing alongside this Supermodel and will be published soon - mid-2026. 
 
 It contains a Semantic Web representation of the Global Boundary Stratotype Section and Points (GSSP) information
 online at <https://stratigraphy.org/gssps> and will eventually be used to generate that web page, just as the Visual 
 ICS Chart Model already generates the online Chart at <https://stratigraphy.org/chart>.
-
 ### Other Foreground Models
 
 <a id="background-models"></a>
+_More coming..._
 ## 6. Background Models
 
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
