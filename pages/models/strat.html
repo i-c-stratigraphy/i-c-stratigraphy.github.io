@@ -297,6 +297,34 @@
     <script id="schema.org" type="application/ld+json">
 [
   {
+    "@id": "https://orcid.org/0000-0002-8742-7730",
+    "https://schema.org/email": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "nick@kurrawong.ai"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Nicholas J. Car"
+      }
+    ]
+  },
+  {
+    "@id": "https://stratigraphy.org",
+    "https://schema.org/name": [
+      {
+        "@value": "International Commission on Stratigraphy"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://stratigraphy.org"
+      }
+    ]
+  },
+  {
     "@id": "http://resource.geosciml.org/ontology/stratigraphy",
     "@type": [
       "https://schema.org/DefinedTermSet"
@@ -324,34 +352,6 @@
     "https://schema.org/publisher": [
       {
         "@id": "https://stratigraphy.org"
-      }
-    ]
-  },
-  {
-    "@id": "https://stratigraphy.org",
-    "https://schema.org/name": [
-      {
-        "@value": "International Commission on Stratigraphy"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://stratigraphy.org"
-      }
-    ]
-  },
-  {
-    "@id": "https://orcid.org/0000-0002-8742-7730",
-    "https://schema.org/email": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "nick@kurrawong.ai"
-      }
-    ],
-    "https://schema.org/name": [
-      {
-        "@value": "Nicholas J. Car"
       }
     ]
   }
@@ -459,6 +459,34 @@
         <div class="hierarchy">
           <ul class="hierarchy">
             <li>
+              <a href="#geologic_unit">Geologic Unit</a>
+              <ul class="hierarchy">
+                <li>
+                  <a href="#StratigraphicSection">Stratigraphic Section</a>
+                  <ul class="hierarchy">
+                    <li>
+                      <a href="#Eonothem">Eonothem</a>
+                    </li>
+                    <li>
+                      <a href="#Erathem">Erathem</a>
+                    </li>
+                    <li>
+                      <a href="#Series">Series</a>
+                    </li>
+                    <li>
+                      <a href="#Stage">Stage</a>
+                    </li>
+                    <li>
+                      <a href="#Subseries">Subseries</a>
+                    </li>
+                    <li>
+                      <a href="#System">System</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
               <a href="#RelativePosition">Relative Position</a>
               <ul class="hierarchy">
                 <li>
@@ -500,40 +528,25 @@
               </ul>
             </li>
             <li>
-              <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+              <a href="#StratigraphicPoint">Stratigraphic Point</a>
               <ul class="hierarchy">
                 <li>
-                  <a href="#Eonothem">Eonothem</a>
-                </li>
-                <li>
-                  <a href="#Erathem">Erathem</a>
-                </li>
-                <li>
-                  <a href="#Series">Series</a>
-                </li>
-                <li>
-                  <a href="#Stage">Stage</a>
-                </li>
-                <li>
-                  <a href="#Subseries">Subseries</a>
-                </li>
-                <li>
-                  <a href="#System">System</a>
+                  <a href="#GSSP">Global Boundary Stratotype Sections and Point</a>
                 </li>
               </ul>
             </li>
           </ul>
         </div>
         <h3 id="class-definitions">Class Definitions</h3>
-        <div class="property entity" id="StratigraphicUnit">
-          <h3>Stratigraphic Unit
+        <div class="property entity" id="Chronometry">
+          <h3>Chronometric
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/StratigraphicUnit</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Chronometry</code>
               </td>
             </tr>
             <tr>
@@ -548,80 +561,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>Chronostratigraphic units are bodies of rocks, layered or unlayered, that are defined between specified stratigraphic horizons which represent specified intervals of geologic time.</p></td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
-              </th>
-              <td>
-                <ul class="pylodelitlist">
-                  <li>
-                    <span>
-                      <a href="#Stage">Stage</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Series">Series</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Subseries">Subseries</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#System">System</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Erathem">Erathem</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Eonothem">Eonothem</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                </ul>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="property entity" id="Stage">
-          <h3>Stage
-            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-          </h3>
-          <table>
-            <tr>
-              <th>IRI</th>
-              <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Stage</code>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
-              </th>
-              <td>
-                <a href="#stratigraphy">Stratigraphy Model</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
-              </th>
-              <td><p>A stage is the lowest ranking unit in the chronostratigraphic hierarchy that can be recognized on a global scale.</p>
-<p>A stage includes all rocks deposited between two chronostratigraphic horizons defined by GSSPs.</p></td>
+              <td><p>The scientific study of the measurement of time</p></td>
             </tr>
             <tr>
               <th>
@@ -629,22 +569,22 @@
               </th>
               <td>
                 <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+                  <a href="#ScienceDomain">Science Domain</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Series">
-          <h3>Series
+        <div class="property entity" id="Early">
+          <h3>Early
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Series</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Early</code>
               </td>
             </tr>
             <tr>
@@ -659,9 +599,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>The series is a chronostratigraphic unit ranking above subseries or stages and below a system. A series consists of several consecutive subseries, or (when subseries are not used) of several consecutive stages.</p>
-<pre><code>The geochronologic equivalent of a series is an epoch.
-</code></pre></td>
+              <td><p>The oldest element in a set with the same parent element</p></td>
             </tr>
             <tr>
               <th>
@@ -669,22 +607,22 @@
               </th>
               <td>
                 <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+                  <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Subseries">
-          <h3>Subseries
+        <div class="property entity" id="Eonothem">
+          <h3>Eonothem
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Subseries</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Eonothem</code>
               </td>
             </tr>
             <tr>
@@ -699,8 +637,8 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>A subseries is a chronostratigraphic unit ranking immediately above stages and below a series. It consists of one or several consecutive stages.</p>
-<p>The geochronologic equivalent of a subseries is a subepoch.</p></td>
+              <td><p>An eonothem is a chronostratigraphic unit greater than an erathem. The geochronologic equivalent is an eon. Three eonothems are generally recognized, from older to younger, the Archean, Proterozoic and Phanerozoic eonothems. The combined first two are usually referred to as the Precambrian.</p>
+<p>The eons take the same name as their corresponding eonothems.</p></td>
             </tr>
             <tr>
               <th>
@@ -708,46 +646,7 @@
               </th>
               <td>
                 <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
-                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                </span>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="property entity" id="System">
-          <h3>System
-            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-          </h3>
-          <table>
-            <tr>
-              <th>IRI</th>
-              <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/System</code>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
-              </th>
-              <td>
-                <a href="#stratigraphy">Stratigraphy Model</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
-              </th>
-              <td><p>A system is a unit of major rank in the conventional chronostratigraphic hierarchy, above a series and below an erathem. A system is composed of several consecutive series.</p>
-<p>The geochronologic equivalent of a system is a period. As an exception, the rank of subsystem (Mississippian, Pennsylvanian) is used for the Carboniferous System.</p></td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
-              </th>
-              <td>
-                <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
@@ -787,22 +686,22 @@
               </th>
               <td>
                 <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Eonothem">
-          <h3>Eonothem
+        <div class="property entity" id="Late">
+          <h3>Late
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Eonothem</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Late</code>
               </td>
             </tr>
             <tr>
@@ -817,8 +716,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>An eonothem is a chronostratigraphic unit greater than an erathem. The geochronologic equivalent is an eon. Three eonothems are generally recognized, from older to younger, the Archean, Proterozoic and Phanerozoic eonothems. The combined first two are usually referred to as the Precambrian.</p>
-<p>The eons take the same name as their corresponding eonothems.</p></td>
+              <td><p>The youngest element in a set with the same parent element</p></td>
             </tr>
             <tr>
               <th>
@@ -826,22 +724,22 @@
               </th>
               <td>
                 <span>
-                  <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+                  <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
             </tr>
           </table>
         </div>
-        <div class="property entity" id="RelativePosition">
-          <h3>Relative Position
+        <div class="property entity" id="Lower">
+          <h3>Lower
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/RelativePosition</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Lower</code>
               </td>
             </tr>
             <tr>
@@ -856,120 +754,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>A position of something relative to another</p></td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
-              </th>
-              <td>
-                <ul class="pylodelitlist">
-                  <li>
-                    <span>
-                      <a href="#RelativeStratigraphicPosition">Relative Stratigraphic Position</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                </ul>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="property entity" id="RelativeStratigraphicPosition">
-          <h3>Relative Stratigraphic Position
-            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-          </h3>
-          <table>
-            <tr>
-              <th>IRI</th>
-              <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/RelativeStratigraphicPosition</code>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
-              </th>
-              <td>
-                <a href="#stratigraphy">Stratigraphy Model</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
-              </th>
-              <td><p>A position of a Stratigraphic Unit relative to another</p></td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
-              </th>
-              <td>
-                <span>
-                  <a href="#RelativePosition">Relative Position</a>
-                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                </span>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
-              </th>
-              <td>
-                <ul class="pylodelitlist">
-                  <li>
-                    <span>
-                      <a href="#Upper">Upper</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Middle">Middle</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="#Lower">Lower</a>
-                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                    </span>
-                  </li>
-                </ul>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="property entity" id="Upper">
-          <h3>Upper
-            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-          </h3>
-          <table>
-            <tr>
-              <th>IRI</th>
-              <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Upper</code>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
-              </th>
-              <td>
-                <a href="#stratigraphy">Stratigraphy Model</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
-              </th>
-              <td><p>The highest stratigraphic unit in a set with the same parent unit</p></td>
+              <td><p>The bottom-most stratigraphic unit in a set with the same parent unit</p></td>
             </tr>
             <tr>
               <th>
@@ -1022,15 +807,15 @@
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Lower">
-          <h3>Lower
+        <div class="property entity" id="Series">
+          <h3>Series
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Lower</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Series</code>
               </td>
             </tr>
             <tr>
@@ -1045,7 +830,201 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>The bottom-most stratigraphic unit in a set with the same parent unit</p></td>
+              <td><p>The series is a chronostratigraphic unit ranking above subseries or stages and below a system. A series consists of several consecutive subseries, or (when subseries are not used) of several consecutive stages.</p>
+<p>The geochronologic equivalent of a series is an epoch.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="Stage">
+          <h3>Stage
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Stage</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="#stratigraphy">Stratigraphy Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>A stage is the lowest ranking unit in the chronostratigraphic hierarchy that can be recognized on a global scale.</p>
+<p>A stage includes all rocks deposited between two chronostratigraphic horizons defined by GSSPs.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="Stratigraphy">
+          <h3>Stratigraphic
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Stratigraphy</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="#stratigraphy">Stratigraphy Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>The scientific study of layers (strata) of rock, soil, sediment, or archaeological deposits and their arrangement through time</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="#ScienceDomain">Science Domain</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="Subseries">
+          <h3>Subseries
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Subseries</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="#stratigraphy">Stratigraphy Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>A subseries is a chronostratigraphic unit ranking immediately above stages and below a series. It consists of one or several consecutive stages.</p>
+<p>The geochronologic equivalent of a subseries is a subepoch.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="System">
+          <h3>System
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/System</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="#stratigraphy">Stratigraphy Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>A system is a unit of major rank in the conventional chronostratigraphic hierarchy, above a series and below an erathem. A system is composed of several consecutive series.</p>
+<p>The geochronologic equivalent of a system is a period. As an exception, the rank of subsystem (Mississippian, Pennsylvanian) is used for the Carboniferous System.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="Upper">
+          <h3>Upper
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/Upper</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="#stratigraphy">Stratigraphy Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>The highest stratigraphic unit in a set with the same parent unit</p></td>
             </tr>
             <tr>
               <th>
@@ -1054,6 +1033,68 @@
               <td>
                 <span>
                   <a href="#RelativeStratigraphicPosition">Relative Stratigraphic Position</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="StratigraphicPoint">
+          <h3>Stratigraphic Point
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/timescale/gts#StratigraphicPoint</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts">Geologic Timescale model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>A specified position within an agreed stratigraphic section, used to calibrate the temporal position (age) of a boundary within the geologic timescale.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="#GSSP">Global Boundary Stratotype Sections and Point</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="geologic_unit">
+          <h3>Geologic Unit
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/classifier/cgi/geologicunittype/geologic_unit</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection">Stratigraphic Section</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
@@ -1104,13 +1145,13 @@
                 <ul class="pylodelitlist">
                   <li>
                     <span>
-                      <a href="#Late">Late</a>
+                      <a href="#Early">Early</a>
                       <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                     </span>
                   </li>
                   <li>
                     <span>
-                      <a href="#Early">Early</a>
+                      <a href="#Late">Late</a>
                       <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                     </span>
                   </li>
@@ -1119,15 +1160,15 @@
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Late">
-          <h3>Late
+        <div class="property entity" id="RelativePosition">
+          <h3>Relative Position
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Late</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/RelativePosition</code>
               </td>
             </tr>
             <tr>
@@ -1142,55 +1183,27 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>The youngest element in a set with the same parent element</p></td>
+              <td><p>A position of something relative to another</p></td>
             </tr>
             <tr>
               <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
               </th>
               <td>
-                <span>
-                  <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
-                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                </span>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="property entity" id="Early">
-          <h3>Early
-            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-          </h3>
-          <table>
-            <tr>
-              <th>IRI</th>
-              <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Early</code>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
-              </th>
-              <td>
-                <a href="#stratigraphy">Stratigraphy Model</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
-              </th>
-              <td><p>The oldest element in a set with the same parent element</p></td>
-            </tr>
-            <tr>
-              <th>
-                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
-              </th>
-              <td>
-                <span>
-                  <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
-                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
-                </span>
+                <ul class="pylodelitlist">
+                  <li>
+                    <span>
+                      <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#RelativeStratigraphicPosition">Relative Stratigraphic Position</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                </ul>
               </td>
             </tr>
           </table>
@@ -1228,13 +1241,13 @@
                 <ul class="pylodelitlist">
                   <li>
                     <span>
-                      <a href="#Stratigraphy">Stratigraphic</a>
+                      <a href="#Chronometry">Chronometric</a>
                       <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                     </span>
                   </li>
                   <li>
                     <span>
-                      <a href="#Chronometry">Chronometric</a>
+                      <a href="#Stratigraphy">Stratigraphic</a>
                       <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                     </span>
                   </li>
@@ -1243,15 +1256,15 @@
             </tr>
           </table>
         </div>
-        <div class="property entity" id="Stratigraphy">
-          <h3>Stratigraphic
+        <div class="property entity" id="RelativeStratigraphicPosition">
+          <h3>Relative Stratigraphic Position
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Stratigraphy</code>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/RelativeStratigraphicPosition</code>
               </td>
             </tr>
             <tr>
@@ -1266,7 +1279,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>The scientific study of layers (strata) of rock, soil, sediment, or archaeological deposits and their arrangement through time</p></td>
+              <td><p>A position of a Stratigraphic Unit relative to another</p></td>
             </tr>
             <tr>
               <th>
@@ -1274,22 +1287,140 @@
               </th>
               <td>
                 <span>
-                  <a href="#ScienceDomain">Science Domain</a>
+                  <a href="#RelativePosition">Relative Position</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
             </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
+              </th>
+              <td>
+                <ul class="pylodelitlist">
+                  <li>
+                    <span>
+                      <a href="#Lower">Lower</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Middle">Middle</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Upper">Upper</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                </ul>
+              </td>
+            </tr>
           </table>
         </div>
-        <div class="property entity" id="Chronometry">
-          <h3>Chronometric
+        <div class="property entity" id="StratigraphicSection">
+          <h3>Stratigraphic Section
             <sup class="sup-c" title="OWL/RDFS Class">c</sup>
           </h3>
           <table>
             <tr>
               <th>IRI</th>
               <td>
-                <code>http://resource.geosciml.org/ontology/stratigraphy/Chronometry</code>
+                <code>http://resource.geosciml.org/ontology/timescale/gts#StratigraphicSection</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts">Geologic Timescale model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>An agreed Geologic Unit, which may a stratigraphic point that is used to calibrate the temporal position (age) of a boundary within the geologic timescale.</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#subClassOf" title="The subject is a subclass of a class. Defined in The RDF Schema vocabulary (RDFS)">Sub Class Of</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://resource.geosciml.org/classifier/cgi/geologicunittype/geologic_unit">Geologic Unit</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2002/07/owl#equivalentClass" title="The property that determines that two given classes are equivalent, and that is used to specify datatype definitions. Defined in The OWL 2 Schema vocabulary (OWL 2)">Equivalentclass</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/classifier/cgi/geologicunittype/chronostratigraphic_unit">Chronostratigraphic Unit</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="https://w3id.org/profile/ontdoc/superClassOf" title="Inverse of RDFS' subClassOf. Defined in Ontology Documentation Profile">Super Class Of</a>
+              </th>
+              <td>
+                <ul class="pylodelitlist">
+                  <li>
+                    <span>
+                      <a href="#Eonothem">Eonothem</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Erathem">Erathem</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Series">Series</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Stage">Stage</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#Subseries">Subseries</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      <a href="#System">System</a>
+                      <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                    </span>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="GSSP">
+          <h3>Global Boundary Stratotype Sections and Point
+            <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/stratigraphy/GSSP</code>
               </td>
             </tr>
             <tr>
@@ -1304,7 +1435,7 @@
               <th>
                 <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
               </th>
-              <td><p>The scientific study of the measurement of time</p></td>
+              <td><p>GSSPs are reference points on stratigraphic sections of rock which define the lower boundaries of stages on the International Chronostratigraphic Chart</p></td>
             </tr>
             <tr>
               <th>
@@ -1312,7 +1443,7 @@
               </th>
               <td>
                 <span>
-                  <a href="#ScienceDomain">Science Domain</a>
+                  <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicPoint">Stratigraphic Point</a>
                   <sup class="sup-c" title="OWL/RDFS Class">c</sup>
                 </span>
               </td>
@@ -1326,6 +1457,18 @@
           <dt id=":">:</dt>
           <dd>
             <code>http://resource.geosciml.org/ontology/stratigraphy/</code>
+          </dd>
+          <dt id="geo">geo</dt>
+          <dd>
+            <code>http://www.opengis.net/ont/geosparql#</code>
+          </dd>
+          <dt id="gts">gts</dt>
+          <dd>
+            <code>http://resource.geosciml.org/ontology/timescale/gts#</code>
+          </dd>
+          <dt id="gut">gut</dt>
+          <dd>
+            <code>http://resource.geosciml.org/classifier/cgi/geologicunittype/</code>
           </dd>
           <dt id="ont">ont</dt>
           <dd>
@@ -1398,13 +1541,34 @@
           </h5>
           <ul class="second">
             <li style="margin-left:10px;">
-              <a href="#StratigraphicUnit">Stratigraphic Unit</a>
+              <a href="#Chronometry">Chronometric</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Early">Early</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Eonothem">Eonothem</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Erathem">Erathem</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Late">Late</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Lower">Lower</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Middle">Middle</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#Series">Series</a>
             </li>
             <li style="margin-left:10px;">
               <a href="#Stage">Stage</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Series">Series</a>
+              <a href="#Stratigraphy">Stratigraphic</a>
             </li>
             <li style="margin-left:10px;">
               <a href="#Subseries">Subseries</a>
@@ -1413,43 +1577,31 @@
               <a href="#System">System</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Erathem">Erathem</a>
-            </li>
-            <li style="margin-left:10px;">
-              <a href="#Eonothem">Eonothem</a>
-            </li>
-            <li style="margin-left:10px;">
-              <a href="#RelativePosition">Relative Position</a>
-            </li>
-            <li style="margin-left:10px;">
-              <a href="#RelativeStratigraphicPosition">Relative Stratigraphic Position</a>
-            </li>
-            <li style="margin-left:10px;">
               <a href="#Upper">Upper</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Middle">Middle</a>
+              <a href="#StratigraphicPoint">Stratigraphic Point</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Lower">Lower</a>
+              <a href="#geologic_unit">Geologic Unit</a>
             </li>
             <li style="margin-left:10px;">
               <a href="#RelativeChronometricPosition">Relative Chronometric Position</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Late">Late</a>
-            </li>
-            <li style="margin-left:10px;">
-              <a href="#Early">Early</a>
+              <a href="#RelativePosition">Relative Position</a>
             </li>
             <li style="margin-left:10px;">
               <a href="#ScienceDomain">Science Domain</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Stratigraphy">Stratigraphic</a>
+              <a href="#RelativeStratigraphicPosition">Relative Stratigraphic Position</a>
             </li>
             <li style="margin-left:10px;">
-              <a href="#Chronometry">Chronometric</a>
+              <a href="#StratigraphicSection">Stratigraphic Section</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#GSSP">Global Boundary Stratotype Sections and Point</a>
             </li>
           </ul>
         </li>
@@ -1460,6 +1612,15 @@
           <ul class="second">
             <li>
               <a href="#"></a>
+            </li>
+            <li>
+              <a href="#geo">geo</a>
+            </li>
+            <li>
+              <a href="#gts">gts</a>
+            </li>
+            <li>
+              <a href="#gut">gut</a>
             </li>
             <li>
               <a href="#ont">ont</a>

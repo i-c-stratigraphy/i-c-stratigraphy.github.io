@@ -297,6 +297,34 @@
     <script id="schema.org" type="application/ld+json">
 [
   {
+    "@id": "https://stratigraphy.org",
+    "https://schema.org/name": [
+      {
+        "@value": "International Commission on Stratigraphy"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://stratigraphy.org"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-8742-7730",
+    "https://schema.org/email": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "nick@kurrawong.ai"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Nicholas J. Car"
+      }
+    ]
+  },
+  {
     "@id": "http://resource.geosciml.org/ontology/gssp",
     "@type": [
       "https://schema.org/DefinedTermSet"
@@ -324,34 +352,6 @@
     "https://schema.org/publisher": [
       {
         "@id": "https://stratigraphy.org"
-      }
-    ]
-  },
-  {
-    "@id": "https://stratigraphy.org",
-    "https://schema.org/name": [
-      {
-        "@value": "International Commission on Stratigraphy"
-      }
-    ],
-    "https://schema.org/url": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://stratigraphy.org"
-      }
-    ]
-  },
-  {
-    "@id": "https://orcid.org/0000-0002-8742-7730",
-    "https://schema.org/email": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "nick@kurrawong.ai"
-      }
-    ],
-    "https://schema.org/name": [
-      {
-        "@value": "Nicholas J. Car"
       }
     ]
   }
@@ -510,7 +510,7 @@
                 <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
               </th>
               <td>
-                <a href="#gssp">GSSP Model</a>
+                <a href="http://resource.geosciml.org/ontology/stratigraphy">Stratigraphy Model</a>
               </td>
             </tr>
             <tr>
@@ -564,6 +564,10 @@
           <dt id="skos">skos</dt>
           <dd>
             <code>http://www.w3.org/2004/02/skos/core#</code>
+          </dd>
+          <dt id="strat">strat</dt>
+          <dd>
+            <code>http://resource.geosciml.org/ontology/stratigraphy</code>
           </dd>
         </dl>
       </div>
@@ -647,6 +651,9 @@
             </li>
             <li>
               <a href="#skos">skos</a>
+            </li>
+            <li>
+              <a href="#strat">strat</a>
             </li>
           </ul>
         </li>
