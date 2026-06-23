@@ -43,10 +43,10 @@ In late 2025, the ICS will be extending this data file to include:
 
 Here is a static versions of the current Chart (2026/06) in English.
 
-<a href="/ICSchart/ChronostratChart2026-06_Strati2026.pdf"><img src="/ICSchart/ChronostratChart2026-06_Strati2026.jpg" style="width:75%" alt="English Chart" /></a>
+<a href="/ICSchart/ChronostratChart2026-06.pdf"><img src="/ICSchart/ChronostratChart2026-06.jpg" style="width:75%" alt="English Chart" /></a>
 
-* [English default (JPG)](/ICSchart/ChronostratChart2026-06_Strati2026.jpg)
-* [English default (PDF)](/ICSchart/ChronostratChart2026-06_Strati2026.pdf)
+* [English default (JPG)](/ICSchart/ChronostratChart2026-06.jpg)
+* [English default (PDF)](/ICSchart/ChronostratChart2026-06.pdf)
 
 See [_Translations & Old Versions_](#translations) below for alternate language and older issue versions of this Chart.
 
@@ -130,6 +130,7 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
         <h4>Old English Versions</h4>
         <ul>
             <li><a href="/ICSchart/ChangeLog2012-2026.txt" target="_blank">ChangeLog</a> for 2012-2026</li>
+            <li>2024/12 (<a href="/ICSchart/ChronostratChart2024-12.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12.jpg" target="_blank">JPG</a>)</li>
             <li>2023/09 (<a href="/ICSchart/ChronostratChart2023-09.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-09.jpg" target="_blank">JPG</a>)</li>
             <li>2023/06 (<a href="/ICSchart/ChronostratChart2023-06.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-06.jpg" target="_blank">JPG</a>)</li>
             <li>2023/04 (<a href="/ICSchart/ChronostratChart2023-04.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2023-04.jpg" target="_blank">JPG</a>)</li>            
