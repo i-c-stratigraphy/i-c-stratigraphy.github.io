@@ -84,6 +84,12 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
         <h4>Translations</h4>
         <ul>
           <li>
+            <strong>2026/06 translations</strong>
+            <ul>
+              <li>Azerbaijani (<a href="/ICSchart/ChronostratChart2026-06Azerbaijani.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2026-06Azerbaijani.jpg" target="_blank">JPG</a>)</li>
+            </ul>
+          </li>
+          <li>
             <strong>2024/12 translations</strong>
             <ul>
                 <li>Portuguese (BR) (<a href="/ICSchart/ChronostratChart2024-12BRPortuguese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12BRPortuguese.jpg" target="_blank">JPG</a>)</li>
@@ -91,8 +97,7 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
                 <li>Dutch (NL) (<a href="/ICSchart/ChronostratChart2024-12NLDutch.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12NLDutch.jpg" target="_blank">JPG</a>)</li>
                 <li>Korean (<a href="/ICSchart/ChronostratChart2024-12Korean.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Korean.jpg" target="_blank">JPG</a>)</li>
                 <li>Spanish (<a href="/ICSchart/ChronostratChart2024-12Spanish.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Spanish.jpg" target="_blank">JPG</a>)</li>
-                <li>Indonesian (<a href="/ICSchart/ChronostratChart2024-12Indonesian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Indonesian.jpg" target="_blank">JPG</a>)</li>
-                <li>Azerbaijani (<a href="/ICSchart/ChronostratChart2024-12Azerbaijani.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Azerbaijani.jpg" target="_blank">JPG</a>)</li>
+                <li>Indonesian (<a href="/ICSchart/ChronostratChart2024-12Indonesian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Indonesian.jpg" target="_blank">JPG</a>)</li> 
                 <li>German (<a href="/ICSchart/ChronostratChart2024-12German.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12German.jpg" target="_blank">JPG</a>)</li>
                 <li>Japanese (<a href="/ICSchart/ChronostratChart2024-12Japanese.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Japanese.jpg" target="_blank">JPG</a>)</li>                
                 <li>Lithuanian (<a href="/ICSchart/ChronostratChart2024-12Lithuanian.pdf" target="_blank">PDF</a> or <a href="/ICSchart/ChronostratChart2024-12Lithuanian.jpg" target="_blank">JPG</a>)</li>
