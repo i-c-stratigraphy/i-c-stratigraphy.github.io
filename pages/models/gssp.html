@@ -311,20 +311,6 @@
     ]
   },
   {
-    "@id": "https://orcid.org/0000-0002-8742-7730",
-    "https://schema.org/email": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "nick@kurrawong.ai"
-      }
-    ],
-    "https://schema.org/name": [
-      {
-        "@value": "Nicholas J. Car"
-      }
-    ]
-  },
-  {
     "@id": "http://resource.geosciml.org/ontology/gssp",
     "@type": [
       "https://schema.org/DefinedTermSet"
@@ -336,7 +322,7 @@
     ],
     "https://schema.org/description": [
       {
-        "@value": "An ontology for describing Global Boundary Stratotype Sections and Points and related objects"
+        "@value": "An ontology for describing Global Boundary Stratotype Sections and Points and related objects."
       }
     ],
     "https://schema.org/license": [
@@ -352,6 +338,20 @@
     "https://schema.org/publisher": [
       {
         "@id": "https://stratigraphy.org"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-8742-7730",
+    "https://schema.org/email": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "nick@kurrawong.ai"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Nicholas J. Car"
       }
     ]
   }
@@ -441,7 +441,7 @@
             <dt>
               <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
             </dt>
-            <dd><p>An ontology for describing Global Boundary Stratotype Sections and Points and related objects</p></dd>
+            <dd><p>An ontology for describing Global Boundary Stratotype Sections and Points and related objects.</p></dd>
           </div>
           <div>
             <dt>
@@ -530,6 +530,165 @@
           </table>
         </div>
       </div>
+      <div class="section" id="objectproperties">
+        <h2>Object Properties</h2>
+        <h3 id="object-property-hierarchy">Object Property Hierarchy</h3>
+        <div class="hierarchy">
+          <ul class="hierarchy">
+            <li>
+              <a href="#representsBoundary">represents boundary</a>
+            </li>
+            <li>
+              <a href="#status">status</a>
+            </li>
+          </ul>
+        </div>
+        <h3 id="object-property-definitions">Object Property Definitions</h3>
+        <div class="property entity" id="representsBoundary">
+          <h3>represents boundary
+            <sup class="sup-op" title="OWL Object Property">op</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/timescale/gts#representsBoundary</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts">Geologic Timescale Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>geochronologic boundary corresponding with this stratigraphic point</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#domain" title="A domain of the subject property. Defined in The RDF Schema vocabulary (RDFS)">Domain</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts#StratigraphicPoint">gts:StratigraphicPoint</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#range" title="A range of the subject property. Defined in The RDF Schema vocabulary (RDFS)">Range</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts#GeochronologicBoundary">gts:GeochronologicBoundary</a>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="status">
+          <h3>status
+            <sup class="sup-op" title="OWL Object Property">op</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>https://schema.org/status</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="https://schema.org">schema.org</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>The status of the thing</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2004/02/skos/core#scopeNote" title="A note that helps to clarify the meaning and/or the use of a concept. Defined in SKOS Vocabulary">Scope Note</a>
+              </th>
+              <td><p>Only use values from the ICS' GSSP Statuses vocabulary for this property</p></td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#range" title="A range of the subject property. Defined in The RDF Schema vocabulary (RDFS)">Range</a>
+              </th>
+              <td>
+                <span>
+                  <a href="http://www.w3.org/2004/02/skos/core#Concept">Concept</a>
+                  <sup class="sup-c" title="OWL/RDFS Class">c</sup>
+                </span>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="section" id="datatypeproperties">
+        <h2>Datatype Properties</h2>
+        <div class="property entity" id="boundarylevel">
+          <h3>boundary level
+            <sup class="sup-dp" title="OWL Datatype Property">dp</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/timescale/gts#boundaryLevel</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts">Geologic Timescale Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>the level within the section of the point characterizing the boundary</p></td>
+            </tr>
+          </table>
+        </div>
+        <div class="property entity" id="correlationevent">
+          <h3>correlation event
+            <sup class="sup-dp" title="OWL Datatype Property">dp</sup>
+          </h3>
+          <table>
+            <tr>
+              <th>IRI</th>
+              <td>
+                <code>http://resource.geosciml.org/ontology/timescale/gts#correlationEvent</code>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" title="The definition of the subject resource. Defined in The RDF Schema vocabulary (RDFS)">Is Defined By</a>
+              </th>
+              <td>
+                <a href="http://resource.geosciml.org/ontology/timescale/gts">Geologic Timescale Model</a>
+              </td>
+            </tr>
+            <tr>
+              <th>
+                <a class="hover_property" href="http://purl.org/dc/terms/description" title="An account of the resource. Defined in DCMI Metadata Terms">Description</a>
+              </th>
+              <td><p>the stratigraphic event that is intended to be represented by this stratigraphic point</p></td>
+            </tr>
+          </table>
+        </div>
+      </div>
       <div id="namespaces">
         <h2>Namespaces</h2>
         <dl>
@@ -580,6 +739,18 @@
             </td>
             <td>Classes</td>
           </tr>
+          <tr>
+            <td>
+              <sup class="sup-op" title="OWL Object Property">op</sup>
+            </td>
+            <td>Object Properties</td>
+          </tr>
+          <tr>
+            <td>
+              <sup class="sup-dp" title="OWL Datatype Property">dp</sup>
+            </td>
+            <td>Datatype Properties</td>
+          </tr>
         </table>
       </div>
     </div>
@@ -620,6 +791,38 @@
             </li>
             <li style="margin-left:10px;">
               <a href="#GSSP">Global Boundary Stratotype Sections and Point</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h4>
+            <a href="#objectproperties">Object Properties</a>
+          </h4>
+          <h5>
+            <a href="#object-property-hierarchy" style="margin-left:10px;">Object Property Hierarchy</a>
+          </h5>
+          <h5>
+            <a href="#object-property-definitions" style="margin-left:10px;">Object Property Definitions</a>
+          </h5>
+          <ul class="second">
+            <li style="margin-left:10px;">
+              <a href="#representsBoundary">represents boundary</a>
+            </li>
+            <li style="margin-left:10px;">
+              <a href="#status">status</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h4>
+            <a href="#datatypeproperties">Datatype Properties</a>
+          </h4>
+          <ul class="second">
+            <li>
+              <a href="#boundarylevel">boundary level</a>
+            </li>
+            <li>
+              <a href="#correlationevent">correlation event</a>
             </li>
           </ul>
         </li>
