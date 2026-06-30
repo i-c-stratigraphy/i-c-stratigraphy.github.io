@@ -144,6 +144,8 @@ significant ones used in this Supermodel:
 | Literature referencing by ID | To provide certainty in referencing scientific literature                                                  | [schema.org](#schema-model)         | [GSSP Model](#gssp-model)                                     |
 | _more coming..._             |                                                                                                            |                                     |                                                               |
 {: .display }
+
+<a id="integrative-model"></a>
 ## 4. Integrative Model
 
 ![](/images/supermodel/integrative.svg){: width="75%"}
