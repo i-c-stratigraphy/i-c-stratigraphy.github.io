@@ -7,11 +7,12 @@ permalink: /supermodel
 
 > WARNING
 > 
-> This page and all the information about the ICS Supermodel are in an early phase of development, as of April 2026. 
-> This work is aiming to be released at the [STRATI 2026](https://strati2026.org/) conference in June 2026.
+> This page and all the information about the ICS Supermodel is in an early phase of development.
+> 
+> This work was formally unveiled at the [STRATI 2026](https://strati2026.org/) conference in July 2026.
 {: .warning}
 
-Last updated: 2026-06-21 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
+Last updated: 2026-07-01 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
 
 1. [Abstract](#abstract)
 2. [Motivation](#motivation)
@@ -23,39 +24,30 @@ Last updated: 2026-06-21 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730
    3. [Visual Chart Model](#vc-model) 
    4. [GSSP Model](#gssp-model)
 6. [Background Models](#background-models)
-   1. [OWL Time](#time-model)
-   2. [THORS Model](#thors-model)
-   3. [GeoSPARQL](#geosparql-model)
-   4. [schema.org](#schema-model)
+   1. [RDF](#rdf-model)
+   2. [OWL](#owl-model)
+   3. [OWL](#time-model)
+   4. [THORS](#thors-model)
+   5. [GeoSPARQL](#geosparql-model)
+   6. [schema.org](#schema-model)
+   7. [SKOS](#skos-model)
 7. [Datasets](#datasets)
    1. [Geological Timescale  Dataset](#gts-dataset)
    2. [Visual Chart Dataset](#vc-dataset)
    3. [GSSP Dataset](#gssps-dataset)
-8. [Example Data](#example-data)
-9. [Online Access](#online-access)
-10. [References](#references)
+8. [References](#references)
 
 ![](/images/supermodel/domains.svg){: width="50%"}
 
 <a id="abstract"></a>
 ## 1. Abstract
 
-The ICS Stratigraphy 'Supermodel' is an information model covering multiple distinct aspects of
+The ICS Stratigraphy 'Supermodel' is an information model covering many aspects of
 the stratigraphy domain as characterised by the International Commission on Stratigraphy (ICS).
 
-It is made to allow for the integration of data both across distinct aspects of the stratigraphy domain and also for
-data outside the domain to be joined with it, such as broader geological data.
-
-Several specialised 'foreground models' are included for various the aspects of the domain and they can be used individually 
-or together, as well as a series of 'background models' that give general-purpose information patterns, such as for spatial 
-location or temporal relations. Any other models that reuse these background models will be relatively easy to integrate
-with this Supermodle's specialised models.
-
-The Supermodel and the foreground models are implemented using Semantic Web 
-techniques which means they use universally unique identifiers for model elements, they define every aspect of the models - 
-leaving nothing ambiguous - and, as much as possible, they reuse previously defined models. Participation in the 
-Semantic Web means these models are part of a global set of models aiming for universal data integration and that they
-are as AI-ready as data can be since they are widely understood.
+It is made to allow for the growth of formal data definitions within the stratigraphy domain with the side benefits of
+allowing for the integration of data both across distinct aspects of the domain and also for
+data outside the domain, such as broader geological data, to be joined with it.
 
 <a id="motivation"></a>
 ## 2. Motivation
@@ -66,12 +58,16 @@ in that subdomain.
 
 The [International Commission on Stratigraphy (ICS)](https://stratigraphy.org/), as the international authority responsible 
 for establishing the fundamental scale used to represent the history of the Earth, has long published the [Chronostratigraphic Chart](https://stratigraphy.org/chart) as the principal reference 
-resource within the field. Since 2025, this Chart has been made available as data, rather than solely as a document. 
+resource within the field. Since 2026, this Chart has been made available as data, rather than solely as a document. 
 The ICS is now undertaking efforts to define additional stratigraphic domain elements through the suite of standardised resources 
 encompassed by this Supermodel, to enable projects to maximise reuse of stratigraphic information and to minimise redundant reimplementation.
 
+By improving the consistency and authority of stratigraphy domain data, automated agents that on-deliver and otherwise
+reuse ICS data, such as AI and web search systems, will have a greater likelyhood of doing so faithfully.
+
 <a id="modelling-system"></a>
 ## 3. Modelling System
+### 3.1. Semantic Web
 
 The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) as a technical methodology and specific set of data models 
 used widely for machine-readable content often, but not always, available on the Internet. Semantic Web approaches are used for 
@@ -98,8 +94,7 @@ The two fundamental models within the Semantic Web that are used here are:
 
 RDF provides the data structure and OWL the general-purpose information model which these Supermodel models use to represent
 things such as stratigraphic unit types, time periods, GSSP locations and so on.
-
-### The Supermodel, model
+### 3.2. The Supermodel
 
 ![](/images/supermodel/layers.svg){: width="40%"}
 
@@ -109,9 +104,13 @@ The main elements of the Supermodel that matter in this case are the _Foreground
 
 ![](/images/supermodel/models-by-type.svg){: width="90%"}
 
-### Modelling Patterns
+Several specialised Foreground Models are already defined for obvious aspects of the stratigraphy domain and a number of 
+pre-existing Background models covering generic domains relevant to stratigraphy such as spatiality, temporality, 
+conceptual relations and scientific referencing, have been selected for Foreground Model alignment.
 
-### Introducing Patterns
+More Foreground and Background models are expected as scope grows.
+### 3.3. Modelling Patterns
+#### 3.3.1 Introducing Patterns
 
 A modelling pattern is a reusable approach for modelling a recurring information scenario. For example, the [Time Ontology in OWL](#time-model)
 provides a pattern for the expression of instances in time and periods of time that the various _foreground models_ use when
@@ -123,8 +122,7 @@ an _Age_ in the chronostratigraphic chart being liked to a time representation o
 qualified with an uncertainty. An example:
 
 ![](/images/supermodel/pattern-qualified.svg){: width="75%"}
-
-#### List of Patterns
+#### 3.3.2 List of Patterns
 
 It is not possible to make a comprehensive listing of patterns used by models as they overlap, however here are some 
 significant ones used in this Supermodel:
@@ -138,92 +136,14 @@ significant ones used in this Supermodel:
    .display tr:nth-child(odd) {background: #fff}
 </style>
 
-| Pattern                  | Purpose                                                    | Defined By                          | Used In                                                       |
-|--------------------------|------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
-| Feature/Geometry Linking | To associate an object with a geospatial location on Earth | [GeoSPARQL](#geosparql-model)       | [Stratigraphy Model](#strat-model), [GSSP Model](#gssp-model) |
-| Indicating Temporality   | To associate an object with a temporal location            | [Time Ontology in OWL](#time-model) | [GTS Model](#gts-model)                                       |
-| _more coming..._         | | | |
+| Pattern                      | Purpose                                                                                                    | Defined By                          | Used In                                                       |
+|------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
+| Universal object identifiers | To ensure all data objects, both definitional and class instances, are identified uniquely and universally | [RDF Model](#rdf-model)             | all                                                           |
+| Feature/Geometry Linking     | To associate an object with a geospatial location on Earth                                                 | [GeoSPARQL](#geosparql-model)       | [Stratigraphy Model](#strat-model), [GSSP Model](#gssp-model) |
+| Indicating Temporality       | To associate an object with a temporal location                                                            | [Time Ontology in OWL](#time-model) | [GTS Model](#gts-model)                                       |
+| Literature referencing by ID | To provide certainty in referencing scientific literature                                                  | [schema.org](#schema-model)         | [GSSP Model](#gssp-model)                                     |
+| _more coming..._             |                                                                                                            |                                     |                                                               |
 {: .display }
-
-### Data Syntax
-
-The RDF data model used for the technical structure of all these models can be expressed in multiple data formats or
-syntaxes which are equivalent regarding the information contained but have different tooling, compression and readability
-values.
-
-Most of the examples used here are implemented using the [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) [ref](#ref-turtle) syntax which is generally considered to be the, or one of the, most human-readable formats. Several examples are given 
-in the [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) format to indicate use of a different format and one that may be
-more acceptable to software developers.
-
-The declaration of the Jurassic time period as a GTS `Geochronologic Era` objects with several properties in Turtle:
-
-```turtle
-PREFIX gts: <http://resource.geosciml.org/ontology/timescale/gts#>
-PREFIX ischart: <http://resource.geosciml.org/classifier/ics/ischart/>
-PREFIX schema: <https://schjema.org>
-
-ischart:Jurassic
-  a gts:GeochronologicEra ;
-  schema:name "Jurassic" ;
-.
-```
-
-...and in JSON-LD:
-
-```json
-{
-  "@graph": [
-    {
-      "@id": "http://resource.geosciml.org/classifier/ics/ischart/Jurassic",
-      "@type": "http://resource.geosciml.org/ontology/timescale/gts#GeochronologicEra",
-      "https://schjema.orgname": "Jurassic"
-    }
-  ]
-}
-```
-
-### Namespaces
-
-Short prefixes are used in place of long, URL-like identifiers for namespace in this document within diagrams, example 
-code (see above section) and within text. This allows the association of the data object for `Jurassic` to be associated 
-with the word "Jurassic" which can be represented like this:
-
-```turtle
-<http://resource.geosciml.org/classifier/ics/ischart/Jurassic>
-   <https://schema.org/name> "Jurassic" ;
-.
-```
-
-to be represented like this:
-
-```turtle
-ischart:Jurassic
-   schema:name "Jurassic" ;
-.
-```
-
-The following table contains the commonly used ones:
-
-**Prefix** | **Namespace**                                            | **Description**                             
---- |----------------------------------------------------------|---------------------------------------------
-`ex` | `http://example.com/` | An examples namespace
-`geo` | `http://www.opengis.net/ont/geosparql#`                  | GeoSPARQL namespace                         
-`gts` | `http://resource.geosciml.org/ontology/timescale/gts#`   | Geologic Timescale Model namespace          
-`gssp` | `http://resource.geosciml.org/vocabulary/gssp/`          | GSSP Model namespace                        
-`gssps` | `http://resource.geosciml.org/vocabulary/gssps/`         | GSSPs Dataset namespace                     
-`ischart` | `http://resource.geosciml.org/classifier/ics/ischart/`   | Chronostratigraphic Chart dataset namespace 
-`owl` | `http://www.w3.org/2002/07/owl#`                         | OWL Ontology namespace                      
-`rdfs` | `http://www.w3.org/2000/01/rdf-schema#`                  | RDFS Model namespace                        
-`schema` | `https://schema.org/`                                    | schema.org model                            
-`strat` | `http://resource.geosciml.org/ontology/stratigraphy/`    | Stratigraphy Model namespace                
-`thors` | `http://resource.geosciml.org/ontology/timescale/thors#` | THORS Model namespace                       
-`time` | `http://www.w3.org/2006/time#`                           | Time Ontology in OWL namespace              
-`skos` | `http://www.w3.org/2004/02/skos/core#` | SKOS Ontology namespace
-`sweetrg` | `http://sweetontology.net/realmGeol/`                    | SWEET Ontology Realm Geologic namespace
-`xsd` | `http://www.w3.org/2001/XMLSchema#` | XSD Datatypes namespace
-{: .alt}
-
-<a id="integrative-model"></a>
 ## 4. Integrative Model
 
 ![](/images/supermodel/integrative.svg){: width="75%"}
@@ -305,8 +225,30 @@ _More coming..._
 
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
-<a id="time-model"></a>
-### 6.1. Time Ontology in OWL
+<a id="rdf-model"></a>
+### 6.1. RDF Model
+
+<https://www.w3.org/TR/rdf12-concepts/>
+
+The Semantic Web's fundamental data structure model. [ref](#ref-rdf)
+
+The model defines the low-level data structure used by all other models within the Supermodel and data created according to those models.
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="owl-model"></a>
+### 6.2. OWL Model
+
+<https://www.w3.org/TR/owl2-overview/>
+
+A data modelling, model built on RDF and widely used within the Semantic Web. [ref](#ref-owl)
+
+OWL provides us with mathematical set theory-based mechanisms for modelling classes of objects. 
+
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+
+<a id="time-model"></a> 
+### 6.3. Time Ontology in OWL
 
 <https://www.w3.org/TR/owl-time/>
 
@@ -318,7 +260,7 @@ of relationsips between them, such as `Jurrasic` being _before_ `Cretaceous`.
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="thors-model"></a>
-### 6.2. Temporal Hierarchical Ordinal Reference System (THORS) Model
+### 6.4. Temporal Hierarchical Ordinal Reference System (THORS) Model
 
 <http://resource.geosciml.org/ontology/timescale/thors>
 
@@ -329,7 +271,7 @@ defined in GeoSciML [ref](#ref-gcml) using mostly _Time Ontology in OWL_ [ref](#
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="geosparql-model"></a>
-### 6.3. GeoSPARQL
+### 6.5. GeoSPARQL
 
 <http://www.opengis.net/doc/IS/geosparql/1.1>
 
@@ -342,7 +284,7 @@ GSSPs are indicated within.
 ![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
 <a id="schema-model"></a>
-### 6.4. schema.org
+### 6.6. schema.org Model
 
 <https://schema.org>
 
@@ -352,9 +294,18 @@ data on the Internet" - <https://schema.org>.
 schema.org provide a large number of general-purpose classes and predicates use to represent non-specialist information 
 objects and relations, such as names (`schema:name`) and descriptions for things.
 
-<p style="color:red; font-style: italic;">TODO</p>
+![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
 
-<a id="example-data"></a>
+
+<a id="skos-model"></a>
+### 6.7. Simple Knowledge Organization System (SKOS) Model
+
+<https://www.w3.org/TR/skos-reference/>
+
+A common data model for sharing and linking knowledge organization systems via the Web [ref](#ref-skos)
+
+SKOS is widely used for modelling vocabularies of concepts.
+
 
 <a id="datasets"></a>
 ## 7. Datasets
@@ -364,39 +315,119 @@ This section contains datasets that have been created according to the models in
 <a id="gts-dataset"></a>
 ### 7.1 Geological Timescale Dataset
 
-<p style="color:red; font-style: italic;">TODO</p>
+<http://resource.geosciml.org/vocabulary/timescale/gts2020>
+
+An RDF/OWL representation of the GeoSciML Geologic Timescale according to the [Geologic Timescale Model](#gts-model).
+
+Data online at <https://github.com/i-c-stratigraphy/chart/blob/main/supermodel/datasets/gts2020.ttl>.
 
 <a id="vc-dataset"></a>
 ### 7.2 ICS Visual Chart Dataset
 
-<p style="color:red; font-style: italic;">TODO</p>
+<https://stratigraphy.org/chart>
+
+A representation of the ICS' Chronostratigraphic Chart in RDF/OWL according to the [SKOS vocabulary model](#ref-skos).
+
+Data online at <https://github.com/i-c-stratigraphy/chart/blob/main/chart.ttl>
 
 <a id="gssps-dataset"></a>
 ### 7.3 GSSPs Dataset
 
 <p style="color:red; font-style: italic;">TODO</p>
-## 8. Example Data
-
-<p style="color:red; font-style: italic;">TODO</p>
-
-<a id="online-access"></a>
-## 8. Online Access
-
-The Supermodel is accessed online here and the machine-readable form of the Supermodel is available at:
-
-* <http://resource.geosciml.org/ontology/ics-supermodel> -- _not working yet_
- 
-Models within this Supermodel are available via the links indicated in each of their section.
-
-The total information - all Models and Datasets 
 
 <a id="references"></a>
-## 9. References
+## 8. References
 
+1. <a id="ref-rdf"></a> World Wide Web Consortium, _RDF 1.2 Concepts and Abstract Data Model_. W3C Candidate Recommendation (2026). <https://www.w3.org/TR/rdf12-concepts/>
+1. <a id="ref-owl"></a> World Wide Web Consortium, _OWL 2 Web Ontology Language Document Overview (Second Edition)_. W3C Recommendation (2012). <https://www.w3.org/TR/owl2-overview/>
 1. <a id="ref-thors"></a> Cox, S.J.D.,Richard, S.M. _A formal model for the geologic time scale and global stratotype section and point, compatible with geospatial information transfer standards_. Geosphere, 1, 119-137 (2005). <https://doi.org/10.1130/GES00022.1>
-2. <a id="ref-gts"></a> Cox, S.J.D., Richard, S.M. _A geologic timescale ontology and service_. Earth Sci Inform 8, 5–19 (2015). <https://doi.org/10.1007/s12145-014-0170-6>
-3<a id="ref-time"></a> World Wide Web Consortium, _Time Ontology in OWL_. W3C recommendation. (2022). (https://www.w3.org/TR/owl-time/)  
-4. <a id="ref-gsml"></a> Open Geospatial Consortium, _OGC Geoscience Markup Language 4.1 (GeoSciML)_. OGC Implementation Standard (2017). <http://www.opengis.net/doc/geosciml/4.1>
-5. <a id="ref-skos"></a> World Wide Web Consortium, _SKOS Simple Knowledge Organization System Reference_. W3C Recommendation (2009). <https://www.w3.org/TR/skos-reference/>
-6. <a id="ref-time"></a> World Wide Web Consortium, _Time Ontology in OWL_. W3C Recommendation (2022). <https://www.w3.org/TR/owl-time/>
-7. <a id="ref-turtle"></a> World Wide Web Consortium, _RDF 1.1 Turtle_ W3C Recommendation (2014). <https://www.w3.org/TR/turtle/>
+1. <a id="ref-gts"></a> Cox, S.J.D., Richard, S.M. _A geologic timescale ontology and service_. Earth Sci Inform 8, 5–19 (2015). <https://doi.org/10.1007/s12145-014-0170-6>
+1. <a id="ref-gsml"></a> Open Geospatial Consortium, _OGC Geoscience Markup Language 4.1 (GeoSciML)_. OGC Implementation Standard (2017). <http://www.opengis.net/doc/geosciml/4.1>
+1. <a id="ref-skos"></a> World Wide Web Consortium, _SKOS Simple Knowledge Organization System Reference_. W3C Recommendation (2009). <https://www.w3.org/TR/skos-reference/>
+1. <a id="ref-time"></a> World Wide Web Consortium, _Time Ontology in OWL_. W3C Recommendation (2022). <https://www.w3.org/TR/owl-time/>
+
+<!-- 1. <a id="ref-turtle"></a> World Wide Web Consortium, _RDF 1.1 Turtle_ W3C Recommendation (2014). <https://www.w3.org/TR/turtle/> -->
+
+<!--
+
+### 3.3 Data Syntax
+
+The RDF data model used for the technical structure of all these models can be expressed in multiple data formats or
+syntaxes which are equivalent regarding the information contained but have different tooling, compression and readability
+values.
+
+Most of the examples used here are implemented using the [Turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) [ref](#ref-turtle) syntax which is generally considered to be the, or one of the, most human-readable formats. Several examples are given 
+in the [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) format to indicate use of a different format and one that may be
+more acceptable to software developers.
+
+The declaration of the Jurassic time period as a GTS `Geochronologic Era` objects with several properties in Turtle:
+
+```turtle
+PREFIX gts: <http://resource.geosciml.org/ontology/timescale/gts#>
+PREFIX ischart: <http://resource.geosciml.org/classifier/ics/ischart/>
+PREFIX schema: <https://schjema.org>
+
+ischart:Jurassic
+  a gts:GeochronologicEra ;
+  schema:name "Jurassic" ;
+.
+```
+
+...and in JSON-LD:
+
+```json
+{
+  "@graph": [
+    {
+      "@id": "http://resource.geosciml.org/classifier/ics/ischart/Jurassic",
+      "@type": "http://resource.geosciml.org/ontology/timescale/gts#GeochronologicEra",
+      "https://schjema.orgname": "Jurassic"
+    }
+  ]
+}
+```
+
+### Namespaces
+
+Short prefixes are used in place of long, URL-like identifiers for namespace in this document within diagrams, example 
+code (see above section) and within text. This allows the association of the data object for `Jurassic` to be associated 
+with the word "Jurassic" which can be represented like this:
+
+```turtle
+<http://resource.geosciml.org/classifier/ics/ischart/Jurassic>
+   <https://schema.org/name> "Jurassic" ;
+.
+```
+
+to be represented like this:
+
+```turtle
+ischart:Jurassic
+   schema:name "Jurassic" ;
+.
+```
+
+The following table contains the commonly used ones:
+
+**Prefix** | **Namespace**                                            | **Description**                             
+--- |----------------------------------------------------------|---------------------------------------------
+`ex` | `http://example.com/` | An examples namespace
+`geo` | `http://www.opengis.net/ont/geosparql#`                  | GeoSPARQL namespace                         
+`gts` | `http://resource.geosciml.org/ontology/timescale/gts#`   | Geologic Timescale Model namespace          
+`gssp` | `http://resource.geosciml.org/vocabulary/gssp/`          | GSSP Model namespace                        
+`gssps` | `http://resource.geosciml.org/vocabulary/gssps/`         | GSSPs Dataset namespace                     
+`ischart` | `http://resource.geosciml.org/classifier/ics/ischart/`   | Chronostratigraphic Chart dataset namespace 
+`owl` | `http://www.w3.org/2002/07/owl#`                         | OWL Ontology namespace                      
+`rdfs` | `http://www.w3.org/2000/01/rdf-schema#`                  | RDFS Model namespace                        
+`schema` | `https://schema.org/`                                    | schema.org model                            
+`strat` | `http://resource.geosciml.org/ontology/stratigraphy/`    | Stratigraphy Model namespace                
+`thors` | `http://resource.geosciml.org/ontology/timescale/thors#` | THORS Model namespace                       
+`time` | `http://www.w3.org/2006/time#`                           | Time Ontology in OWL namespace              
+`skos` | `http://www.w3.org/2004/02/skos/core#` | SKOS Ontology namespace
+`sweetrg` | `http://sweetontology.net/realmGeol/`                    | SWEET Ontology Realm Geologic namespace
+`xsd` | `http://www.w3.org/2001/XMLSchema#` | XSD Datatypes namespace
+{: .alt}
+
+<a id="integrative-model"></a>
+
+-->

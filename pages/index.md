@@ -24,6 +24,7 @@ permalink: /
 
 ## News
 
+* [ICS Supermodel Unveiled](news/157) [01-07-2026]
 * [Chart update 2026/06](news/156) [20-06-2026]
 * [ICS Prizes for 2023](news/155) [15-10-2025]
 * [STRATI 2026 in announced](news/154) [27-09-2025]
