@@ -26,7 +26,6 @@ The seventeen subject subcommissions of ICS are:
 17. [Timescale Calibration](#calibration)
 
 ## <a id="precryogenian"></a>Subcommission on Precryogenian Stratigraphy
-[Homepage](https://precambrian.stratigraphy.org/)
 
 *This Subcommission was known formerly as the **Subcommission on Precambrian Stratigraphy***
 
@@ -51,7 +50,7 @@ The seventeen subject subcommissions of ICS are:
         Department of Geosciences<br />
         Swedish Museum of Natural History<br />
         Box 50007, SE-104 05 Stockholm, Sweden<br />
-        Tel: +46 8 519 551 69(office)/67(lab)<br />
+        Tel: +46 8 519 551 69(office)/67(lab)<br />
         E-mail: <a href="mailto:martin.whitehouse@nrm.se">martin.whitehouse@nrm.se</a>  
     </p>
 </div>
@@ -61,11 +60,10 @@ The seventeen subject subcommissions of ICS are:
     <img src="/images/person-galante.gif" alt="" />
     <h4>Vice-Chair: Douglas Galante</h4>
     <p>
-        Brazilian Synchrotron Light Laboratory<br />
-        Rua Giuseppe Maximo Scolfaro, 1000<br />
-        Campinas - SP CEP: 13083-100<br />
+        Geosciences Institute<br />
+        University of São Paulo<br />
         Brazil<br />
-        E-mail: <a href="mailto:douglas.galante@lnls.br">douglas.galante@lnls.br</a>  
+        E-mail: <a href="mailto:galante@usp.br">galante@usp.br</a>  
     </p>
 </div>
 
