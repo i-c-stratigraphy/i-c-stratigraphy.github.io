@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Stratigraphy Data Model"
+title: "Stratigraphy Overarching Data Model"
 permalink: /supermodel
 ---
 # ICS Supermodel
