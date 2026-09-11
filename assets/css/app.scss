@@ -79,10 +79,14 @@ a:focus-visible { outline: 3px solid $ics-quaternary; outline-offset: 3px; }
 // Home-page content widths are relative to the available content area.
 .ics-introduction { width: 100%; font-size: 1.5em; font-style: italic; text-align: justify; }
 .content .ics-statement { width: 50%; background-color: $primary; color: #ffffff; font-size: 2em; }
-.content .ics-statement a { color: inherit; }
+.content .ics-statement a:not(.button):not(.dropdown-item) { color: inherit; text-decoration: none; }
+.content .ics-statement a:not(.button):not(.dropdown-item):hover { text-decoration: underline; text-decoration-color: currentColor; }
 
 .navbar.is-primary .navbar-start > .navbar-item.ics-nav-highlight {
   background-color: $ics-quaternary;
   color: #242424;
   font-weight: 700;
 }
+
+.ics-footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: .5em 1em; margin-bottom: 1em; }
+.ics-footer-nav a { white-space: nowrap; }

@@ -1,0 +1,68 @@
+name: Publish original site and new UI preview
+
+on:
+  push:
+    branches: [master, new-ui]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Serialize the whole build/deploy sequence, so an older build cannot publish last.
+concurrency:
+  group: stratigraphy-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the original website
+        id: production
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          path: production
+      - name: Check out the new UI
+        uses: actions/checkout@v4
+        with:
+          # Validate PR content, otherwise always build the new-ui branch.
+          ref: ${{ github.event_name == 'pull_request' && github.ref || 'new-ui' }}
+          path: preview
+      - name: Build master with the standard GitHub Pages builder
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./production
+          destination: ./production-site
+          build_revision: ${{ steps.production.outputs.commit }}
+      - name: Set up Ruby for the new UI
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          working-directory: preview
+          bundler-cache: true
+      - name: Build the preview at /new
+        working-directory: preview
+        run: bundle exec jekyll build --strict_front_matter --baseurl /new --destination ../preview-site
+        env:
+          JEKYLL_ENV: production
+      - name: Combine sites and verify production is unchanged
+        run: python3 preview/scripts/assemble_pages.py production-site preview-site _site
+      - name: Upload combined Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request' && (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/new-ui')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

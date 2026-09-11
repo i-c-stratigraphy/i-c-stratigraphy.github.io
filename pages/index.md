@@ -12,20 +12,18 @@ The International Commission on Stratigraphy (ICS) is the largest and oldest con
 Its primary objective is to precisely define global units (systems, series and stages) of the International Chronostratigraphic Chart that are the basis for the units (periods, epochs and age) of the International Geological Time Scale, thus establishing the fundamental scale for expressing the history of the Earth.
 {: .ics-introduction }
 
+![](images/chart-strip.png)
+
 The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen by an executive of 6 officers.
 {: .ics-introduction }
 
 </div>
 <div class="partner-logos">
   <a href="https://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
-  <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
+  <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a><br />
+  <a href="http://strati2026.org"><img src="images/logo-strati2026-small.png" alt="STRAT 2026"/><br /><span style="font-size:1.5em; font-weight: bold;">STRATI 2026</span></a>
 </div>
 </div>
-
-<a href="https://strati2026.org/">
-    <img class="content-image" alt="STRATI 2026 — 5th International Congress on Stratigraphy" src="/images/logo-strati2026.png">
-</a>
-
 
 <div class="has-text-centered my-5">
   <div class="notification ics-statement">

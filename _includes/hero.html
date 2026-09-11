@@ -1,0 +1,11 @@
+<div class="ics-hero" id="ics-banner" aria-hidden="true"></div>
+<script>
+  // Select once per document load; the image stays fixed until navigation/reload.
+  (() => {
+    const images = [{% for image in site.static_files %}{% if image.path contains '/images/banner-' %}{{ image.path | relative_url | jsonify }},{% endif %}{% endfor %}];
+    if (images.length) {
+      document.getElementById('ics-banner').style.backgroundImage =
+        `url("${images[Math.floor(Math.random() * images.length)]}")`;
+    }
+  })();
+</script>
