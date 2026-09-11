@@ -104,10 +104,10 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 *For website technical matters:*  
-**Nicholas J. Car**  
+**Dr Nicholas J. Car**  
 <nick@kurrawong.ai>  
 
 *For all ICS matters:*  
-**Phil Gibbard**  
+**Prof Charles Henderson**  
 ICS Secretary  
-<plg1@cam.ac.uk>  
+<cmhender@ucalgary.ca>  

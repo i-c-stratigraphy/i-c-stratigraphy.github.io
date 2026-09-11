@@ -17,20 +17,20 @@ Its primary objective is to precisely define global units (systems, series and s
 The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen by an executive of 6 officers.
 {: .ics-introduction }
 
-</div>
-<div class="partner-logos">
-  <a href="https://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
-  <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a><br />
-  <a href="http://strati2026.org"><img src="images/logo-strati2026-small.png" alt="STRAT 2026"/><br /><span style="font-size:1.5em; font-weight: bold;">STRATI 2026</span></a>
-</div>
-</div>
-
 <div class="has-text-centered my-5">
   <div class="notification ics-statement">
   <p><a href="news/152">Joint statement by the IUGS and ICS<br />on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy</a></p>
   <p>21-03-2024</p>
   </div>
 </div>
+
+</div>
+<div class="partner-logos">
+  <a href="https://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
+  <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a><br />
+  <a href="http://strati2026.org"><img src="images/logo-strati2026-small.png" alt="STRAT 2026"/><br /><span style="font-size:1.5em; font-weight: bold;">STRATI 2026</span></a>
+</div>
+<section class="ics-news" aria-labelledby="news" markdown="1">
 
 ## News
 
@@ -47,4 +47,7 @@ The work of the Commission is divided between seventeen subcommissions, each res
 * [New book on stratigraphical methods](news/147) [23-01-2023]
 * [Prize nominations open](news/146) [18-01-2023]
 
-  <img src="images/ukraine.jpg" width="450" />
+<img src="images/ukraine.jpg" width="540" />
+
+</section>
+</div>

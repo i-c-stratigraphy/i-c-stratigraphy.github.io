@@ -50,11 +50,13 @@ body { background-color: #ffffff; }
 .content .content-image { width: min(100%, 50rem); }
 
 .navbar-burger { color: inherit; }
-.ics-intro-layout { display: grid; grid-template-columns: 50% minmax(0, 1fr); gap: 2rem; align-items: start; margin-bottom: 1.5rem; }
-.partner-logos { justify-self: start; }
-@media (max-width: 768px) {
+.ics-intro-layout { display: grid; grid-template-columns: 50% minmax(0, 1fr) minmax(0, 2fr); gap: 2rem; align-items: start; margin-bottom: 1.5rem; }
+.ics-intro-layout > * { min-width: 0; }
+.ics-news h2 { margin-top: 0; }
+.partner-logos { justify-self: center; text-align: center; }
+@media (max-width: 1023px) {
   .ics-intro-layout { grid-template-columns: 1fr; }
-  .partner-logos { display: flex; align-items: center; justify-content: center; gap: 1rem; justify-self: center; }
+  .partner-logos { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1rem; justify-self: center; }
   .partner-logos br { display: none; }
   .partner-logos img { max-height: 6rem; width: auto; }
 }
@@ -78,7 +80,7 @@ a:focus-visible { outline: 3px solid $ics-quaternary; outline-offset: 3px; }
 
 // Home-page content widths are relative to the available content area.
 .ics-introduction { width: 100%; font-size: 1.5em; font-style: italic; text-align: justify; }
-.content .ics-statement { width: 50%; background-color: $primary; color: #ffffff; font-size: 2em; }
+.content .ics-statement { width: 100%; background-color: $primary; color: #ffffff; font-size: 1.75em; }
 .content .ics-statement a:not(.button):not(.dropdown-item) { color: inherit; text-decoration: none; }
 .content .ics-statement a:not(.button):not(.dropdown-item):hover { text-decoration: underline; text-decoration-color: currentColor; }
 
