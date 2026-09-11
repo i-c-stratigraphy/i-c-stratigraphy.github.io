@@ -39,17 +39,58 @@ keep existing permalinks when editing pages.
   content and JSON-LD metadata. IUGS Markdown pages also receive the theme.
 - `_includes/footer.html` supplies the ICS copyright.
 
-### GitHub Pages
+### GitHub Pages: original site and preview
 
-Bulma Clean Theme 1.x requires a Jekyll 4 build through GitHub Actions; GitHub's
-legacy branch-based Jekyll builder does not support it. In repository Settings →
-Pages, select **GitHub Actions** as the source when deploying this migration.
-`.github/workflows/pages.yml` builds pull requests and `new-ui`, and deploys only
-`master`. No publication occurs from `new-ui`.
+`.github/workflows/pages.yml` publishes one combined Pages artifact:
 
-The `/chart`, `/gssps/` and `/guide/` menu destinations are retained from the
-existing site; their applications/content are not maintained in this repository.
-The legacy guide and GSSP pages remain at `/guide-old` and `/gssps-old`.
+- `master` is built with GitHub's standard `actions/jekyll-build-pages` action at
+  `https://stratigraphy.org/`, using its own unchanged source and configuration.
+- `new-ui` is built with its locked Ruby dependencies and `--baseurl /new` at
+  `https://stratigraphy.org/new/`.
+- The assembly script copies the original build without changing any bytes, adds
+  the preview under `new/`, and verifies all production file hashes. If `master`
+  already contains `new/`, the workflow fails instead of overwriting it.
+- Byte-identical downloads in `ICSchart/` and `files/` are shared from the root
+  to stay below the Pages size limit; changed downloads remain under `/new`.
+- Preview HTML links to existing preview pages and assets are prefixed with
+  `/new`. Links to applications outside this repository (including `/chart`,
+  `/guide/`, and `/gssps/`) continue pointing to the existing root destinations.
+- Pull requests build and validate without deploying. Pushes and manual runs on
+  `new-ui` or `master` publish both sites. Deployments are serialized.
+
+#### First publication
+
+Commit and push the `new-ui` changes, including this workflow and `scripts/`.
+In repository **Settings → Pages**, change the build source from **Deploy from a
+branch** to **GitHub Actions**, retaining the `stratigraphy.org` custom domain and
+HTTPS settings. In the `github-pages` environment, permit deployments from
+`new-ui` as well as `master`. The existing branch-based builder cannot append a
+second independently built site; GitHub Pages replaces the full deployment.
+
+Run **Publish original site and new UI preview** on `new-ui` (or push another
+commit after configuring Pages). The workflow file must be present on the
+selected branch. GitHub may not offer manual dispatch in the UI until a workflow
+is registered on the default branch; pushing `new-ui` triggers it directly.
+
+No workflow or content changes have been made to `master`. Consequently, pushes
+to `master` alone will not trigger this workflow until its workflow file is also
+installed there. Until then, rerun the workflow on `new-ui` after master updates
+to publish both branches' latest versions. Do not restore the legacy builder
+while keeping this preview: its next deployment would remove `/new`.
+
+#### Local assembly check
+
+Build master into a separate directory and build new-ui with
+`bundle exec jekyll build --baseurl /new --destination /tmp/ics-preview`.
+Then run:
+
+```sh
+python3 -m unittest discover -s scripts -p 'test_*.py'
+python3 scripts/assemble_pages.py /tmp/ics-master /tmp/ics-preview /tmp/ics-combined
+```
+
+The output directory must not already exist. Serve the combined directory to
+check the root website and `/new/` together. This does not publish anything.
 
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:

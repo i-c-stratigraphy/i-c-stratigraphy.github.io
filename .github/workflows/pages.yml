@@ -47,6 +47,8 @@ jobs:
         run: bundle exec jekyll build --strict_front_matter --baseurl /new --destination ../preview-site
         env:
           JEKYLL_ENV: production
+      - name: Test URL rebasing and production preservation
+        run: python3 -m unittest discover -s preview/scripts -p 'test_*.py'
       - name: Combine sites and verify production is unchanged
         run: python3 preview/scripts/assemble_pages.py production-site preview-site _site
       - name: Upload combined Pages artifact
