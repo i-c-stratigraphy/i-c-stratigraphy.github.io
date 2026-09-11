@@ -127,15 +127,6 @@ qualified with an uncertainty. An example:
 It is not possible to make a comprehensive listing of patterns used by models as they overlap, however here are some 
 significant ones used in this Supermodel:
 
-<style>
-   .display th,
-   .display td {padding:3px}
-   .display th {background: #eee}
-   .display th {font-weight: bold}
-   .display tr:nth-child(even) {background: #eee}
-   .display tr:nth-child(odd) {background: #fff}
-</style>
-
 | Pattern                      | Purpose                                                                                                    | Defined By                          | Used In                                                       |
 |------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------|
 | Universal object identifiers | To ensure all data objects, both definitional and class instances, are identified uniquely and universally | [RDF Model](#rdf-model)             | all                                                           |
@@ -143,7 +134,7 @@ significant ones used in this Supermodel:
 | Indicating Temporality       | To associate an object with a temporal location                                                            | [Time Ontology in OWL](#time-model) | [GTS Model](#gts-model)                                       |
 | Literature referencing by ID | To provide certainty in referencing scientific literature                                                  | [schema.org](#schema-model)         | [GSSP Model](#gssp-model)                                     |
 | _more coming..._             |                                                                                                            |                                     |                                                               |
-{: .display }
+{: .table .is-striped }
 
 <a id="integrative-model"></a>
 ## 4. Integrative Model
@@ -164,7 +155,7 @@ model also, to be used as a Supermodel high-level view.
 
 The Foreground Models in this Supermodel are the main, specialised, domain models developed specifically for this situation.
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="gts-model"></a>
 ### 5.1. Geologic Timescale (GTS) Model
@@ -181,7 +172,7 @@ time objects, such as `Period`, `Age`, `Super-Eon` and so on. It also has a spec
 It also contains a `Stratigraphic Point` class which is used to associate `Geocrhonologic Boundary` objects with 
 some GSSP information.
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="strat-model"></a>
 ### 5.2. Stratigraphy Model
@@ -192,7 +183,7 @@ This model is developing alongside this Supermodel and will be published soon - 
 
 It contains detailed stratigraphic domain information.
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="vc-model"></a>
 ### 5.3. ICS Visual Chart Model
@@ -207,7 +198,7 @@ as it is displayed at <https://stratigraphy.org/chart>.
 When generated from parts, this model contains multilingual and alternate chronometric and stratigraphic labels as well.
 
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="gssp-model"></a>
 ### 5.4. GSSP Model
@@ -225,7 +216,7 @@ ICS Chart Model already generates the online Chart at <https://stratigraphy.org/
 _More coming..._
 ## 6. Background Models
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="rdf-model"></a>
 ### 6.1. RDF Model
@@ -236,7 +227,7 @@ The Semantic Web's fundamental data structure model. [ref](#ref-rdf)
 
 The model defines the low-level data structure used by all other models within the Supermodel and data created according to those models.
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="owl-model"></a>
 ### 6.2. OWL Model
@@ -247,7 +238,7 @@ A data modelling, model built on RDF and widely used within the Semantic Web. [r
 
 OWL provides us with mathematical set theory-based mechanisms for modelling classes of objects. 
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="time-model"></a> 
 ### 6.3. Time Ontology in OWL
@@ -259,7 +250,7 @@ A fundamental domain ontology of temporal concepts, for describing the temporal 
 This ontology provides us with the basic temporal objects we need for geological time periods and for the expression
 of relationsips between them, such as `Jurrasic` being _before_ `Cretaceous`. 
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="thors-model"></a>
 ### 6.4. Temporal Hierarchical Ordinal Reference System (THORS) Model
@@ -270,7 +261,7 @@ This model, created in 2005 [ref](#ref-thors), provides a Semantic Web represent
 defined in GeoSciML [ref](#ref-gcml) using mostly _Time Ontology in OWL_ [ref](#ref-time) and [SKOS](#ref-skos) elements.
 
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="geosparql-model"></a>
 ### 6.5. GeoSPARQL
@@ -283,7 +274,7 @@ with spatial features and for features to be associated with other features usin
 GeoSPARQL `Feature` instances are used in this Supermodel to represent both GSSP locations and stratigraphic units that 
 GSSPs are indicated within. 
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 <a id="schema-model"></a>
 ### 6.6. schema.org Model
@@ -296,7 +287,7 @@ data on the Internet" - <https://schema.org>.
 schema.org provide a large number of general-purpose classes and predicates use to represent non-specialist information 
 objects and relations, such as names (`schema:name`) and descriptions for things.
 
-![](/images/supermodel/model-icon.svg){: width="15%" style="float: right"}
+![](/images/supermodel/model-icon.svg){: width="15%" class="model-icon"}
 
 
 <a id="skos-model"></a>
@@ -335,7 +326,7 @@ Data online at <https://github.com/i-c-stratigraphy/chart/blob/main/chart.ttl>
 <a id="gssps-dataset"></a>
 ### 7.3 GSSPs Dataset
 
-<p style="color:red; font-style: italic;">TODO</p>
+<p class="has-text-danger is-italic">TODO</p>
 
 <a id="references"></a>
 ## 8. References

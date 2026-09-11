@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "ICS Executive"
 permalink: /executive
 ---
 # ICS Executive
@@ -42,12 +42,12 @@ permalink: /executive
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## Non-voting members
 
 <div class="person">
-    <img src="/images/person-zuccari.jpg" alt="" style="width:200px; margin-bottom:25px;" />
+    <img src="/images/person-zuccari.jpg" alt="" width="200" />
     <h4>Treasurer: Alessandro Zuccari</h4>
     <p>
         Società Geologica Italiana ETS<br />
@@ -59,7 +59,7 @@ permalink: /executive
 </div>
 
 <div class="person">
-    <img src="/images/person-car.jpg" alt="" style="width:225px;" />
+    <img src="/images/person-car.jpg" alt="" width="225" />
     <h4>Webmaster: Nicholas Car</h4>
     <p>
         Data Systems Architect<br />

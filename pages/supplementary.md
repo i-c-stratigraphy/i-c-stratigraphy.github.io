@@ -43,7 +43,7 @@ In late 2025, the ICS will be extending this data file to include:
 
 Here is a static versions of the current Chart (2026/06) in English.
 
-<a href="/ICSchart/ChronostratChart2026-06.pdf"><img src="/ICSchart/ChronostratChart2026-06.jpg" style="width:75%" alt="English Chart" /></a>
+<a href="/ICSchart/ChronostratChart2026-06.pdf"><img class="content-image" src="/ICSchart/ChronostratChart2026-06.jpg" alt="English Chart" /></a>
 
 * [English default (JPG)](/ICSchart/ChronostratChart2026-06.jpg)
 * [English default (PDF)](/ICSchart/ChronostratChart2026-06.pdf)
@@ -67,8 +67,8 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
 
 ### Mobile App
 
-<div style="display:grid; grid-template-columns:60% 40%; width:100%;">
-    <div style="text-align:center;">
+<div class="columns">
+    <div class="has-text-centered">
         <h4>iPhone Timescale app</h4>
         <img src="/images/mobile-app-small.jpg" alt="mobile app" /><br />
         <em>Search Apple App Store for "ics timescale"</em>
@@ -79,8 +79,8 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
 
 ### Translations & Old Versions
 
-<div style="display:grid; grid-template-colums: 50% 50%;">
-    <div style="grid-column:1;">
+<div class="columns">
+    <div class="column">
         <h4>Translations</h4>
         <ul>
           <li>
@@ -131,7 +131,7 @@ via updated [the Commission for Geoscience Information](https://cgi-iugs.org/), 
           </li>
         </ul>
     </div>
-    <div style="grid-column:2;">
+    <div class="column">
         <h4>Old English Versions</h4>
         <ul>
             <li><a href="/ICSchart/ChangeLog2012-2026.txt" target="_blank">ChangeLog</a> for 2012-2026</li>
@@ -170,7 +170,7 @@ Here is a pronunciation guide in English, French & Spanish for the Chart element
 
 * [Pronunciation Guide in Excel](/files/Pronunciation_20221219.xls)
 
-<table style="font-size:smaller;">
+<table class="is-size-7">
   <tbody>
     <tr>
       <th>English</th>

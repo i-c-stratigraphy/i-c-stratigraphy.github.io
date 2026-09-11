@@ -3,20 +3,32 @@ layout: page
 title: "Home"
 permalink: /
 ---
-<div style="float:right; margin-left:30px; margin-top:20px;">
+<div class="ics-intro-layout" markdown="1">
+<div class="ics-intro-copy" markdown="1">
+
+The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS).
+{: .ics-introduction }
+
+Its primary objective is to precisely define global units (systems, series and stages) of the International Chronostratigraphic Chart that are the basis for the units (periods, epochs and age) of the International Geological Time Scale, thus establishing the fundamental scale for expressing the history of the Earth.
+{: .ics-introduction }
+
+The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen by an executive of 6 officers.
+{: .ics-introduction }
+
+</div>
+<div class="partner-logos">
   <a href="https://www.iugs.org/"><img src="images/IUGSLOGOright.gif" alt="IUGS logo" /></a><br />
   <a href="http://www.geobiodiversity.com/"><img src="images/GBDBlinkright.png" alt="Geobiodiversity DB logo"/></a>
 </div>
-
-#### The International Commission on Stratigraphy (ICS) is the largest and oldest constituent scientific body in the International Union of Geological Sciences (IUGS). Its primary objective is to precisely define global units (systems, series and stages) of the International Chronostratigraphic Chart that are the basis for the units (periods, epochs and age) of the International Geological Time Scale, thus establishing the fundamental scale for expressing the history of the Earth.  The work of the Commission is divided between seventeen subcommissions, each responsible for a specific period of geological time.  Their work is overseen by an executive of 6 officers.
+</div>
 
 <a href="https://strati2026.org/">
-    <img src="../images/logo-strati2026.png" width="75%" style="border: solid 2px black; padding:5px;">
+    <img class="content-image" alt="STRATI 2026 — 5th International Congress on Stratigraphy" src="/images/logo-strati2026.png">
 </a>
 
 
-<div style="text-align:center; width:75%;">
-  <div style="border:solid 2px black; padding: 10px; width:300px;">
+<div class="has-text-centered my-5">
+  <div class="notification ics-statement">
   <p><a href="news/152">Joint statement by the IUGS and ICS<br />on the vote by the ICS Subcommission<br />on Quaternary Stratigraphy</a></p>
   <p>21-03-2024</p>
   </div>
@@ -37,4 +49,4 @@ permalink: /
 * [New book on stratigraphical methods](news/147) [23-01-2023]
 * [Prize nominations open](news/146) [18-01-2023]
 
-  <img src="images/ukraine.jpg" style="width:450px;" />
+  <img src="images/ukraine.jpg" width="450" />

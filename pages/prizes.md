@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Prizes"
 permalink: /prizes
 ---
 # Prizes
@@ -50,7 +50,7 @@ For further information please contact a member of the committee.
 #### 2023
 
 <div class="person">
-    <img src="/news/155_digby.png" alt="2023 Digby Medal" style="width:200px;" />
+    <img src="/news/155_digby.png" alt="2023 Digby Medal" width="200" />
     <h4>
         Digby McLaren Medal<br />
         Isabella Raffi
@@ -62,7 +62,7 @@ For further information please contact a member of the committee.
 </div>
 
 <div class="person">
-    <img src="/news/155_ics_medal.png" alt="2023 ICS Medal" style="width:200px;" />
+    <img src="/news/155_ics_medal.png" alt="2023 ICS Medal" width="200" />
     <h4>
         ICS Medal<br />
         Shuhai Xiao
@@ -74,7 +74,7 @@ For further information please contact a member of the committee.
 </div>
 
 <div class="person">
-    <img src="/news/155_cert_excel.png" alt="2023 Certificate of Excellence" style="width:200px;" />
+    <img src="/news/155_cert_excel.png" alt="2023 Certificate of Excellence" width="200" />
     <h4>
         ICS Certificate of Excellence<br />
         Stan Finney
@@ -85,7 +85,7 @@ For further information please contact a member of the committee.
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 #### 2019
 
@@ -113,7 +113,7 @@ For further information please contact a member of the committee.
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 #### 2015
 
@@ -141,7 +141,7 @@ For further information please contact a member of the committee.
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 #### 2012
 
@@ -169,7 +169,7 @@ For further information please contact a member of the committee.
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 #### 2008
 
@@ -197,7 +197,7 @@ For further information please contact a member of the committee.
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 #### 2004
 

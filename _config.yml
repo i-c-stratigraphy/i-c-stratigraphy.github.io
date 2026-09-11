@@ -1,4 +1,4 @@
-title: stratigraphy.org
+title: International Commission on Stratigraphy
 email: nick@kurrawong.ai
 description: 
   The International Commission on Stratigraphy's website.
@@ -7,7 +7,28 @@ url: "https://stratigraphy.org"
 github_username:  nicholascar
 
 # Build settings
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+
+lang: en
+force_theme: light
+favicon: /images/logo-ics.ico
+hide_share_buttons: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+      show_sidebar: false
+
+exclude:
+  - README.md
+  - vendor
+  - scripts
+sass:
+  style: compressed
+  # Bulma Clean Theme 1.x uses Sass imports; retain other compiler warnings.
+  silence_deprecations: [import]

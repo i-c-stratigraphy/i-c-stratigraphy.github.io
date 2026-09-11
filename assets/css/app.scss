@@ -1,0 +1,88 @@
+---
+---
+// Site palette: blue is reserved for the ICS brand.
+$ics-blue: #0404FF;
+$primary: #D45113;
+$link: #D45113;
+$ics-tertiary: #E77929;
+$ics-quaternary: #F9A03F;
+$ics-background: #F8DDA4;
+@import "main";
+
+// The upstream layout uses .container: remove its breakpoint width caps site-wide.
+.container { width: 100%; max-width: none !important; }
+.navbar > .container { padding-inline: 1.5rem; }
+.ics-brand { display: flex; align-items: center; gap: 1.5rem; }
+.ics-brand .ics-logo { flex: 0 0 5rem; }
+.ics-brand .ics-logo img { width: 5rem; height: auto; }
+// White content canvas and warm brand/footer bars.
+body { background-color: #ffffff; }
+.footer { background-color: $ics-background; color: #363636; }
+.ics-title-bar { padding: 1.5rem 3rem; background-color: #ffffff; }
+.ics-title-bar .title { color: $ics-blue; margin: 0; font-family: "Times New Roman", Times, serif; }
+.ics-hero {
+  height: clamp(10rem, 22vw, 20rem);
+  background: url("{{ '/images/banner-01.png' | relative_url }}") center / cover;
+}
+.content { overflow-wrap: anywhere; display: flow-root; }
+.content img { max-width: 100%; height: auto; }
+.content table { display: block; overflow-x: auto; }
+.content pre { overflow-x: auto; }
+.content h2, .content h3 { clear: both; }
+.person { float: left; width: min(100%, 20rem); margin: 0 1.5rem 2rem 0; text-align: center; }
+.person img { max-height: 15rem; object-fit: contain; }
+.caption { font-size: .875rem; }
+.model-icon { float: right; width: 15%; }
+// Ontology documents retain semantic anchors, but share the site's typography.
+#content .section { padding: 1.5rem 0; }
+#content .entity { border-top: 1px solid #ddd; padding-block: 1rem; }
+#content #toc { position: static; }
+@media (max-width: 768px) {
+  .section { padding: 1.5rem 1rem; }
+  .ics-title-bar { padding: 1.25rem 1rem; }
+  .ics-title-bar .title { font-size: 1.75rem; }
+  .ics-brand { gap: 1rem; }
+  .ics-brand .ics-logo { flex-basis: 3.5rem; }
+  .ics-brand .ics-logo img { width: 3.5rem; }
+  .person { float: none; margin-inline: auto; }
+}
+
+.content .content-image { width: min(100%, 50rem); }
+
+.navbar-burger { color: inherit; }
+.ics-intro-layout { display: grid; grid-template-columns: 50% minmax(0, 1fr); gap: 2rem; align-items: start; margin-bottom: 1.5rem; }
+.partner-logos { justify-self: start; }
+@media (max-width: 768px) {
+  .ics-intro-layout { grid-template-columns: 1fr; }
+  .partner-logos { display: flex; align-items: center; justify-content: center; gap: 1rem; justify-self: center; }
+  .partner-logos br { display: none; }
+  .partner-logos img { max-height: 6rem; width: auto; }
+}
+
+// Reuse the original logo's transparency as a mask for an exact brand colour.
+.ics-logo {
+  display: inline-flex;
+  background-color: $ics-blue;
+  mask: url("{{ '/images/logo-ics-3D-dark.png' | relative_url }}") center / contain no-repeat;
+}
+.ics-logo img { opacity: 0; }
+.navbar.is-primary { background-color: $primary; }
+.navbar.is-primary .navbar-start > .navbar-item:hover,
+.navbar.is-primary .navbar-link:hover { background-color: $ics-tertiary; color: #242424; }
+.navbar-dropdown .navbar-item:hover,
+.navbar-dropdown .navbar-item.is-active { background-color: $ics-quaternary; color: #242424; }
+.content a { color: $primary; }
+.content a:hover { text-decoration: underline; text-decoration-color: $ics-tertiary; }
+a:focus-visible { outline: 3px solid $ics-quaternary; outline-offset: 3px; }
+.content blockquote { border-left-color: $ics-quaternary; }
+
+// Home-page content widths are relative to the available content area.
+.ics-introduction { width: 100%; font-size: 1.5em; font-style: italic; text-align: justify; }
+.content .ics-statement { width: 50%; background-color: $primary; color: #ffffff; font-size: 2em; }
+.content .ics-statement a { color: inherit; }
+
+.navbar.is-primary .navbar-start > .navbar-item.ics-nav-highlight {
+  background-color: $ics-quaternary;
+  color: #242424;
+  font-weight: 700;
+}

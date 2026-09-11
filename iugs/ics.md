@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Ics"
+---
 # International Commission on Stratigraphy (ICS)
 
 ![](ics-logo.png)
@@ -12,7 +16,7 @@ ICS website: <https://stratigraphy.org>
 <a href="chart"></a>
 ## International Chronostratigraphic Chart
 
-<img src="ChronostratChart2024-12.jpg" alt="International Chronostratigraphic Chart 2024-12" style="width:50%" />
+<img class="content-image" src="ChronostratChart2024-12.jpg" alt="International Chronostratigraphic Chart 2024-12" />
 
 The authoritative International Chronostratigraphic Chart is online at <https://stratigraphy.org/chart> where it can be accessed in interactive form or as a PDF file. It wil available in multiple languages and multiple previous version of it are kept too.
 
@@ -32,7 +36,7 @@ As well as other supplementary material such as stratigraphic unit pronunciation
 <a href="gssps"></a>
 ## Global Stratotype Section and Point (GSSP)
 
-<img src="gssp-table.png" alt="GSSP Table exerpt" style="width:50%" />
+<img class="content-image" src="gssp-table.png" alt="GSSP Table exerpt" />
 
 GSSPs are reference points on stratigraphic sections of rock which define the lower boundaries of stages on the International Chronostratigraphic Chart. The boundary is defined by a spike in a rock succession coincident with available biological and other markers. Since 1977, the ICS has maintained the international GSSP register.
 
