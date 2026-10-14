@@ -6,11 +6,15 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 ### Jekyll Commands
 #### Launch new site
+```
 bundle install
 jekyll new . --force
+```
 
 #### Serve locally
+```
 bundle exec jekyll serve
+```
 
 #### Extra Ruby/Jekyll notes
 https://programmingzen.com/installing-rbenv-on-zsh-on-macos/
@@ -18,9 +22,11 @@ https://www.delftstack.com/howto/ruby/change-ruby-version-on-mac/
 
 ZSH additions:  
 added to .zshrc 
+```
 export PATH="$PATH:$HOME/.rvm/bin"  
 export PATH="$HOME/.rbenv/bin:$PATH"  
 eval "$(rbenv init - zsh)"
+```
 
 ## License & Rights
 The content of this repository is licensed using the Creative Commons Attribution 4.0 license:
@@ -38,6 +44,6 @@ See the [local copy of the license deed](LICENSE) for details.
 <nick@kurrawong.ai>  
 
 *For all ICS matters:*  
-**Phil Gibbard**  
-ICS Secretary  
-<plg1@cam.ac.uk>  
+**Charles Henderson**  
+ICS Secretary-General  
+<cmhender@ucalgary.ca>  
