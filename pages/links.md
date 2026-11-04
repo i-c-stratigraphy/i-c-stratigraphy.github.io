@@ -10,7 +10,8 @@ permalink: /links
 * [Geobiodiversity Database](http://www.geobiodiversity.com/) - formal database of ICS, which aims to produce comprehensive and authoritative web-based stratigraphic information service for global geoscientists, educators and the public
 * [UNESCO-natural sciences division](http://www.unesco.org/new/en/natural-sciences/)
 * [Commission for the Geological Map of the World](http://www.cgmw.net/)
-* [stratigraphy.net](http://www.stratigraphy.net/) - aims to provide free and open access to geoscientific information and data with special emphasis on the disciplines stratigraphy, paleontology and sedimentology
+* [stratigraphy.net](http://www.stratigraphy.net/) - aims to provide free and open access to geoscientific information
+  and data with special emphasis on the disciplines stratigraphy, palaeontology and sedimentology
 * [Nacstrat.org](http://www.nacstrat.org/) - website for the North American Commission on Stratigraphic Nomenclature
 * [Stratigraphic Chart of Austria 2004](http://palstrat.uni-graz.at/Stratigraphische_Tabelle_von_Oesterreich_2004.pdf)
 * [New Zealand Geological Timescale](http://www.gns.cri.nz/what/earthhist/dating/index.html)

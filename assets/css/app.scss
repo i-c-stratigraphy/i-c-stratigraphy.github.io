@@ -92,3 +92,6 @@ a:focus-visible { outline: 3px solid $ics-quaternary; outline-offset: 3px; }
 
 .ics-footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: .5em 1em; margin-bottom: 1em; }
 .ics-footer-nav a { white-space: nowrap; }
+
+// Data model diagrams share a compact width and open their SVG when selected.
+.content img.model-diagram { width: 50%; max-width: 50%; height: auto; }

@@ -84,7 +84,13 @@ CONTENTS
  
 
 4. EXECUTIVE COMMITTEE  
-    The voting officers of the Executive Committee shall be the Chair, a Vice-Chair and the Secretary General. The past chair will ordinarily become consultant ex-officio member of the Executive Committee.  All officers serve in an individual capacity. The other officers shall serve as advisors to the Chair and assist him/her in the performance of his/her duties. The Chair and Secretary General are responsible for its daily operation, in accordance with these statutes.  The ICS Executive Committee appoints two positions of special service to ICS: the Informatics Officer and the Graphics Officer.  These appointments are for 4-year terms that coincide with those of the Executive officers and are renewable.
+    The voting officers of the Executive Committee shall be the Chair, a Vice-Chair and the Secretary General. The past
+    chair will ordinarily become consultant ex-officio member of the Executive Committee. All officers serve in an
+    individual capacity. The other officers shall serve as advisers to the Chair and assist him/her in the performance of
+    his/her duties. The Chair and Secretary General are responsible for its daily operation, in accordance with these
+    statutes. The ICS Executive Committee appoints two positions of special service to ICS: the Informatics Officer and
+    the Graphics Officer. These appointments are for 4-year terms that coincide with those of the Executive officers and
+    are renewable.
 
     4.1 Chair
 
@@ -276,7 +282,11 @@ CONTENTS
 
     The Voting Commission of ICS shall meet during the International Geological Congress.  Additional formal meetings of the Voting Commission may be called by the Chair of ICS with the advice of the Executive Committee.  Formal meetings of ICS that attain a quorum of at least 60% can arrange in-session ballots.  
     
-    All Subcommissions shall endeavor to hold at least one meeting during each International Geological Congress.  They are encouraged to organise additional meetings during major international conferences on their field of scientific expertise. Task Groups are also encouraged to have formal meetings during each International Geological Congress, and organise additional meetings during major international conferences on their field of scientific expertise.  Formal meetings of Subcommissions and Task Groups that attain a quorum of at least 60% can arrange in-session ballots.
+    All Subcommissions shall endeavour to hold at least one meeting during each International Geological Congress. They
+    are encouraged to organise additional meetings during major international conferences on their field of scientific
+    expertise. Task Groups are also encouraged to have formal meetings during each International Geological Congress, and
+    organise additional meetings during major international conferences on their field of scientific expertise. Formal
+    meetings of Subcommissions and Task Groups that attain a quorum of at least 60% can arrange in-session ballots.
 
 
 13. ANNUAL REPORTS

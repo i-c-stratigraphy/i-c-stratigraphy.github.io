@@ -11,28 +11,33 @@ permalink: /gbdb
 </div>
 
 The Geobiodiversity Database (GBDB) is the formal database of the International Commission on Stratigraphy (ICS).  First established in In 2012, it is based at the Chinese Academy of Sciences’ Nanjing Institute of Geology and Palaeontology (NIGP).  The project and its website are directed by Dr Hua Zhang. The new website of GBDB was launched on 27.5.20 at <http://geobiodiversity.com/>.
- 
+
 Since 2021, the GBDB, supported by technician Mr. Chen Yan-Sen, surveyed the usage and collected feedback from the users of the GBDB. This was used as a basis for redesigning and developing both the database and website. The updates and new features of the GBDB version 3.0 include:
 
-#### 1. Optimization of Fossil Occurrence Data Download Function
+#### 1. Optimisation of Fossil Occurrence Data Download Function
 
 The fossil occurrence data download functionality has been redesigned to ensure that the downloaded data is consistent with the PBDB database format. This allows for easy integration with popular international analysis tools, such as R. Under the same search conditions, users can download "occurrences," "collections," and corresponding "geological strata" (stratigraphic information) separately. 
 
-#### 2. Data Entry Interface Optimization
+#### 2. Data Entry Interface Optimisation
 
-By testing the functions in data entry interface, the data optimization working team discussed and patched bugs and issues, and data entry work has now been partially restored in the new GBDB website.
+By testing the functions in data entry interface, the data optimisation working team discussed and patched bugs and
+issues, and data entry work has now been partially restored in the new GBDB website.
 
 #### 3. New Main Page Search Pinning Function 
 
-In the new GBDB website, the system can support the search for profile information in real-time, while period searches will remain in the original "time wheel" interface. However, the website currently only includes paleogeographic maps for the Cambrian to Triassic period, so only these data can be pinned on the map in real-time.
+In the new GBDB website, the system can support the search for profile information in real-time, while period searches
+will remain in the original "time wheel" interface. However, the website currently only includes palaeogeographic maps
+for the Cambrian to Triassic period, so only these data can be pinned on the map in real-time.
 
 #### 4. New Taxa Relation Feature 
 
 The "taxa relation" feature has been added in the data entry system. This function improves upon the original code. 
 
-#### 5. New TSCreator Visualization Feature 
+#### 5. New TSCreator Visualisation Feature
 
-The new GBDB website has integrated the TSCreator visualization tool, allowing for visualizations of lithological columns and fossil timelines for any profile. TSCreator was previously available on the old website but was not transferred to the new site at launch. The feature has now been successfully implemented.
+The new GBDB website has integrated the TSCreator visualisation tool, allowing for visualisations of lithological columns
+and fossil timelines for any profile. TSCreator was previously available on the old website but was not transferred to
+the new site at launch. The feature has now been successfully implemented.
 
 #### 6. New Sinocor Function 
 
@@ -42,7 +47,7 @@ The Sinocor export feature has been restored from the old website. Sinocor is a 
 
 In addition to restoring the Sinocor export function, the download format has been redesigned to directly interface with CONOP software. This gives users two workflows for stratigraphic comparison analysis: one involves exporting Sinocor data, converting it into a CONOP-compatible format, and using Sinocor for data quality control; the other involves directly exporting CONOP files, which is simpler but requires more reliance on the GBDB website for data quality control.
 
-#### 8. Review Interface Optimization 
+#### 8. Review Interface Optimisation
 
 The "Main Lithology" field was missing from the "unit" review interface, preventing proper review of lithological data. Additionally, the review interface did not display all lithology information when there were more than two entries. These issues have now corrected to ensure the review interface is consistent with the data entry interface.
 
