@@ -3,16 +3,9 @@ layout: page
 title: "Stratigraphy Overarching Data Model"
 permalink: /supermodel
 ---
-# ICS Supermodel
+# Data Models
 
-> WARNING
-> 
-> This page and all the information about the ICS Supermodel is in an early phase of development.
-> 
-> This work was formally unveiled at the [STRATI 2026](https://strati2026.org/) conference in July 2026.
-{: .warning}
-
-Last updated: 2026-07-01 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
+Last updated: 2026-11-04 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730)
 
 1. [Abstract](#abstract)
 2. [Motivation](#motivation)
@@ -42,12 +35,10 @@ Last updated: 2026-07-01 by [Nicholas Car](https://orcid.org/0000-0002-8742-7730
 <a id="abstract"></a>
 ## 1. Abstract
 
-The ICS Stratigraphy 'Supermodel' is an information model covering many aspects of
-the stratigraphy domain as characterised by the International Commission on Stratigraphy (ICS).
+The ICS' data models work together under a stratigraphy 'Supermodel' which is a multi-model integration regime.
 
-It is made to allow for the growth of formal data definitions within the stratigraphy domain with the side benefits of
-allowing for the integration of data both across distinct aspects of the domain and also for
-data outside the domain, such as broader geological data, to be joined with it.
+Domain models are made separately to allow for different development cycles and specialisations however they are designed
+with integration in mind and share 'touch points' and background data patterns, allowing for their combined use.
 
 <a id="motivation"></a>
 ## 2. Motivation
