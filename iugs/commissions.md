@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Commissions"
+---
 ## International Commission on Stratigraphy (ICS)
 <https://stratigraphy.org>
 

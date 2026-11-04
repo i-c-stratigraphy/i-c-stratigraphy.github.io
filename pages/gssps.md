@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "GSSPS"
 permalink: /gssps-old
 ---
 # GSSPS

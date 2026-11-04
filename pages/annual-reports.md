@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Annual Reports"
 permalink: /annual-reports
 ---
 # Annual Reports

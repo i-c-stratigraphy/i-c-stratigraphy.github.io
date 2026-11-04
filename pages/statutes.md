@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Statutes & Guidelines"
 permalink: /statutes
 ---
 # Statutes & Guidelines

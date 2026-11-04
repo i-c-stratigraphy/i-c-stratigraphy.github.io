@@ -5,7 +5,7 @@ permalink: /gbdb
 ---
 # Geobiodiversity Database
 
-<div style="text-align:center;">
+<div class="has-text-centered">
 <a href="http://geobiodiversity.com"><img src="images/GBDBlinkright.png" alt="Geobiodiversity Database logo"></a>
 <a href="http://geobiodiversity.com"><img src="images/logo-gbdb.png" alt="Geobiodiversity Database logo"></a>
 </div>

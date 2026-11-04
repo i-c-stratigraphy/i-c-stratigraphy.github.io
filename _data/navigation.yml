@@ -1,0 +1,38 @@
+- name: About ICS
+  link: /executive
+  dropdown:
+    - name: Executive
+      link: /executive
+    - name: Subcommissions
+      link: /subcommissions
+    - name: Statutes & Guidelines
+      link: /statutes
+    - name: Prizes
+      link: /prizes
+- name: Stratigraphy
+  link: /chart
+  dropdown:
+    - name: Chart / Time Scale
+      link: /chart
+    - name: Correlation Tables
+      link: /correlations
+    - name: GSSPs
+      link: /gssps/
+    - name: ICS Supermodel
+      link: /supermodel
+    - name: Stratigraphic Guide
+      link: /guide/
+- name: Resources
+  link: /publications
+  dropdown:
+    - name: Annual Reports
+      link: /annual-reports
+    - name: Geobiodiversity Database
+      link: /gbdb
+    - name: Publications
+      link: /publications
+    - name: Links
+      link: /links
+- name: Chart
+  link: /chart
+  highlight: true

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Home"
+title: "Stratigraphic Guide"
 permalink: /guide-old
 ---
 # Stratigraphic Guide
 
-<img src="/images/guide.jpg" border="0" width="561" height="401" style="display: block; margin-left: auto; margin-right: auto;" usemap="#guide" />
+<img src="/images/guide.jpg" border="0" width="561" height="401" class="is-block mx-auto" usemap="#guide" />
 <map name="guide"> 
     <area shape="RECT" coords="294,354,423,399" href="/guide/uncon" alt="unconformity bounded units" />
     <area shape="RECT" coords="128,354,261,399" href="/guide/rel" alt="relation between stratigraphic units" />

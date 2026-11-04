@@ -1,0 +1,67 @@
+name: Publish current site and legacy archive
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: stratigraphy-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the current website
+        uses: actions/checkout@v4
+      - name: Check out the last published original website
+        uses: actions/checkout@v4
+        with:
+          ref: ffa7a0f9baa4a77b5c4d9cf674eb887e1fecf38c
+          path: legacy-source
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+      - name: Build the current website at the root
+        run: bundle exec jekyll build --strict_front_matter --destination current-site
+        env:
+          JEKYLL_ENV: production
+      - name: Build the legacy website
+        run: |
+          ruby -ryaml -e 'c = YAML.load_file("legacy-source/_config.yml"); c.delete("theme"); c["exclude"] = %w[README.md vendor scripts]; File.write("/tmp/legacy-config.yml", c.to_yaml)'
+          bundle exec jekyll build --strict_front_matter --source legacy-source --config /tmp/legacy-config.yml --destination legacy-site
+        env:
+          JEKYLL_ENV: production
+      - name: Test URL rebasing and assembly
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Verify current page routes and theme
+        run: |
+          mv current-site _site
+          python3 scripts/check_site.py
+          mv _site current-site
+      - name: Combine sites
+        run: python3 scripts/assemble_pages.py current-site legacy-site _site
+      - name: Upload combined Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

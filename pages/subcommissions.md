@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Subcommissions"
 permalink: /subcommissions
 ---
 # Subcommissions
@@ -67,7 +67,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-bizan.gif" alt="" />
@@ -81,7 +81,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="cryogenian"></a>Subcommission on Cryogenian Stratigraphy
 [Homepage](https://cryogenian.stratigraphy.org)
@@ -109,7 +109,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-shields-zhou.jpg" alt="" />
@@ -122,7 +122,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="ediacaran"></a>Subcommission on Ediacaran Stratigraphy
 [Homepage](https://ediacaran.stratigraphy.org/)
@@ -153,7 +153,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-warren.jpg" alt="" />
@@ -167,7 +167,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="cambrian"></a>Subcommission on Cambrian Stratigraphy
 [Homepage](https://cambrian.stratigraphy.org/)
@@ -197,7 +197,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-betts.jpg" alt="" />
@@ -214,7 +214,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 <div class="person">
-    <!-- <div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>-->
+
     <img src="/images/person-streng.jpg" alt="" />
     <h4>Webmaster: Michael Streng</h4>
     <p>
@@ -227,7 +227,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="ordovician"></a>Subcommission on Ordovician Stratigraphy
 [Homepage](https://ordovician.stratigraphy.org/)
@@ -285,7 +285,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-wenhui-wang.jpg" alt="Lefebvre" />
@@ -312,7 +312,7 @@ The seventeen subject subcommissions of ICS are:
 </div>
 
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="silurian"></a>Subcommission on Silurian Stratigraphy
 [Homepage](https://silurian.stratigraphy.org/)
@@ -340,7 +340,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-jarochowska.jpg" alt="" />
@@ -364,7 +364,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="devonian"></a>Subcommission on Devonian Stratigraphy
 [Homepage](https://devonian.stratigraphy.org/)
@@ -393,7 +393,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-jansen.jpg" alt="" />
@@ -423,7 +423,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-gouwy.jpg" alt="" />
@@ -437,7 +437,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="carboniferous"></a>Subcommission on Carboniferous Stratigraphy
 [Homepage](https://carboniferous.stratigraphy.org/)
@@ -465,7 +465,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-denayer.jpg" alt="" />
@@ -480,7 +480,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="permian"></a>Subcommission on Permian Stratigraphy
 [Homepage](https://permian.stratigraphy.org/)
@@ -524,7 +524,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="triassic"></a>Subcommission on Triassic Stratigraphy
 [Homepage](https://triassic.stratigraphy.org/)
@@ -550,7 +550,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-sun.jpg" alt="" />
@@ -563,7 +563,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="jurassic"></a>Subcommission on Jurassic Stratigraphy
 [Homepage](https://jurassic.stratigraphy.org/)
@@ -592,7 +592,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-pandey.jpg" alt="" />
@@ -619,7 +619,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="cretaceous"></a>Subcommission on Cretaceous Stratigraphy
 
@@ -677,7 +677,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="paleogene"></a>Subcommission on Paleogene Stratigraphy
 [Homepage](https://www.paleogene.org/)
@@ -718,7 +718,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="neogene"></a>Subcommission on Neogene Stratigraphy
 [Homepage](https://neogene.stratigraphy.org/)
@@ -759,7 +759,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="quaternary"></a>Subcommission on Quaternary Stratigraphy
 [Homepage](https://quaternary.stratigraphy.org/)
@@ -790,7 +790,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-marret-davies.jpg" alt="" />
@@ -804,7 +804,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="classification"></a>Subcommission on Stratigraphic Classification
 [Homepage](https://stratigraphic-classification.stratigraphy.org/)
@@ -834,11 +834,11 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-larmagnat.jpg" alt="" />
-    <!--<div style="display:block; height:235px; width:225px; border:solid 2px grey; background-color:lightgrey; margin:0 0 5px 40px;"></div>-->
+
     <h4>Secretary: Stéphanie Larmagnat</h4>
     <p>
         Adjunct Professor: INRS-ETE<br />
@@ -850,7 +850,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 ## <a id="calibration"></a>Subcommission on Timescale Calibration
 [Homepage](https://timescale-calibration.stratigraphy.org)
@@ -877,7 +877,7 @@ The seventeen subject subcommissions of ICS are:
     </p>
 </div>
 
-<div style="clear:both;"></div>
+<div class="is-clearfix"></div>
 
 <div class="person">
     <img src="/images/person-dasilva.jpg" alt="" />

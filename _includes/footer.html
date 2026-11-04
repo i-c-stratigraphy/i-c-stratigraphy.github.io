@@ -1,0 +1,16 @@
+<footer class="footer">
+  <div class="container content has-text-centered">
+    <nav aria-label="Footer navigation">
+      <p class="ics-footer-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% for item in site.data.navigation %}
+          <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+          {% for subitem in item.dropdown %}
+            <a href="{{ subitem.link | relative_url }}">{{ subitem.name }}</a>
+          {% endfor %}
+        {% endfor %}
+      </p>
+    </nav>
+    <p>&copy; 2013–{{ site.time | date: '%Y' }} International Commission on Stratigraphy, all rights reserved.</p>
+  </div>
+</footer>

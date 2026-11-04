@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Flagship Activities"
+---
 ### Decoding an evolving Earth
 
 The [International Commission on Stratigraphy (ICS)](https://stratigraphy.org) is the largest and oldest constituent scientific body in the IUGS. Its primary objective is to precisely define global units (systems, series, and stages) of the International Chronostratigraphic Chart that, in turn, are the basis for the units (periods, epochs, and age) of the International Geologic Time Scale; thus setting global standards for the fundamental scale for expressing the history of the Earth. Over the past decades the ICS has, amongst other things, produced the [International Chronostratigraphic Chart](https://stratigraphy.org/chart), [Global Stratotype Section and Point (GSSP)](https://stratigraphy.org/gssps/), Global chronostratigraphical correlation tables for the last 2.7 million years, Ordovician Chronostratigraphic Chart, Ordovician Carbon Isotope Curve, [Permian Time Scale](https://permian.stratigraphy.org/timescale). 
