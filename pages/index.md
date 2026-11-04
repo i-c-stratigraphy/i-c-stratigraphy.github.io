@@ -24,6 +24,7 @@ permalink: /
 
 ## News
 
+* [New website theme](news/158) [04-11-2026]
 * [ICS Supermodel Unveiled](news/157) [01-07-2026]
 * [Chart update 2026/06](news/156) [20-06-2026]
 * [ICS Prizes for 2023](news/155) [15-10-2025]
