@@ -10,3 +10,7 @@ vendor
 
 # Mac indexes
 .DS_Store
+
+# Local tooling and generated files
+__pycache__/
+*.py[cod]
