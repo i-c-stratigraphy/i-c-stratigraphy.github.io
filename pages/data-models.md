@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Stratigraphy Overarching Data Model"
-permalink: /supermodel
+permalink: /data-models
+redirect_from:
+  - /supermodel
 ---
 # Data Models
 
