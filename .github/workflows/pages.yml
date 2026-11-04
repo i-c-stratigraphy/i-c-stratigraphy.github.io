@@ -18,9 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the current website
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Check out the last published original website
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ffa7a0f9baa4a77b5c4d9cf674eb887e1fecf38c
           path: legacy-source
@@ -49,7 +49,7 @@ jobs:
       - name: Combine sites
         run: python3 scripts/assemble_pages.py current-site legacy-site _site
       - name: Upload combined Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
   deploy:
@@ -63,5 +63,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
         id: deployment
