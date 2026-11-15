@@ -25,6 +25,9 @@
 - name: Resources
   link: /publications
   dropdown:
+    - name: News
+      link: /news/
+      news: true
     - name: Annual Reports
       link: /annual-reports
     - name: Geobiodiversity Database

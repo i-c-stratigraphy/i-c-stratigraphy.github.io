@@ -44,12 +44,24 @@
                                 </a>
                                 <div class="navbar-dropdown">
                                     {% for subitem in item.dropdown %}
+                                        {% if subitem.news %}
+                                            <details class="ics-news-menu">
+                                                <summary class="navbar-item ics-news-trigger">
+                                                    {{ subitem.name }} <span aria-hidden="true">›</span>
+                                                </summary>
+                                                <nav class="ics-news-dropdown" aria-label="News items">
+                                                    <a href="{{ subitem.link | relative_url }}" class="navbar-item">All news</a>
+                                                    {% include news-items.html link_class="navbar-item" %}
+                                                </nav>
+                                            </details>
+                                        {% else %}
                                         <a
                                             href="{{ subitem.link | relative_url }}"
                                             class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}"
                                         >
                                             {{- subitem.name -}}
                                         </a>
+                                        {% endif %}
                                     {% endfor %}
                                 </div>
                             </div>

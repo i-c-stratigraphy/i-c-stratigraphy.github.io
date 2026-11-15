@@ -95,3 +95,21 @@ a:focus-visible { outline: 3px solid $ics-quaternary; outline-offset: 3px; }
 
 // Data model diagrams share a compact width and open their SVG when selected.
 .content img.model-diagram { width: 50%; max-width: 50%; height: auto; }
+
+// Native disclosure keeps the news submenu operable with a keyboard or touch.
+.navbar-item.has-dropdown:focus-within > .navbar-dropdown { display: block; }
+.ics-news-menu { position: relative; }
+.ics-news-trigger { cursor: pointer; list-style: none; justify-content: space-between; gap: 1rem; }
+.ics-news-trigger::-webkit-details-marker { display: none; }
+.ics-news-trigger:hover, .ics-news-menu[open] > .ics-news-trigger { background: $ics-quaternary; color: #242424; }
+.ics-news-menu[open] > .ics-news-trigger span { transform: rotate(90deg); }
+.ics-news-dropdown {
+  position: absolute; top: 0; left: 100%; z-index: 30;
+  width: min(24rem, 45vw); max-height: min(70vh, 32rem); overflow-y: auto;
+  background: #fff; border-radius: 6px; box-shadow: 0 8px 16px #0002; padding-block: .5rem;
+}
+.ics-news-dropdown .navbar-item { white-space: normal; }
+.ics-news-dropdown .ics-news-items { list-style: none; padding: 0; margin: 0; }
+@media (max-width: 1023px) {
+  .ics-news-dropdown { position: static; width: 100%; max-height: 50vh; box-shadow: none; padding-left: 1rem; }
+}
