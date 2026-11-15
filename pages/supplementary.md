@@ -19,23 +19,15 @@ As announced before (see [Episodes 48](https://doi.org/10.18814/epiiugs/2025/025
 
 The ICS’ digital and graphic officer are integrating their data and charts so that human and computer-to-computer use will share a single point of truth.
 
-The main chart is now computer-generated, from data. The version number is 2024/12.
+The main chart is now computer-generated, from data. The version number is 2026/06.
 
 See [Accessing the Chart's Data](#data) below to access the underlying data.
 
-The manually produced graphic chart for 2024/12 remains available, in archived form, see [Current Chart - Static](#current) below. The same holds for earlier manually produced charts and translations, see [Translations & Old Versions](#translations), also below.
+A manually produced graphic chart for 2026/06 is also available, see [Current Chart - Static](#current) below, as well as manually-produced translations of this version as they become available and many older versions' translations.
 
 #### Planned Updates
 
-In late 2025, the ICS will be extending this data file to include:
-
-* tweaks to the PDF graphics
-    * Font size of chart and column headers
-    * Subseries indication
-* more temporal relations
-    * as per the more sophisticated [Geological Timescale](http://resource.geosciml.org/vocabulary/timescale/gts2020), which is being updated to 2024
-* translation quality control and inclusion of further languages
-    * validated against the archive of past translations (below)
+As of lat 2026, we have refined the styling of the auto-generated versions of the chart but are now working on improving the translations' language, in particular the use of gendered terms for "upper" , "middle", "lower" / "late", "middle", "early" adjectives for languages that make such distinctions.
 
 
 <a id="current"></a>
