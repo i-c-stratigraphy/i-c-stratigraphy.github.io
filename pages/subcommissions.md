@@ -527,7 +527,7 @@ The seventeen subject subcommissions of ICS are:
 <div class="is-clearfix"></div>
 
 ## <a id="triassic"></a>Subcommission on Triassic Stratigraphy
-[Homepage](https://triassic.stratigraphy.org/)
+[Homepage](https://albertiana-sts.org/subcommission/)
 <div class="person">
     <img src="/images/person-chen3.jpg" alt="" />
     <h4>Chair: Zhong-Qiang Chen</h4>
