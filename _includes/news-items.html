@@ -1,0 +1,10 @@
+{% assign news_items = site.pages | where_exp: "entry", "entry.path contains 'news/'" | sort: "name" | reverse %}
+<ul class="ics-news-items">
+  {% for entry in news_items %}
+    {% assign label = entry.title %}
+    {% if label == 'News' or label == nil or label == '' %}
+      {% assign label = entry.content | markdownify | split: '</h' | first | strip_html | strip %}
+    {% endif %}
+    <li><a href="{{ entry.url | relative_url }}" class="{{ include.link_class }}">{{ label | escape }}</a></li>
+  {% endfor %}
+</ul>
